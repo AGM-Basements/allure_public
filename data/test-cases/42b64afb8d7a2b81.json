@@ -1,0 +1,68 @@
+{
+  "uid" : "42b64afb8d7a2b81",
+  "name" : "\"after all\" hook for C10: The scheduler can edit an existing configuration.",
+  "fullName" : "C10: The scheduler can edit an existing configuration..\"after all\" hook for C10: The scheduler can edit an existing configuration.",
+  "historyId" : "ba565a428a95bd16324cb7f7f3c18ba",
+  "time" : {
+    "start" : 1653495789915,
+    "stop" : 1653495796825,
+    "duration" : 6910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C10.spec.ts:73:57)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "package",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "42b64afb8d7a2b81.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

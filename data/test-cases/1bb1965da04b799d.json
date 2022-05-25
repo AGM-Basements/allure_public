@@ -1,0 +1,68 @@
+{
+  "uid" : "1bb1965da04b799d",
+  "name" : "\"after all\" hook for C54: The scheduler can delete areas at existing configuration.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration..\"after all\" hook for C54: The scheduler can delete areas at existing configuration.",
+  "historyId" : "23ab88f680777226735b828f351358c7",
+  "time" : {
+    "start" : 1653495888296,
+    "stop" : 1653495896067,
+    "duration" : 7771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C54.spec.ts:74:57)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1bb1965da04b799d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

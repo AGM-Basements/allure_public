@@ -1,0 +1,62 @@
+{
+  "uid" : "4d4d8c3415e63f9b",
+  "name" : "Should edit created input from form structure",
+  "fullName" : "C17: The scheduler can edit an existing input form..Should edit created input from form structure",
+  "historyId" : "176ed062e8895e01c8ab54b3b2ff5110",
+  "time" : {
+    "start" : 1653495686801,
+    "stop" : 1653495690060,
+    "duration" : 3259
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input form."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input form."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input form."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d4d8c3415e63f9b.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

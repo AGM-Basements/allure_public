@@ -6,13 +6,13 @@
       "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
       "children" : [ {
         "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-        "uid" : "3743a5b4e56cb757",
+        "uid" : "b6e5e4ed9f1cf017",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653493335343,
-          "stop" : 1653493373640,
-          "duration" : 38297
+          "start" : 1653495572072,
+          "stop" : 1653495608797,
+          "duration" : 36725
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,115 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
         "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-        "uid" : "42b3f745cc176786",
+        "uid" : "89476d59e2923466",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653493375475,
-          "stop" : 1653493410876,
-          "duration" : 35401
+          "start" : 1653495610492,
+          "stop" : 1653495645241,
+          "duration" : 34749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C10: The scheduler can edit an existing configuration.",
+        "uid" : "42b64afb8d7a2b81",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495789915,
+          "stop" : 1653495796825,
+          "duration" : 6910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C14: The scheduler can add a configuration with certain date for the United States of America country.",
+        "uid" : "784a973e638ed832",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495828408,
+          "stop" : 1653495835304,
+          "duration" : 6896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C54: The scheduler can delete areas at existing configuration.",
+        "uid" : "1bb1965da04b799d",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495888296,
+          "stop" : 1653495896067,
+          "duration" : 7771
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should edit newly created area name.",
+        "uid" : "361885d2120f8914",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495897698,
+          "stop" : 1653495909144,
+          "duration" : 11446
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C55: The scheduler can edit areas at existing configuration.",
+        "uid" : "5fb0b1ba1171de84",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495909144,
+          "stop" : 1653495916432,
+          "duration" : 7288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C56: Creating configurations for subsequent years.",
+        "uid" : "85b50ec843b3c41a",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653495924344,
+          "stop" : 1653495930917,
+          "duration" : 6573
         },
         "flaky" : false,
         "newFailed" : false,
