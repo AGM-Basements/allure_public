@@ -5,14 +5,31 @@
     "children" : [ {
       "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
       "children" : [ {
-        "name" : "Should edit newly created configuration.",
-        "uid" : "67f76a8f52b1e8ee",
+        "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
+        "uid" : "3743a5b4e56cb757",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653468792583,
-          "stop" : 1653468802847,
-          "duration" : 10264
+          "start" : 1653493335343,
+          "stop" : 1653493373640,
+          "duration" : 38297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
+        "uid" : "42b3f745cc176786",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653493375475,
+          "stop" : 1653493410876,
+          "duration" : 35401
         },
         "flaky" : false,
         "newFailed" : false,
