@@ -1,0 +1,62 @@
+{
+  "uid" : "6296749ae450a44a",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "C14: The scheduler can add a configuration with certain date for the United States of America country..Should set filters as you set for scheduling date.",
+  "historyId" : "61c8628449747c2069539f7bc1adba70",
+  "time" : {
+    "start" : 1653468837785,
+    "stop" : 1653468844791,
+    "duration" : 7006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testClass",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters as you set for scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6296749ae450a44a.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

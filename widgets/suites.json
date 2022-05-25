@@ -1,8 +1,8 @@
 {
   "total" : 29,
   "items" : [ {
-    "uid" : "e5bf3e80df03d472d0f1310bb4ce625c",
-    "name" : "C29: The scheduler can add a new column.",
+    "uid" : "bbb5e247dfa0881bc143c6e041797f83",
+    "name" : "C10: The scheduler can edit an existing configuration.",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,

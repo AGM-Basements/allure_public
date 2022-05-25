@@ -1,0 +1,52 @@
+{
+  "uid" : "d39611205bef4ac0",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\"..Should click the \"Update Schedule\" button.",
+  "historyId" : "9b8a7820371f738ce87a35bb0bec674f",
+  "time" : {
+    "start" : 1653468662932,
+    "stop" : 1653468662932,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d39611205bef4ac0.json",
+  "parameterValues" : [ ]
+}

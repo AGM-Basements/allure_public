@@ -3,16 +3,16 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: false\n                Received: true",
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
       "children" : [ {
-        "name" : "Should verify that input without type cannot be created",
-        "uid" : "5e3fea66163ce11c",
-        "parentUid" : "19a176217a26805f0d44bbfda36ce55c",
+        "name" : "Should edit newly created configuration.",
+        "uid" : "67f76a8f52b1e8ee",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653466829932,
-          "stop" : 1653466833846,
-          "duration" : 3914
+          "start" : 1653468792583,
+          "stop" : 1653468802847,
+          "duration" : 10264
         },
         "flaky" : false,
         "newFailed" : false,
@@ -22,7 +22,7 @@
         "retriesStatusChange" : false,
         "parameters" : [ "chrome-101.0.4951.64" ]
       } ],
-      "uid" : "19a176217a26805f0d44bbfda36ce55c"
+      "uid" : "e70bda2354db250335a96ac2a7d6c956"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],
