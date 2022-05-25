@@ -1,0 +1,62 @@
+{
+  "uid" : "3f349bbb6e55c17c",
+  "name" : "Should verify that input is deleted in reserve form",
+  "fullName" : "C19: The scheduler can delete input form for an existing column..Should verify that input is deleted in reserve form",
+  "historyId" : "5deffd554affc6415d317533c9b93da8",
+  "time" : {
+    "start" : 1653466791021,
+    "stop" : 1653466794089,
+    "duration" : 3068
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete input form for an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete input form for an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input is deleted in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete input form for an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f349bbb6e55c17c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

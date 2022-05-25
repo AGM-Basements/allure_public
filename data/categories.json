@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: false\n                Received: true",
+      "children" : [ {
+        "name" : "Should verify that input without type cannot be created",
+        "uid" : "5e3fea66163ce11c",
+        "parentUid" : "19a176217a26805f0d44bbfda36ce55c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653466829932,
+          "stop" : 1653466833846,
+          "duration" : 3914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "19a176217a26805f0d44bbfda36ce55c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
