@@ -1,0 +1,86 @@
+{
+  "uid" : "f0f4a281abef74bb",
+  "name" : "Should try to add configuration.",
+  "fullName" : "C31: The sales manager can't add a new configuration..Should try to add configuration.",
+  "historyId" : "54b3b2cb2c2891fbb41e8480d134010f",
+  "time" : {
+    "start" : 1653556321853,
+    "stop" : 1653556326210,
+    "duration" : 4357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Access denied\"\n                Received: \"\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Access denied\"\n                Received: \"\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C31.spec.ts:42:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Access denied\"\n                Received: \"\"",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Access denied\"\n                Received: \"\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C31.spec.ts:42:57)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce831781ea4c147d",
+      "name" : "Screenshot",
+      "source" : "ce831781ea4c147d.png",
+      "type" : "image/png",
+      "size" : 34433
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-24"
+  }, {
+    "name" : "suite",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add configuration."
+  }, {
+    "name" : "package",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f0f4a281abef74bb.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

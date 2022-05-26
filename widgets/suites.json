@@ -23,8 +23,8 @@
       "total" : 3
     }
   }, {
-    "uid" : "cda7c0dae36a07bd3db34063997cfec9",
-    "name" : "C56: Creating configurations for subsequent years.",
+    "uid" : "4e595816aec1890200354df51df33b46",
+    "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
@@ -34,19 +34,19 @@
       "total" : 3
     }
   }, {
-    "uid" : "4e595816aec1890200354df51df33b46",
-    "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
+    "uid" : "a82aa8e6e82d389aca3959a7b0692d7f",
+    "name" : "C8: The scheduler can add a date for Canada country.",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 3
     }
   }, {
-    "uid" : "a82aa8e6e82d389aca3959a7b0692d7f",
-    "name" : "C8: The scheduler can add a date for Canada country.",
+    "uid" : "cda7c0dae36a07bd3db34063997cfec9",
+    "name" : "C56: Creating configurations for subsequent years.",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
