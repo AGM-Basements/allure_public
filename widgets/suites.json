@@ -1,6 +1,28 @@
 {
-  "total" : 33,
+  "total" : 35,
   "items" : [ {
+    "uid" : "62260e6c8d39482ddb75e1d94a9827a6",
+    "name" : "C40: The scheduler can delete an existing project",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "1ad92b88f3e578a62f17c88ce68ec2e3",
+    "name" : "C21: Filtering configurations by country and region.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "e34d7f52e159a929ae84c3d58023a6a1",
     "name" : "C15: The scheduler can add a new column.",
     "statistic" : {
@@ -80,28 +102,6 @@
   }, {
     "uid" : "4e595816aec1890200354df51df33b46",
     "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "cda7c0dae36a07bd3db34063997cfec9",
-    "name" : "C56: Creating configurations for subsequent years.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "a82aa8e6e82d389aca3959a7b0692d7f",
-    "name" : "C8: The scheduler can add a date for Canada country.",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
