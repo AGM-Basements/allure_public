@@ -1,0 +1,62 @@
+{
+  "uid" : "16aa035b9d144adb",
+  "name" : "Should verify that input without type cannot be created.",
+  "fullName" : "C29: The scheduler can add a new column..Should verify that input without type cannot be created.",
+  "historyId" : "8c8b925f4d018f8ef375b6aba98e68e9",
+  "time" : {
+    "start" : 1653568392058,
+    "stop" : 1653568395558,
+    "duration" : 3500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C29: The scheduler can add a new column."
+  }, {
+    "name" : "testClass",
+    "value" : "C29: The scheduler can add a new column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input without type cannot be created."
+  }, {
+    "name" : "package",
+    "value" : "C29: The scheduler can add a new column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16aa035b9d144adb.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
