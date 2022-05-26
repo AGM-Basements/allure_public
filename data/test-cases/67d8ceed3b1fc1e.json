@@ -1,0 +1,62 @@
+{
+  "uid" : "67d8ceed3b1fc1e",
+  "name" : "Should reserve project for 2022-08-22 configuration with testtdbnr slot name.",
+  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".Should reserve project for 2022-08-22 configuration with testtdbnr slot name.",
+  "historyId" : "d47df2fb3f063859eced5302edcb7be2",
+  "time" : {
+    "start" : 1653559070604,
+    "stop" : 1653559090882,
+    "duration" : 20278
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "testClass",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should reserve project for 2022-08-22 configuration with testtdbnr slot name."
+  }, {
+    "name" : "package",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67d8ceed3b1fc1e.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

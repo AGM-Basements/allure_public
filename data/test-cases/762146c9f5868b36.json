@@ -1,0 +1,62 @@
+{
+  "uid" : "762146c9f5868b36",
+  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "fullName" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server..Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "historyId" : "cecf444c7cd28f2144187e745fd25dfc",
+  "time" : {
+    "start" : 1653558979262,
+    "stop" : 1653558981120,
+    "duration" : 1858
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testClass",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button."
+  }, {
+    "name" : "package",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "762146c9f5868b36.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

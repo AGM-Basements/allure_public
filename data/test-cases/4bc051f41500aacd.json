@@ -1,0 +1,62 @@
+{
+  "uid" : "4bc051f41500aacd",
+  "name" : "delete edited project oh1bmproject.",
+  "fullName" : "C28: Editing an existing project name by a \"Scheduler\".delete edited project oh1bmproject.",
+  "historyId" : "78bd91688e0ee6c51524a2cc79a921a4",
+  "time" : {
+    "start" : 1653559053696,
+    "stop" : 1653559068895,
+    "duration" : 15199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testClass",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testMethod",
+    "value" : "delete edited project oh1bmproject."
+  }, {
+    "name" : "package",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bc051f41500aacd.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
