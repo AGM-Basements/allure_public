@@ -1,18 +1,60 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "helper_1.default.waitUntilPopupNotificationDisplayed is not a function",
+      "children" : [ {
+        "name" : "\"before all\" hook for C21: Filtering configurations by country and region.",
+        "uid" : "4a28517c8405a71e",
+        "parentUid" : "c64a6372cc1a69733f362d5eb41d4c34",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653554905074,
+          "stop" : 1653554911502,
+          "duration" : 6428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "c64a6372cc1a69733f362d5eb41d4c34"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
     "name" : "Product defects",
     "children" : [ {
       "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"\"",
       "children" : [ {
         "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-        "uid" : "b6e5e4ed9f1cf017",
+        "uid" : "ac2cd781efab935",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495572072,
-          "stop" : 1653495608797,
-          "duration" : 36725
+          "start" : 1653554963918,
+          "stop" : 1653554980299,
+          "duration" : 16381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"before all\" hook for C28: Editing an existing project name by a \"Scheduler\"",
+        "uid" : "381760fb911c41a6",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653554982301,
+          "stop" : 1653554997067,
+          "duration" : 14766
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +65,13 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
         "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-        "uid" : "89476d59e2923466",
+        "uid" : "802588d038ce69d1",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495610492,
-          "stop" : 1653495645241,
-          "duration" : 34749
+          "start" : 1653555022760,
+          "stop" : 1653555039853,
+          "duration" : 17093
         },
         "flaky" : false,
         "newFailed" : false,
@@ -39,14 +81,65 @@
         "retriesStatusChange" : false,
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
-        "name" : "\"after all\" hook for C10: The scheduler can edit an existing configuration.",
-        "uid" : "42b64afb8d7a2b81",
+        "name" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
+        "uid" : "9d72590f2476089e",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495789915,
-          "stop" : 1653495796825,
-          "duration" : 6910
+          "start" : 1653555041846,
+          "stop" : 1653555056533,
+          "duration" : 14687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"before all\" hook for C10: The scheduler can edit an existing configuration.",
+        "uid" : "a0b9329ad18592cb",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555200582,
+          "stop" : 1653555207018,
+          "duration" : 6436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"before all\" hook for C13: Verify that added date applied only to the selected \"project type\".",
+        "uid" : "b41d0ac1e76a0da4",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555213208,
+          "stop" : 1653555219561,
+          "duration" : 6353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should add configuration for USA.",
+        "uid" : "8431dc0b4878975e",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555227456,
+          "stop" : 1653555231912,
+          "duration" : 4456
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,13 +150,30 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
         "name" : "\"after all\" hook for C14: The scheduler can add a configuration with certain date for the United States of America country.",
-        "uid" : "784a973e638ed832",
+        "uid" : "9243c54660f28d9d",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495828408,
-          "stop" : 1653495835304,
-          "duration" : 6896
+          "start" : 1653555231912,
+          "stop" : 1653555239162,
+          "duration" : 7250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
+        "uid" : "780bee4a04d663ab",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555264578,
+          "stop" : 1653555271370,
+          "duration" : 6792
         },
         "flaky" : false,
         "newFailed" : false,
@@ -74,13 +184,13 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
         "name" : "\"after all\" hook for C54: The scheduler can delete areas at existing configuration.",
-        "uid" : "1bb1965da04b799d",
+        "uid" : "6caf917b5f41218d",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495888296,
-          "stop" : 1653495896067,
-          "duration" : 7771
+          "start" : 1653555293046,
+          "stop" : 1653555301744,
+          "duration" : 8698
         },
         "flaky" : false,
         "newFailed" : false,
@@ -90,14 +200,14 @@
         "retriesStatusChange" : false,
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
-        "name" : "Should edit newly created area name.",
-        "uid" : "361885d2120f8914",
+        "name" : "\"before all\" hook for C55: The scheduler can edit areas at existing configuration.",
+        "uid" : "aca9537992a66f38",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495897698,
-          "stop" : 1653495909144,
-          "duration" : 11446
+          "start" : 1653555303641,
+          "stop" : 1653555310246,
+          "duration" : 6605
         },
         "flaky" : false,
         "newFailed" : false,
@@ -107,14 +217,14 @@
         "retriesStatusChange" : false,
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
-        "name" : "\"after all\" hook for C55: The scheduler can edit areas at existing configuration.",
-        "uid" : "5fb0b1ba1171de84",
+        "name" : "Should add configuration to 2025-05-26.",
+        "uid" : "eb9d0eae96694d40",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495909144,
-          "stop" : 1653495916432,
-          "duration" : 7288
+          "start" : 1653555318553,
+          "stop" : 1653555322870,
+          "duration" : 4317
         },
         "flaky" : false,
         "newFailed" : false,
@@ -125,13 +235,47 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       }, {
         "name" : "\"after all\" hook for C56: Creating configurations for subsequent years.",
-        "uid" : "85b50ec843b3c41a",
+        "uid" : "37f3f7437e8d9f8b",
         "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
         "status" : "failed",
         "time" : {
-          "start" : 1653495924344,
-          "stop" : 1653495930917,
-          "duration" : 6573
+          "start" : 1653555322870,
+          "stop" : 1653555330641,
+          "duration" : 7771
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"after all\" hook for C8: The scheduler can add a date for Canada country.",
+        "uid" : "2126f41b87ef681c",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555339369,
+          "stop" : 1653555346150,
+          "duration" : 6781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+        "uid" : "835c5c4755f48630",
+        "parentUid" : "e70bda2354db250335a96ac2a7d6c956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555348099,
+          "stop" : 1653555354922,
+          "duration" : 6823
         },
         "flaky" : false,
         "newFailed" : false,
@@ -142,6 +286,27 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       } ],
       "uid" : "e70bda2354db250335a96ac2a7d6c956"
+    }, {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Access denied\"\n                Received: \"\"",
+      "children" : [ {
+        "name" : "Should try to add configuration.",
+        "uid" : "e3cf8ddf6f031df5",
+        "parentUid" : "75255f333099b45f79237945ed24d274",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653555251658,
+          "stop" : 1653555255900,
+          "duration" : 4242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "75255f333099b45f79237945ed24d274"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],

@@ -1,24 +1,24 @@
 {
-  "total" : 30,
+  "total" : 31,
   "items" : [ {
-    "uid" : "3dc639dccae0d41afe9520e1442d69ff",
-    "name" : "C55: The scheduler can edit areas at existing configuration.",
+    "uid" : "daa70a43b342a6843b94bfee27c4ff05",
+    "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "statistic" : {
       "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 2
+      "total" : 4
     }
   }, {
     "uid" : "07d1babc7bf234637521c382736536e0",
     "name" : "C14: The scheduler can add a configuration with certain date for the United States of America country.",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 3
     }
@@ -26,12 +26,56 @@
     "uid" : "cda7c0dae36a07bd3db34063997cfec9",
     "name" : "C56: Creating configurations for subsequent years.",
     "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "4e595816aec1890200354df51df33b46",
+    "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
+    "statistic" : {
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
       "unknown" : 0,
       "total" : 3
+    }
+  }, {
+    "uid" : "a82aa8e6e82d389aca3959a7b0692d7f",
+    "name" : "C8: The scheduler can add a date for Canada country.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "6556b21563954c5c0bc9279ffb7bfbcc",
+    "name" : "C28: Editing an existing project name by a \"Scheduler\"",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "529b98f35bab76ec269e77fab4256f83",
+    "name" : "C35: Creating a new project in an available slot by \"Scheduler\"",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
     }
   }, {
     "uid" : "bbb5e247dfa0881bc143c6e041797f83",
@@ -45,8 +89,8 @@
       "total" : 2
     }
   }, {
-    "uid" : "f448041f6c81322410c6ceaf791cb7ba",
-    "name" : "C54: The scheduler can delete areas at existing configuration.",
+    "uid" : "1f752e738a1729b9cf6702c7eff7aad3",
+    "name" : "C13: Verify that added date applied only to the selected \"project type\".",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -56,59 +100,15 @@
       "total" : 2
     }
   }, {
-    "uid" : "daa70a43b342a6843b94bfee27c4ff05",
-    "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
+    "uid" : "4117bdd093bc38d6bdef5742bcb5fe4a",
+    "name" : "C31: The sales manager can't add a new configuration.",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "529b98f35bab76ec269e77fab4256f83",
-    "name" : "C35: Creating a new project in an available slot by \"Scheduler\"",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "e34d7f52e159a929ae84c3d58023a6a1",
-    "name" : "C15: The scheduler can add a new column.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "d98611ceda84a89afe6b004cfa9416e4",
-    "name" : "C16: The scheduler can delete an existing column.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "65467f71a9285af330dcc535b0d07153",
-    "name" : "C17: The scheduler can edit an existing input form.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
+      "total" : 2
     }
   } ]
 }
