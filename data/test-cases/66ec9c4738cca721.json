@@ -1,0 +1,62 @@
+{
+  "uid" : "66ec9c4738cca721",
+  "name" : "Should add configuration",
+  "fullName" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year..Should add configuration",
+  "historyId" : "3a92914322e26ee010de67a687794700",
+  "time" : {
+    "start" : 1653648679877,
+    "stop" : 1653648684420,
+    "duration" : 4543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-32"
+  }, {
+    "name" : "suite",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testClass",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add configuration"
+  }, {
+    "name" : "package",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66ec9c4738cca721.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

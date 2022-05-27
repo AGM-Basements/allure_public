@@ -1,0 +1,62 @@
+{
+  "uid" : "503dd3e82e7bf96a",
+  "name" : "Should verify pop-up errors for reservation with empty input fields.",
+  "fullName" : "C52: Creating a new project in an available slot without any name and any start date.Should verify pop-up errors for reservation with empty input fields.",
+  "historyId" : "c4f5a673537a6bb744e415473d3198b",
+  "time" : {
+    "start" : 1653648397223,
+    "stop" : 1653648432052,
+    "duration" : 34829
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testClass",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify pop-up errors for reservation with empty input fields."
+  }, {
+    "name" : "package",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "503dd3e82e7bf96a.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

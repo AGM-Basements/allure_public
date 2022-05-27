@@ -1,0 +1,62 @@
+{
+  "uid" : "dda160a56f0e9eda",
+  "name" : "Should edit existing project name to q1etpproject",
+  "fullName" : "C28: Editing an existing project name by a \"Scheduler\".Should edit existing project name to q1etpproject",
+  "historyId" : "7adbf5a086fc455e049c36426e1b5d0b",
+  "time" : {
+    "start" : 1653648017767,
+    "stop" : 1653648059534,
+    "duration" : 41767
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testClass",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to q1etpproject"
+  }, {
+    "name" : "package",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda160a56f0e9eda.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

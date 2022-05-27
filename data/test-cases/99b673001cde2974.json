@@ -1,0 +1,62 @@
+{
+  "uid" : "99b673001cde2974",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C8: The scheduler can add a date for Canada country..Should click the \"Update Schedule\" button.",
+  "historyId" : "7a5e8db6e4d682b3cab6b75170e2cbda",
+  "time" : {
+    "start" : 1653648766930,
+    "stop" : 1653648768992,
+    "duration" : 2062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-37"
+  }, {
+    "name" : "suite",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "testClass",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99b673001cde2974.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
