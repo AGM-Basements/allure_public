@@ -1,12 +1,12 @@
 {
-  "uid" : "51149e33df3e35f",
-  "name" : "Should verify pop-up errors for reservation with empty input fields.",
-  "fullName" : "C52: Creating a new project in an available slot without any name and any start date.Should verify pop-up errors for reservation with empty input fields.",
-  "historyId" : "c4f5a673537a6bb744e415473d3198b",
+  "uid" : "216b8d225041c3ca",
+  "name" : "Should edit existing project name to fn0s3project",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to fn0s3project",
+  "historyId" : "36921c511fed21a0e7b803caacf53c4c",
   "time" : {
-    "start" : 1653642569087,
-    "stop" : 1653642604466,
-    "duration" : 35379
+    "start" : 1653643135869,
+    "stop" : 1653643180687,
+    "duration" : 44818
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-18"
+    "value" : "0-17"
   }, {
     "name" : "suite",
-    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should verify pop-up errors for reservation with empty input fields."
+    "value" : "Should edit existing project name to fn0s3project"
   }, {
     "name" : "package",
-    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "51149e33df3e35f.json",
+  "source" : "216b8d225041c3ca.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "2d30e625479694a6",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "fullName" : "C15: The scheduler can add a new column..Should click the \"Update Schedule\" button.",
-  "historyId" : "86fbc70ab937c1e6f280854f887504cc",
+  "uid" : "cb547b7af174bc30",
+  "name" : "Should search by date.",
+  "fullName" : "C20: Filtering configurations by date (weeks)..Should search by date.",
+  "historyId" : "db5521a56158bd71e7bb416a1093c203",
   "time" : {
-    "start" : 1653642606096,
-    "stop" : 1653642611232,
-    "duration" : 5136
+    "start" : 1653642734350,
+    "stop" : 1653642743574,
+    "duration" : 9224
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-19"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C15: The scheduler can add a new column."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "testClass",
-    "value" : "C15: The scheduler can add a new column."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "testMethod",
-    "value" : "Should click the \"Update Schedule\" button."
+    "value" : "Should search by date."
   }, {
     "name" : "package",
-    "value" : "C15: The scheduler can add a new column."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2d30e625479694a6.json",
+  "source" : "cb547b7af174bc30.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

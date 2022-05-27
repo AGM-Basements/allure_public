@@ -1,12 +1,12 @@
 {
-  "uid" : "e910743683b38ddc",
-  "name" : "Should edit existing project name to ticfiproject",
-  "fullName" : "C28: Editing an existing project name by a \"Scheduler\".Should edit existing project name to ticfiproject",
-  "historyId" : "71abcea04a5197585bf301c2b7667905",
+  "uid" : "65d2c9e1c2bbf4af",
+  "name" : "Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name.",
+  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name.",
+  "historyId" : "e3003b20995e7ee0483e926d4fe51d89",
   "time" : {
-    "start" : 1653642268398,
-    "stop" : 1653642310575,
-    "duration" : 42177
+    "start" : 1653642980273,
+    "stop" : 1653643014410,
+    "duration" : 34137
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-9"
+    "value" : "0-12"
   }, {
     "name" : "suite",
-    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "testClass",
-    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "testMethod",
-    "value" : "Should edit existing project name to ticfiproject"
+    "value" : "Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name."
   }, {
     "name" : "package",
-    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e910743683b38ddc.json",
+  "source" : "65d2c9e1c2bbf4af.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

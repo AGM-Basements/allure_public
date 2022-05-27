@@ -1,18 +1,18 @@
 {
-  "uid" : "81a5a2c5a9152d51",
-  "name" : "\"after all\" hook for C36: The sales manager can move the project to the next week",
-  "fullName" : "C36: The sales manager can move the project to the next week.\"after all\" hook for C36: The sales manager can move the project to the next week",
-  "historyId" : "febd7c515787fbbbe67cbf8b79f65a28",
+  "uid" : "80341dfab2afbd6c",
+  "name" : "\"after all\" hook for C41: The sales manager can't delete an existing project\"",
+  "fullName" : "C41: The sales manager can't delete an existing project\".\"after all\" hook for C41: The sales manager can't delete an existing project\"",
+  "historyId" : "43888981f05a1d0a30136a250066a99d",
   "time" : {
-    "start" : 1653642441645,
-    "stop" : 1653642452211,
-    "duration" : 10566
+    "start" : 1653643123412,
+    "stop" : 1653643133790,
+    "duration" : 10378
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "failed",
   "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C36.spec.ts:112:57)\n                    at runMicrotasks (<anonymous>)",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C41.spec.ts:111:57)\n                    at runMicrotasks (<anonymous>)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -29,19 +29,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-13"
+    "value" : "0-16"
   }, {
     "name" : "suite",
-    "value" : "C36: The sales manager can move the project to the next week"
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "testClass",
-    "value" : "C36: The sales manager can move the project to the next week"
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "testMethod",
-    "value" : "\"after all\" hook for C36: The sales manager can move the project to the next week"
+    "value" : "\"after all\" hook for C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "package",
-    "value" : "C36: The sales manager can move the project to the next week"
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -63,6 +63,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "81a5a2c5a9152d51.json",
+  "source" : "80341dfab2afbd6c.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

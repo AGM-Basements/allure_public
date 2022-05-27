@@ -1,12 +1,12 @@
 {
-  "uid" : "488365a4816206fc",
-  "name" : "Should search by date.",
-  "fullName" : "C20: Filtering configurations by date (weeks)..Should search by date.",
-  "historyId" : "db5521a56158bd71e7bb416a1093c203",
+  "uid" : "185c122324cd309",
+  "name" : "Should edit created project projectx0iv0",
+  "fullName" : "C36: The sales manager can move the project to the next week.Should edit created project projectx0iv0",
+  "historyId" : "29adcac5e0fe46abedeee2fbb5444de5",
   "time" : {
-    "start" : 1653642186212,
-    "stop" : 1653642194294,
-    "duration" : 8082
+    "start" : 1653643016496,
+    "stop" : 1653643056786,
+    "duration" : 40290
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-13"
   }, {
     "name" : "suite",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "testClass",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "testMethod",
-    "value" : "Should search by date."
+    "value" : "Should edit created project projectx0iv0"
   }, {
     "name" : "package",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "488365a4816206fc.json",
+  "source" : "185c122324cd309.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

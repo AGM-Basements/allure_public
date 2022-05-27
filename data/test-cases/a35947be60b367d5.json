@@ -1,12 +1,12 @@
 {
-  "uid" : "67446953bea91c3f",
+  "uid" : "a35947be60b367d5",
   "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
   "fullName" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server..Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
   "historyId" : "cecf444c7cd28f2144187e745fd25dfc",
   "time" : {
-    "start" : 1653642219420,
-    "stop" : 1653642221244,
-    "duration" : 1824
+    "start" : 1653642777519,
+    "stop" : 1653642779580,
+    "duration" : 2061
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "67446953bea91c3f.json",
+  "source" : "a35947be60b367d5.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

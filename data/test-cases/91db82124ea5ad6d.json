@@ -1,12 +1,12 @@
 {
-  "uid" : "e6c2f0ee20d41228",
-  "name" : "Should set filters and verify that they work.",
-  "fullName" : "C21: Filtering configurations by country and region..Should set filters and verify that they work.",
-  "historyId" : "97c16e19b8836f8b415cf7380c7b9d04",
+  "uid" : "91db82124ea5ad6d",
+  "name" : "Should edit existing project name to m2tm3project",
+  "fullName" : "C28: Editing an existing project name by a \"Scheduler\".Should edit existing project name to m2tm3project",
+  "historyId" : "82eb7d14a255e07b26a904cbea1bd4d5",
   "time" : {
-    "start" : 1653642202274,
-    "stop" : 1653642206670,
-    "duration" : 4396
+    "start" : 1653642819902,
+    "stop" : 1653642862324,
+    "duration" : 42422
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-1"
+    "value" : "0-9"
   }, {
     "name" : "suite",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
   }, {
     "name" : "testClass",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
   }, {
     "name" : "testMethod",
-    "value" : "Should set filters and verify that they work."
+    "value" : "Should edit existing project name to m2tm3project"
   }, {
     "name" : "package",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e6c2f0ee20d41228.json",
+  "source" : "91db82124ea5ad6d.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

@@ -1,18 +1,18 @@
 {
-  "uid" : "b0ded09e01b6a363",
-  "name" : "\"after all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
-  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".\"after all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
-  "historyId" : "b6b33c0d82586a7cb692190d524f2a4e",
+  "uid" : "5b964fe2dfb6973",
+  "name" : "\"after all\" hook for C37: The scheduler can move the project to the next week",
+  "fullName" : "C37: The scheduler can move the project to the next week.\"after all\" hook for C37: The scheduler can move the project to the next week",
+  "historyId" : "65d6c91dc38841c464649851bcd0973b",
   "time" : {
-    "start" : 1653642556257,
-    "stop" : 1653642567368,
-    "duration" : 11111
+    "start" : 1653643074172,
+    "stop" : 1653643084455,
+    "duration" : 10283
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "failed",
   "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C49.spec.ts:110:57)",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C37.spec.ts:98:57)\n                    at runMicrotasks (<anonymous>)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -29,19 +29,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-17"
+    "value" : "0-14"
   }, {
     "name" : "suite",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "testClass",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "testMethod",
-    "value" : "\"after all\" hook for C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "\"after all\" hook for C37: The scheduler can move the project to the next week"
   }, {
     "name" : "package",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -63,6 +63,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "b0ded09e01b6a363.json",
+  "source" : "5b964fe2dfb6973.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

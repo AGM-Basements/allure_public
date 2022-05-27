@@ -1,12 +1,12 @@
 {
-  "uid" : "b131526f2090d5a9",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "fullName" : "C22: Filtering configurations by project type..Should click the \"Update Schedule\" button.",
-  "historyId" : "2e76588c1294de6de6758222d1e23d34",
+  "uid" : "1fd3bd11f3912c6",
+  "name" : "Should set filters and verify that they work.",
+  "fullName" : "C21: Filtering configurations by country and region..Should set filters and verify that they work.",
+  "historyId" : "97c16e19b8836f8b415cf7380c7b9d04",
   "time" : {
-    "start" : 1653642208220,
-    "stop" : 1653642214953,
-    "duration" : 6733
+    "start" : 1653642745574,
+    "stop" : 1653642763326,
+    "duration" : 17752
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-2"
+    "value" : "0-1"
   }, {
     "name" : "suite",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C21: Filtering configurations by country and region."
   }, {
     "name" : "testClass",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C21: Filtering configurations by country and region."
   }, {
     "name" : "testMethod",
-    "value" : "Should click the \"Update Schedule\" button."
+    "value" : "Should set filters and verify that they work."
   }, {
     "name" : "package",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C21: Filtering configurations by country and region."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b131526f2090d5a9.json",
+  "source" : "1fd3bd11f3912c6.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

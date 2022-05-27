@@ -1,12 +1,12 @@
 {
-  "uid" : "f42b567d8a0a20e6",
+  "uid" : "9e0512a2bea1e632",
   "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
   "fullName" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server..Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
   "historyId" : "5221013fbac13d11ee52d649fb2a2dee",
   "time" : {
-    "start" : 1653642216472,
-    "stop" : 1653642217880,
-    "duration" : 1408
+    "start" : 1653642773461,
+    "stop" : 1653642775667,
+    "duration" : 2206
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f42b567d8a0a20e6.json",
+  "source" : "9e0512a2bea1e632.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

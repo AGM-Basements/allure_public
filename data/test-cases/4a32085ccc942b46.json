@@ -1,12 +1,12 @@
 {
-  "uid" : "e666183f1e1a997e",
+  "uid" : "4a32085ccc942b46",
   "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
   "fullName" : "C6: Login to \"Master Schedule\" application with invalid short password at Staging server..Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
   "historyId" : "749b52831dfa982270c21eee8e6f2848",
   "time" : {
-    "start" : 1653642228125,
-    "stop" : 1653642230977,
-    "duration" : 2852
+    "start" : 1653642787883,
+    "stop" : 1653642790301,
+    "duration" : 2418
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e666183f1e1a997e.json",
+  "source" : "4a32085ccc942b46.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

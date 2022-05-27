@@ -1,12 +1,12 @@
 {
-  "uid" : "9633b20a2b97ed7d",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testojzpd1 slot name.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testojzpd1 slot name.",
-  "historyId" : "aa331591cb047829b4f6382b5dd3be7b",
+  "uid" : "b41cff2370a7cc76",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C22: Filtering configurations by project type..Should click the \"Update Schedule\" button.",
+  "historyId" : "2e76588c1294de6de6758222d1e23d34",
   "time" : {
-    "start" : 1653642232861,
-    "stop" : 1653642266696,
-    "duration" : 33835
+    "start" : 1653642765210,
+    "stop" : 1653642771594,
+    "duration" : 6384
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-8"
+    "value" : "0-2"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C22: Filtering configurations by project type."
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C22: Filtering configurations by project type."
   }, {
     "name" : "testMethod",
-    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testojzpd1 slot name."
+    "value" : "Should click the \"Update Schedule\" button."
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C22: Filtering configurations by project type."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9633b20a2b97ed7d.json",
+  "source" : "b41cff2370a7cc76.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

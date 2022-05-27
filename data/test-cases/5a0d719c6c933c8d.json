@@ -1,12 +1,12 @@
 {
-  "uid" : "6ab10e323a429ecf",
-  "name" : "\"before all\" hook for C41: The sales manager can't delete an existing project\"",
-  "fullName" : "C41: The sales manager can't delete an existing project\".\"before all\" hook for C41: The sales manager can't delete an existing project\"",
-  "historyId" : "72ca4978a4cc8f90452fb87ac1a2a59",
+  "uid" : "5a0d719c6c933c8d",
+  "name" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
+  "historyId" : "3c02ace3f7ad6ec2c62f6af2e3e75ed0",
   "time" : {
-    "start" : 1653642514428,
-    "stop" : 1653642529009,
-    "duration" : 14581
+    "start" : 1653642792420,
+    "stop" : 1653642807396,
+    "duration" : 14976
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -29,19 +29,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-16"
+    "value" : "0-8"
   }, {
     "name" : "suite",
-    "value" : "C41: The sales manager can't delete an existing project\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C41: The sales manager can't delete an existing project\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "\"before all\" hook for C41: The sales manager can't delete an existing project\""
+    "value" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "package",
-    "value" : "C41: The sales manager can't delete an existing project\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -63,6 +63,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "6ab10e323a429ecf.json",
+  "source" : "5a0d719c6c933c8d.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

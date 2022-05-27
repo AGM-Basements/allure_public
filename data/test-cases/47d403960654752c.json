@@ -1,12 +1,12 @@
 {
-  "uid" : "43d109bf6be64e3e",
+  "uid" : "47d403960654752c",
   "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
   "fullName" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server..Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
   "historyId" : "784f548463295d5ab791090656bf5f16",
   "time" : {
-    "start" : 1653642222688,
-    "stop" : 1653642223370,
-    "duration" : 682
+    "start" : 1653642781322,
+    "stop" : 1653642782181,
+    "duration" : 859
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "43d109bf6be64e3e.json",
+  "source" : "47d403960654752c.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }
