@@ -1,0 +1,62 @@
+{
+  "uid" : "f7ffa6c5effe5e69",
+  "name" : "Open page",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open page",
+  "historyId" : "382b81c56f0a7c74ca84bcf5a409aef3",
+  "time" : {
+    "start" : 1653653306992,
+    "stop" : 1653653307469,
+    "duration" : 477
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Open page"
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7ffa6c5effe5e69.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
