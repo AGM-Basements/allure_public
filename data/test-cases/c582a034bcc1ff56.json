@@ -1,0 +1,68 @@
+{
+  "uid" : "c582a034bcc1ff56",
+  "name" : "\"before all\" hook for C36: The sales manager can move the project to the next week",
+  "fullName" : "C36: The sales manager can move the project to the next week.\"before all\" hook for C36: The sales manager can move the project to the next week",
+  "historyId" : "b5040716d96e9b5bd1af0ce5a884b85c",
+  "time" : {
+    "start" : 1653638359101,
+    "stop" : 1653638369107,
+    "duration" : 10006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C36.spec.ts:69:57)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "testClass",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "package",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c582a034bcc1ff56.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

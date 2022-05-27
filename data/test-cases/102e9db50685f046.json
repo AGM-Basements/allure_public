@@ -1,0 +1,68 @@
+{
+  "uid" : "102e9db50685f046",
+  "name" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
+  "fullName" : "C33: The sales manager can't exceed the slot reservation limit.\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
+  "historyId" : "b1002f4046322ae2d716c99633b2b839",
+  "time" : {
+    "start" : 1653638314610,
+    "stop" : 1653638322894,
+    "duration" : 8284
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C33.spec.ts:132:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "testClass",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "package",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "102e9db50685f046.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

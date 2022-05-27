@@ -1,114 +1,114 @@
 {
-  "total" : 35,
+  "total" : 14,
   "items" : [ {
-    "uid" : "62260e6c8d39482ddb75e1d94a9827a6",
-    "name" : "C40: The scheduler can delete an existing project",
+    "uid" : "6556b21563954c5c0bc9279ffb7bfbcc",
+    "name" : "C28: Editing an existing project name by a \"Scheduler\"",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "8a7ae6be8839b77fbbc07759edc29087",
+    "name" : "C33: The sales manager can't exceed the slot reservation limit",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ce6e213bf1c95cd24f89024384c0e482",
+    "name" : "C34: The scheduler can't exceed the slot reservation limit",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "529b98f35bab76ec269e77fab4256f83",
+    "name" : "C35: Creating a new project in an available slot by \"Scheduler\"",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "560206772c647998edcde29191c2a7d5",
+    "name" : "C36: The sales manager can move the project to the next week",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "daa70a43b342a6843b94bfee27c4ff05",
+    "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 0,
       "unknown" : 0,
-      "total" : 4
+      "total" : 1
+    }
+  }, {
+    "uid" : "afc602dce391dfe54a8c129e699af88e",
+    "name" : "C20: Filtering configurations by date (weeks).",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
     }
   }, {
     "uid" : "1ad92b88f3e578a62f17c88ce68ec2e3",
     "name" : "C21: Filtering configurations by country and region.",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   }, {
-    "uid" : "e34d7f52e159a929ae84c3d58023a6a1",
-    "name" : "C15: The scheduler can add a new column.",
+    "uid" : "eb459f7343f12e1101a0573747a17006",
+    "name" : "C22: Filtering configurations by project type.",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 3
+      "total" : 1
     }
   }, {
-    "uid" : "d98611ceda84a89afe6b004cfa9416e4",
-    "name" : "C16: The scheduler can delete an existing column.",
+    "uid" : "846f3791d2e734f2cf50bd11c94f2c2d",
+    "name" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server.",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "65467f71a9285af330dcc535b0d07153",
-    "name" : "C17: The scheduler can edit an existing input form.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "2052cc7cdd7c872105a8b03b86889f3c",
-    "name" : "C18: The scheduler can create input field for an existing column with \"text\" type.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "d55af5cbdc87c3790874487a537e0ad6",
-    "name" : "C19: The scheduler can delete input form for an existing column.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "e108412e4d08df12736a435a22546e66",
-    "name" : "C24: The scheduler can create input field for and existing column with any type.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "07d1babc7bf234637521c382736536e0",
-    "name" : "C14: The scheduler can add a configuration with certain date for the United States of America country.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "4e595816aec1890200354df51df33b46",
-    "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
+      "total" : 1
     }
   } ]
 }

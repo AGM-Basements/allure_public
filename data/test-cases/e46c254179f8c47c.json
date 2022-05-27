@@ -1,0 +1,62 @@
+{
+  "uid" : "e46c254179f8c47c",
+  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
+  "fullName" : "C6: Login to \"Master Schedule\" application with invalid short password at Staging server..Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
+  "historyId" : "749b52831dfa982270c21eee8e6f2848",
+  "time" : {
+    "start" : 1653638248646,
+    "stop" : 1653638250574,
+    "duration" : 1928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-7"
+  }, {
+    "name" : "suite",
+    "value" : "C6: Login to \"Master Schedule\" application with invalid short password at Staging server."
+  }, {
+    "name" : "testClass",
+    "value" : "C6: Login to \"Master Schedule\" application with invalid short password at Staging server."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols."
+  }, {
+    "name" : "package",
+    "value" : "C6: Login to \"Master Schedule\" application with invalid short password at Staging server."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e46c254179f8c47c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
