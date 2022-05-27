@@ -1,190 +1,280 @@
 [ {
-  "uid" : "e52ebef65805284d",
-  "name" : "\"before all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
+  "uid" : "51149e33df3e35f",
+  "name" : "Should verify pop-up errors for reservation with empty input fields.",
   "time" : {
-    "start" : 1653638342510,
-    "stop" : 1653638352735,
-    "duration" : 10225
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "a88e3d22f0982f03",
-  "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-  "time" : {
-    "start" : 1653638352735,
-    "stop" : 1653638356932,
-    "duration" : 4197
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "5ade3dc53cf32ba5",
-  "name" : "Should search by date.",
-  "time" : {
-    "start" : 1653638203197,
-    "stop" : 1653638210000,
-    "duration" : 6803
+    "start" : 1653642569087,
+    "stop" : 1653642604466,
+    "duration" : 35379
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ba9ef9297676aeac",
-  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with random at least 6 symbols.",
+  "uid" : "74436d685cd4e9b3",
+  "name" : "\"before all\" hook for C21: Filtering configurations by country and region.",
   "time" : {
-    "start" : 1653638244873,
-    "stop" : 1653638246780,
-    "duration" : 1907
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c582a034bcc1ff56",
-  "name" : "\"before all\" hook for C36: The sales manager can move the project to the next week",
-  "time" : {
-    "start" : 1653638359101,
-    "stop" : 1653638369107,
-    "duration" : 10006
+    "start" : 1653642195927,
+    "stop" : 1653642202274,
+    "duration" : 6347
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "c8c408a38c7d8d5e",
-  "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
+  "uid" : "a527b5981c2a6323",
+  "name" : "\"before all\" hook for C40: The scheduler can delete an existing project",
   "time" : {
-    "start" : 1653638252694,
-    "stop" : 1653638280470,
-    "duration" : 27776
+    "start" : 1653642493151,
+    "stop" : 1653642507724,
+    "duration" : 14573
   },
-  "status" : "failed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "5e718cd5685aa106",
-  "name" : "\"before all\" hook for C28: Editing an existing project name by a \"Scheduler\"",
-  "time" : {
-    "start" : 1653638282668,
-    "stop" : 1653638293562,
-    "duration" : 10894
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "a47b95cc7216cbbf",
-  "name" : "\"after all\" hook for C28: Editing an existing project name by a \"Scheduler\"",
-  "time" : {
-    "start" : 1653638293563,
-    "stop" : 1653638302270,
-    "duration" : 8707
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7bbf7e5658f5c88",
-  "name" : "\"after all\" hook for C34: The scheduler can't exceed the slot reservation limit",
-  "time" : {
-    "start" : 1653638335181,
-    "stop" : 1653638340314,
-    "duration" : 5133
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "2adee6383c43d252",
+  "uid" : "f42b567d8a0a20e6",
   "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
   "time" : {
-    "start" : 1653638235772,
-    "stop" : 1653638237155,
-    "duration" : 1383
+    "start" : 1653642216472,
+    "stop" : 1653642217880,
+    "duration" : 1408
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a80a921bb9b4057c",
-  "name" : "\"before all\" hook for C34: The scheduler can't exceed the slot reservation limit",
-  "time" : {
-    "start" : 1653638325088,
-    "stop" : 1653638335181,
-    "duration" : 10093
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "b6a73e68a3910139",
-  "name" : "\"before all\" hook for C33: The sales manager can't exceed the slot reservation limit",
-  "time" : {
-    "start" : 1653638304502,
-    "stop" : 1653638314610,
-    "duration" : 10108
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "7369aab98cfd5335",
-  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "time" : {
-    "start" : 1653638242382,
-    "stop" : 1653638243018,
-    "duration" : 636
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e46c254179f8c47c",
+  "uid" : "e666183f1e1a997e",
   "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
   "time" : {
-    "start" : 1653638248646,
-    "stop" : 1653638250574,
-    "duration" : 1928
+    "start" : 1653642228125,
+    "stop" : 1653642230977,
+    "duration" : 2852
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "69ea798b2d5137c3",
-  "name" : "\"after all\" hook for C36: The sales manager can move the project to the next week",
+  "uid" : "6884836063b25f70",
+  "name" : "\"before all\" hook for C36: The sales manager can move the project to the next week",
   "time" : {
-    "start" : 1653638369107,
-    "stop" : 1653638373227,
-    "duration" : 4120
+    "start" : 1653642427094,
+    "stop" : 1653642441645,
+    "duration" : 14551
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "173bba29cf6a0d1e",
+  "name" : "Should verify that input displayed in reserve form",
+  "time" : {
+    "start" : 1653642615495,
+    "stop" : 1653642630673,
+    "duration" : 15178
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9633b20a2b97ed7d",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testojzpd1 slot name.",
+  "time" : {
+    "start" : 1653642232861,
+    "stop" : 1653642266696,
+    "duration" : 33835
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e910743683b38ddc",
+  "name" : "Should edit existing project name to ticfiproject",
+  "time" : {
+    "start" : 1653642268398,
+    "stop" : 1653642310575,
+    "duration" : 42177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d58ef8eb8bd35d25",
+  "name" : "Should create input",
+  "time" : {
+    "start" : 1653642611232,
+    "stop" : 1653642615495,
+    "duration" : 4263
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "b63704c24b2a4d9d",
-  "name" : "Should set filters and verify that they work.",
+  "uid" : "d31dd8faa67333c6",
+  "name" : "\"after all\" hook for C41: The sales manager can't delete an existing project\"",
   "time" : {
-    "start" : 1653638212041,
-    "stop" : 1653638227407,
-    "duration" : 15366
+    "start" : 1653642529009,
+    "stop" : 1653642539949,
+    "duration" : 10940
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "7cd4b10c9405a763",
-  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
-  "time" : {
-    "start" : 1653638239123,
-    "stop" : 1653638240532,
-    "duration" : 1409
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5ea92401cf2bfc7f",
+  "uid" : "2d30e625479694a6",
   "name" : "Should click the \"Update Schedule\" button.",
   "time" : {
-    "start" : 1653638229347,
-    "stop" : 1653638233805,
-    "duration" : 4458
+    "start" : 1653642606096,
+    "stop" : 1653642611232,
+    "duration" : 5136
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "102e9db50685f046",
+  "uid" : "e6c2f0ee20d41228",
+  "name" : "Should set filters and verify that they work.",
+  "time" : {
+    "start" : 1653642202274,
+    "stop" : 1653642206670,
+    "duration" : 4396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ab10e323a429ecf",
+  "name" : "\"before all\" hook for C41: The sales manager can't delete an existing project\"",
+  "time" : {
+    "start" : 1653642514428,
+    "stop" : 1653642529009,
+    "duration" : 14581
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "67446953bea91c3f",
+  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "time" : {
+    "start" : 1653642219420,
+    "stop" : 1653642221244,
+    "duration" : 1824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30e9ccb18a556ba3",
+  "name" : "\"before all\" hook for C33: The sales manager can't exceed the slot reservation limit",
+  "time" : {
+    "start" : 1653642312334,
+    "stop" : 1653642326890,
+    "duration" : 14556
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43d109bf6be64e3e",
+  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "time" : {
+    "start" : 1653642222688,
+    "stop" : 1653642223370,
+    "duration" : 682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98e01314b5f55c54",
+  "name" : "\"before all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
+  "time" : {
+    "start" : 1653642541692,
+    "stop" : 1653642556256,
+    "duration" : 14564
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8b5168388af1e108",
+  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with random at least 6 symbols.",
+  "time" : {
+    "start" : 1653642224819,
+    "stop" : 1653642226677,
+    "duration" : 1858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b131526f2090d5a9",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653642208220,
+    "stop" : 1653642214953,
+    "duration" : 6733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8faf130a308eed2",
+  "name" : "Should edit created project project7yuiz",
+  "time" : {
+    "start" : 1653642453937,
+    "stop" : 1653642491441,
+    "duration" : 37504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0ded09e01b6a363",
+  "name" : "\"after all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
+  "time" : {
+    "start" : 1653642556257,
+    "stop" : 1653642567368,
+    "duration" : 11111
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3b5ae17fb6e6d28",
+  "name" : "Should reserve project for 2022-08-22 configuration with test2uu301 slot name.",
+  "time" : {
+    "start" : 1653642392507,
+    "stop" : 1653642425359,
+    "duration" : 32852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7f5ebe0bb7a5194",
   "name" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
   "time" : {
-    "start" : 1653638314610,
-    "stop" : 1653638322894,
-    "duration" : 8284
+    "start" : 1653642326890,
+    "stop" : 1653642338197,
+    "duration" : 11307
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "488365a4816206fc",
+  "name" : "Should search by date.",
+  "time" : {
+    "start" : 1653642186212,
+    "stop" : 1653642194294,
+    "duration" : 8082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce4b52b701e0e212",
+  "name" : "\"after all\" hook for C40: The scheduler can delete an existing project",
+  "time" : {
+    "start" : 1653642507724,
+    "stop" : 1653642512683,
+    "duration" : 4959
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ad4e1b780452a13",
+  "name" : "Should verify that can't move project projectqkcx41 to date without empty slots",
+  "time" : {
+    "start" : 1653642339979,
+    "stop" : 1653642390794,
+    "duration" : 50815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81a5a2c5a9152d51",
+  "name" : "\"after all\" hook for C36: The sales manager can move the project to the next week",
+  "time" : {
+    "start" : 1653642441645,
+    "stop" : 1653642452211,
+    "duration" : 10566
   },
   "status" : "failed",
   "severity" : "normal"

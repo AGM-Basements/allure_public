@@ -2,13 +2,30 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Should search by date.",
-    "uid" : "5ade3dc53cf32ba5",
+    "uid" : "488365a4816206fc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638203197,
-      "stop" : 1653638210000,
-      "duration" : 6803
+      "start" : 1653642186212,
+      "stop" : 1653642194294,
+      "duration" : 8082
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"before all\" hook for C21: Filtering configurations by country and region.",
+    "uid" : "74436d685cd4e9b3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1653642195927,
+      "stop" : 1653642202274,
+      "duration" : 6347
     },
     "flaky" : false,
     "newFailed" : false,
@@ -19,13 +36,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should set filters and verify that they work.",
-    "uid" : "b63704c24b2a4d9d",
+    "uid" : "e6c2f0ee20d41228",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638212041,
-      "stop" : 1653638227407,
-      "duration" : 15366
+      "start" : 1653642202274,
+      "stop" : 1653642206670,
+      "duration" : 4396
     },
     "flaky" : false,
     "newFailed" : false,
@@ -36,13 +53,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should click the \"Update Schedule\" button.",
-    "uid" : "5ea92401cf2bfc7f",
+    "uid" : "b131526f2090d5a9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638229347,
-      "stop" : 1653638233805,
-      "duration" : 4458
+      "start" : 1653642208220,
+      "stop" : 1653642214953,
+      "duration" : 6733
     },
     "flaky" : false,
     "newFailed" : false,
@@ -53,13 +70,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
-    "uid" : "2adee6383c43d252",
+    "uid" : "f42b567d8a0a20e6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638235772,
-      "stop" : 1653638237155,
-      "duration" : 1383
+      "start" : 1653642216472,
+      "stop" : 1653642217880,
+      "duration" : 1408
     },
     "flaky" : false,
     "newFailed" : false,
@@ -70,13 +87,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
-    "uid" : "7cd4b10c9405a763",
+    "uid" : "67446953bea91c3f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638239123,
-      "stop" : 1653638240532,
-      "duration" : 1409
+      "start" : 1653642219420,
+      "stop" : 1653642221244,
+      "duration" : 1824
     },
     "flaky" : false,
     "newFailed" : false,
@@ -87,13 +104,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-    "uid" : "7369aab98cfd5335",
+    "uid" : "43d109bf6be64e3e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638242382,
-      "stop" : 1653638243018,
-      "duration" : 636
+      "start" : 1653642222688,
+      "stop" : 1653642223370,
+      "duration" : 682
     },
     "flaky" : false,
     "newFailed" : false,
@@ -104,13 +121,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with random at least 6 symbols.",
-    "uid" : "ba9ef9297676aeac",
+    "uid" : "8b5168388af1e108",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638244873,
-      "stop" : 1653638246780,
-      "duration" : 1907
+      "start" : 1653642224819,
+      "stop" : 1653642226677,
+      "duration" : 1858
     },
     "flaky" : false,
     "newFailed" : false,
@@ -121,13 +138,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
-    "uid" : "e46c254179f8c47c",
+    "uid" : "e666183f1e1a997e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1653638248646,
-      "stop" : 1653638250574,
-      "duration" : 1928
+      "start" : 1653642228125,
+      "stop" : 1653642230977,
+      "duration" : 2852
     },
     "flaky" : false,
     "newFailed" : false,
@@ -137,14 +154,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
-    "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-    "uid" : "c8c408a38c7d8d5e",
+    "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testojzpd1 slot name.",
+    "uid" : "9633b20a2b97ed7d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1653638252694,
-      "stop" : 1653638280470,
-      "duration" : 27776
+      "start" : 1653642232861,
+      "stop" : 1653642266696,
+      "duration" : 33835
     },
     "flaky" : false,
     "newFailed" : false,
@@ -154,31 +171,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
-    "name" : "\"before all\" hook for C28: Editing an existing project name by a \"Scheduler\"",
-    "uid" : "5e718cd5685aa106",
+    "name" : "Should edit existing project name to ticfiproject",
+    "uid" : "e910743683b38ddc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1653638282668,
-      "stop" : 1653638293562,
-      "duration" : 10894
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-101.0.4951.64" ]
-  }, {
-    "name" : "\"after all\" hook for C28: Editing an existing project name by a \"Scheduler\"",
-    "uid" : "a47b95cc7216cbbf",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1653638293563,
-      "stop" : 1653638302270,
-      "duration" : 8707
+      "start" : 1653642268398,
+      "stop" : 1653642310575,
+      "duration" : 42177
     },
     "flaky" : false,
     "newFailed" : false,
@@ -189,13 +189,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "\"before all\" hook for C33: The sales manager can't exceed the slot reservation limit",
-    "uid" : "b6a73e68a3910139",
+    "uid" : "30e9ccb18a556ba3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "broken",
     "time" : {
-      "start" : 1653638304502,
-      "stop" : 1653638314610,
-      "duration" : 10108
+      "start" : 1653642312334,
+      "stop" : 1653642326890,
+      "duration" : 14556
     },
     "flaky" : false,
     "newFailed" : false,
@@ -206,13 +206,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
-    "uid" : "102e9db50685f046",
+    "uid" : "b7f5ebe0bb7a5194",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1653638314610,
-      "stop" : 1653638322894,
-      "duration" : 8284
+      "start" : 1653642326890,
+      "stop" : 1653642338197,
+      "duration" : 11307
     },
     "flaky" : false,
     "newFailed" : false,
@@ -222,14 +222,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
-    "name" : "\"before all\" hook for C34: The scheduler can't exceed the slot reservation limit",
-    "uid" : "a80a921bb9b4057c",
+    "name" : "Should verify that can't move project projectqkcx41 to date without empty slots",
+    "uid" : "9ad4e1b780452a13",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1653638325088,
-      "stop" : 1653638335181,
-      "duration" : 10093
+      "start" : 1653642339979,
+      "stop" : 1653642390794,
+      "duration" : 50815
     },
     "flaky" : false,
     "newFailed" : false,
@@ -239,48 +239,14 @@
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
-    "name" : "\"after all\" hook for C34: The scheduler can't exceed the slot reservation limit",
-    "uid" : "d7bbf7e5658f5c88",
+    "name" : "Should reserve project for 2022-08-22 configuration with test2uu301 slot name.",
+    "uid" : "b3b5ae17fb6e6d28",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1653638335181,
-      "stop" : 1653638340314,
-      "duration" : 5133
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-101.0.4951.64" ]
-  }, {
-    "name" : "\"before all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-    "uid" : "e52ebef65805284d",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1653638342510,
-      "stop" : 1653638352735,
-      "duration" : 10225
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-101.0.4951.64" ]
-  }, {
-    "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-    "uid" : "a88e3d22f0982f03",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1653638352735,
-      "stop" : 1653638356932,
-      "duration" : 4197
+      "start" : 1653642392507,
+      "stop" : 1653642425359,
+      "duration" : 32852
     },
     "flaky" : false,
     "newFailed" : false,
@@ -291,13 +257,13 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "\"before all\" hook for C36: The sales manager can move the project to the next week",
-    "uid" : "c582a034bcc1ff56",
+    "uid" : "6884836063b25f70",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
+    "status" : "broken",
     "time" : {
-      "start" : 1653638359101,
-      "stop" : 1653638369107,
-      "duration" : 10006
+      "start" : 1653642427094,
+      "stop" : 1653642441645,
+      "duration" : 14551
     },
     "flaky" : false,
     "newFailed" : false,
@@ -308,13 +274,200 @@
     "parameters" : [ "chrome-101.0.4951.64" ]
   }, {
     "name" : "\"after all\" hook for C36: The sales manager can move the project to the next week",
-    "uid" : "69ea798b2d5137c3",
+    "uid" : "81a5a2c5a9152d51",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1653638369107,
-      "stop" : 1653638373227,
-      "duration" : 4120
+      "start" : 1653642441645,
+      "stop" : 1653642452211,
+      "duration" : 10566
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "Should edit created project project7yuiz",
+    "uid" : "a8faf130a308eed2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653642453937,
+      "stop" : 1653642491441,
+      "duration" : 37504
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"before all\" hook for C40: The scheduler can delete an existing project",
+    "uid" : "a527b5981c2a6323",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653642493151,
+      "stop" : 1653642507724,
+      "duration" : 14573
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"after all\" hook for C40: The scheduler can delete an existing project",
+    "uid" : "ce4b52b701e0e212",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1653642507724,
+      "stop" : 1653642512683,
+      "duration" : 4959
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"before all\" hook for C41: The sales manager can't delete an existing project\"",
+    "uid" : "6ab10e323a429ecf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653642514428,
+      "stop" : 1653642529009,
+      "duration" : 14581
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"after all\" hook for C41: The sales manager can't delete an existing project\"",
+    "uid" : "d31dd8faa67333c6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1653642529009,
+      "stop" : 1653642539949,
+      "duration" : 10940
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"before all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
+    "uid" : "98e01314b5f55c54",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653642541692,
+      "stop" : 1653642556256,
+      "duration" : 14564
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "\"after all\" hook for C49: Editing an existing project name by a \"Sales Manager\"",
+    "uid" : "b0ded09e01b6a363",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1653642556257,
+      "stop" : 1653642567368,
+      "duration" : 11111
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "Should verify pop-up errors for reservation with empty input fields.",
+    "uid" : "51149e33df3e35f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653642569087,
+      "stop" : 1653642604466,
+      "duration" : 35379
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "Should click the \"Update Schedule\" button.",
+    "uid" : "2d30e625479694a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653642606096,
+      "stop" : 1653642611232,
+      "duration" : 5136
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "Should create input",
+    "uid" : "d58ef8eb8bd35d25",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1653642611232,
+      "stop" : 1653642615495,
+      "duration" : 4263
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-101.0.4951.64" ]
+  }, {
+    "name" : "Should verify that input displayed in reserve form",
+    "uid" : "173bba29cf6a0d1e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653642615495,
+      "stop" : 1653642630673,
+      "duration" : 15178
     },
     "flaky" : false,
     "newFailed" : false,

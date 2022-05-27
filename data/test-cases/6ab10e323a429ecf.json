@@ -1,0 +1,68 @@
+{
+  "uid" : "6ab10e323a429ecf",
+  "name" : "\"before all\" hook for C41: The sales manager can't delete an existing project\"",
+  "fullName" : "C41: The sales manager can't delete an existing project\".\"before all\" hook for C41: The sales manager can't delete an existing project\"",
+  "historyId" : "72ca4978a4cc8f90452fb87ac1a2a59",
+  "time" : {
+    "start" : 1653642514428,
+    "stop" : 1653642529009,
+    "duration" : 14581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms\n                    at async Helper.waitForElementDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:75:9)\n                    at async Helper.getElementText (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:191:9)\n                    at async Helper.getPopupNotificationText (/home/runner/work/app_tests/app_tests/test/utilities/helper.ts:10:16)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-16"
+  }, {
+    "name" : "suite",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testClass",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "package",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6ab10e323a429ecf.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

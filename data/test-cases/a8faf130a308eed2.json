@@ -1,12 +1,12 @@
 {
-  "uid" : "7369aab98cfd5335",
-  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "fullName" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server..Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "historyId" : "784f548463295d5ab791090656bf5f16",
+  "uid" : "a8faf130a308eed2",
+  "name" : "Should edit created project project7yuiz",
+  "fullName" : "C37: The scheduler can move the project to the next week.Should edit created project project7yuiz",
+  "historyId" : "6293518ca46cce65dcc05e5bd19eab8b",
   "time" : {
-    "start" : 1653638242382,
-    "stop" : 1653638243018,
-    "duration" : 636
+    "start" : 1653642453937,
+    "stop" : 1653642491441,
+    "duration" : 37504
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-5"
+    "value" : "0-14"
   }, {
     "name" : "suite",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "testClass",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "testMethod",
-    "value" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button."
+    "value" : "Should edit created project project7yuiz"
   }, {
     "name" : "package",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C37: The scheduler can move the project to the next week"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7369aab98cfd5335.json",
+  "source" : "a8faf130a308eed2.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

@@ -1,18 +1,18 @@
 {
-  "uid" : "a88e3d22f0982f03",
-  "name" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\"",
-  "historyId" : "f4540465643528581f6375ec7f6df285",
+  "uid" : "d31dd8faa67333c6",
+  "name" : "\"after all\" hook for C41: The sales manager can't delete an existing project\"",
+  "fullName" : "C41: The sales manager can't delete an existing project\".\"after all\" hook for C41: The sales manager can't delete an existing project\"",
+  "historyId" : "43888981f05a1d0a30136a250066a99d",
   "time" : {
-    "start" : 1653638352735,
-    "stop" : 1653638356932,
-    "duration" : 4197
+    "start" : 1653642529009,
+    "stop" : 1653642539949,
+    "duration" : 10940
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "failed",
   "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C35.spec.ts:87:57)",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C41.spec.ts:111:57)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -29,19 +29,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-12"
+    "value" : "0-16"
   }, {
     "name" : "suite",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "testClass",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "testMethod",
-    "value" : "\"after all\" hook for C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "\"after all\" hook for C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "package",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C41: The sales manager can't delete an existing project\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -63,6 +63,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "a88e3d22f0982f03.json",
+  "source" : "d31dd8faa67333c6.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

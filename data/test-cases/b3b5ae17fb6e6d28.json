@@ -1,12 +1,12 @@
 {
-  "uid" : "5ade3dc53cf32ba5",
-  "name" : "Should search by date.",
-  "fullName" : "C20: Filtering configurations by date (weeks)..Should search by date.",
-  "historyId" : "db5521a56158bd71e7bb416a1093c203",
+  "uid" : "b3b5ae17fb6e6d28",
+  "name" : "Should reserve project for 2022-08-22 configuration with test2uu301 slot name.",
+  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".Should reserve project for 2022-08-22 configuration with test2uu301 slot name.",
+  "historyId" : "f41a15e9b597c31d3bf56b913585b19e",
   "time" : {
-    "start" : 1653638203197,
-    "stop" : 1653638210000,
-    "duration" : 6803
+    "start" : 1653642392507,
+    "stop" : 1653642425359,
+    "duration" : 32852
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-12"
   }, {
     "name" : "suite",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "testClass",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "testMethod",
-    "value" : "Should search by date."
+    "value" : "Should reserve project for 2022-08-22 configuration with test2uu301 slot name."
   }, {
     "name" : "package",
-    "value" : "C20: Filtering configurations by date (weeks)."
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5ade3dc53cf32ba5.json",
+  "source" : "b3b5ae17fb6e6d28.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

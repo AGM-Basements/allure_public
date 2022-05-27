@@ -1,18 +1,18 @@
 {
-  "uid" : "b6a73e68a3910139",
+  "uid" : "30e9ccb18a556ba3",
   "name" : "\"before all\" hook for C33: The sales manager can't exceed the slot reservation limit",
   "fullName" : "C33: The sales manager can't exceed the slot reservation limit.\"before all\" hook for C33: The sales manager can't exceed the slot reservation limit",
   "historyId" : "5112b067595c6bec8d5cf717a52b8d29",
   "time" : {
-    "start" : 1653638304502,
-    "stop" : 1653638314610,
-    "duration" : 10108
+    "start" : 1653642312334,
+    "stop" : 1653642326890,
+    "duration" : 14556
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "failed",
-  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C33.spec.ts:75:57)\n                    at runMicrotasks (<anonymous>)",
+  "status" : "broken",
+  "statusMessage" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms\n                    at async Helper.waitForElementDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:75:9)\n                    at async Helper.getElementText (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:191:9)\n                    at async Helper.getPopupNotificationText (/home/runner/work/app_tests/app_tests/test/utilities/helper.ts:10:16)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -57,12 +57,12 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ {
-      "name" : "Product defects",
+      "name" : "Test defects",
       "matchedStatuses" : [ ],
       "flaky" : false
     } ],
     "tags" : [ ]
   },
-  "source" : "b6a73e68a3910139.json",
+  "source" : "30e9ccb18a556ba3.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

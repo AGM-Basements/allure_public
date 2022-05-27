@@ -1,12 +1,12 @@
 {
-  "uid" : "5ea92401cf2bfc7f",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "fullName" : "C22: Filtering configurations by project type..Should click the \"Update Schedule\" button.",
-  "historyId" : "2e76588c1294de6de6758222d1e23d34",
+  "uid" : "43d109bf6be64e3e",
+  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "fullName" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server..Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "historyId" : "784f548463295d5ab791090656bf5f16",
   "time" : {
-    "start" : 1653638229347,
-    "stop" : 1653638233805,
-    "duration" : 4458
+    "start" : 1653642222688,
+    "stop" : 1653642223370,
+    "duration" : 682
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-2"
+    "value" : "0-5"
   }, {
     "name" : "suite",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
   }, {
     "name" : "testClass",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
   }, {
     "name" : "testMethod",
-    "value" : "Should click the \"Update Schedule\" button."
+    "value" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button."
   }, {
     "name" : "package",
-    "value" : "C22: Filtering configurations by project type."
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5ea92401cf2bfc7f.json",
+  "source" : "43d109bf6be64e3e.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "b63704c24b2a4d9d",
-  "name" : "Should set filters and verify that they work.",
-  "fullName" : "C21: Filtering configurations by country and region..Should set filters and verify that they work.",
-  "historyId" : "97c16e19b8836f8b415cf7380c7b9d04",
+  "uid" : "488365a4816206fc",
+  "name" : "Should search by date.",
+  "fullName" : "C20: Filtering configurations by date (weeks)..Should search by date.",
+  "historyId" : "db5521a56158bd71e7bb416a1093c203",
   "time" : {
-    "start" : 1653638212041,
-    "stop" : 1653638227407,
-    "duration" : 15366
+    "start" : 1653642186212,
+    "stop" : 1653642194294,
+    "duration" : 8082
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-1"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "testClass",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "testMethod",
-    "value" : "Should set filters and verify that they work."
+    "value" : "Should search by date."
   }, {
     "name" : "package",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C20: Filtering configurations by date (weeks)."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "b63704c24b2a4d9d.json",
+  "source" : "488365a4816206fc.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

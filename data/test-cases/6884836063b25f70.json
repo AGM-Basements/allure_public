@@ -1,18 +1,18 @@
 {
-  "uid" : "c582a034bcc1ff56",
+  "uid" : "6884836063b25f70",
   "name" : "\"before all\" hook for C36: The sales manager can move the project to the next week",
   "fullName" : "C36: The sales manager can move the project to the next week.\"before all\" hook for C36: The sales manager can move the project to the next week",
   "historyId" : "b5040716d96e9b5bd1af0ce5a884b85c",
   "time" : {
-    "start" : 1653638359101,
-    "stop" : 1653638369107,
-    "duration" : 10006
+    "start" : 1653642427094,
+    "stop" : 1653642441645,
+    "duration" : 14551
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "failed",
-  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C36.spec.ts:69:57)\n                    at runMicrotasks (<anonymous>)",
+  "status" : "broken",
+  "statusMessage" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms\n                    at async Helper.waitForElementDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:75:9)\n                    at async Helper.getElementText (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:191:9)\n                    at async Helper.getPopupNotificationText (/home/runner/work/app_tests/app_tests/test/utilities/helper.ts:10:16)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -57,12 +57,12 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ {
-      "name" : "Product defects",
+      "name" : "Test defects",
       "matchedStatuses" : [ ],
       "flaky" : false
     } ],
     "tags" : [ ]
   },
-  "source" : "c582a034bcc1ff56.json",
+  "source" : "6884836063b25f70.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

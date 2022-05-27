@@ -1,18 +1,18 @@
 {
-  "uid" : "102e9db50685f046",
-  "name" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
-  "fullName" : "C33: The sales manager can't exceed the slot reservation limit.\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit",
-  "historyId" : "b1002f4046322ae2d716c99633b2b839",
+  "uid" : "ce4b52b701e0e212",
+  "name" : "\"after all\" hook for C40: The scheduler can delete an existing project",
+  "fullName" : "C40: The scheduler can delete an existing project.\"after all\" hook for C40: The scheduler can delete an existing project",
+  "historyId" : "11605a2839af45ee46e5f8abf02e5d3f",
   "time" : {
-    "start" : 1653638314610,
-    "stop" : 1653638322894,
-    "duration" : 8284
+    "start" : 1653642507724,
+    "stop" : 1653642512683,
+    "duration" : 4959
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "failed",
   "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
-  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C33.spec.ts:132:57)",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/SlotReservation/C40.spec.ts:89:57)\n                    at runMicrotasks (<anonymous>)",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -29,19 +29,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-10"
+    "value" : "0-15"
   }, {
     "name" : "suite",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C40: The scheduler can delete an existing project"
   }, {
     "name" : "testClass",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C40: The scheduler can delete an existing project"
   }, {
     "name" : "testMethod",
-    "value" : "\"after all\" hook for C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "\"after all\" hook for C40: The scheduler can delete an existing project"
   }, {
     "name" : "package",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C40: The scheduler can delete an existing project"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -63,6 +63,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "102e9db50685f046.json",
+  "source" : "ce4b52b701e0e212.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

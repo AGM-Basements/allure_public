@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5ade3dc53cf32ba5",
+      "uid" : "488365a4816206fc",
       "status" : "passed",
       "time" : {
-        "start" : 1653638203197,
-        "stop" : 1653638210000,
-        "duration" : 6803
+        "start" : 1653642186212,
+        "stop" : 1653642194294,
+        "duration" : 8082
       }
     } ]
   },
@@ -28,55 +28,36 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2adee6383c43d252",
+      "uid" : "f42b567d8a0a20e6",
       "status" : "passed",
       "time" : {
-        "start" : 1653638235772,
-        "stop" : 1653638237155,
-        "duration" : 1383
+        "start" : 1653642216472,
+        "stop" : 1653642217880,
+        "duration" : 1408
       }
     } ]
   },
-  "97c16e19b8836f8b415cf7380c7b9d04" : {
+  "72ca4978a4cc8f90452fb87ac1a2a59" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b63704c24b2a4d9d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653638212041,
-        "stop" : 1653638227407,
-        "duration" : 15366
-      }
-    } ]
-  },
-  "3b373a3d804930398eb7aa33c1d9b5f" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c8c408a38c7d8d5e",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "uid" : "6ab10e323a429ecf",
+      "status" : "broken",
+      "statusDetails" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
       "time" : {
-        "start" : 1653638252694,
-        "stop" : 1653638280470,
-        "duration" : 27776
+        "start" : 1653642514428,
+        "stop" : 1653642529009,
+        "duration" : 14581
       }
     } ]
   },
-  "2e76588c1294de6de6758222d1e23d34" : {
+  "c4f5a673537a6bb744e415473d3198b" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -86,71 +67,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5ea92401cf2bfc7f",
+      "uid" : "51149e33df3e35f",
       "status" : "passed",
       "time" : {
-        "start" : 1653638229347,
-        "stop" : 1653638233805,
-        "duration" : 4458
+        "start" : 1653642569087,
+        "stop" : 1653642604466,
+        "duration" : 35379
       }
     } ]
   },
   "b5040716d96e9b5bd1af0ce5a884b85c" : {
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "c582a034bcc1ff56",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "time" : {
-        "start" : 1653638359101,
-        "stop" : 1653638369107,
-        "duration" : 10006
-      }
-    } ]
-  },
-  "784f548463295d5ab791090656bf5f16" : {
-    "statistic" : {
       "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "7369aab98cfd5335",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653638242382,
-        "stop" : 1653638243018,
-        "duration" : 636
-      }
-    } ]
-  },
-  "2effaeafd41930927b73c6ae30e4667d" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a47b95cc7216cbbf",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "uid" : "6884836063b25f70",
+      "status" : "broken",
+      "statusDetails" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
       "time" : {
-        "start" : 1653638293563,
-        "stop" : 1653638302270,
-        "duration" : 8707
+        "start" : 1653642427094,
+        "stop" : 1653642441645,
+        "duration" : 14551
       }
     } ]
   },
@@ -164,16 +106,35 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ba9ef9297676aeac",
+      "uid" : "8b5168388af1e108",
       "status" : "passed",
       "time" : {
-        "start" : 1653638244873,
-        "stop" : 1653638246780,
-        "duration" : 1907
+        "start" : 1653642224819,
+        "stop" : 1653642226677,
+        "duration" : 1858
       }
     } ]
   },
-  "febd7c515787fbbbe67cbf8b79f65a28" : {
+  "86fbc70ab937c1e6f280854f887504cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d30e625479694a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642606096,
+        "stop" : 1653642611232,
+        "duration" : 5136
+      }
+    } ]
+  },
+  "b6b33c0d82586a7cb692190d524f2a4e" : {
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -183,53 +144,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "69ea798b2d5137c3",
+      "uid" : "b0ded09e01b6a363",
       "status" : "failed",
       "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
       "time" : {
-        "start" : 1653638369107,
-        "stop" : 1653638373227,
-        "duration" : 4120
-      }
-    } ]
-  },
-  "5112b067595c6bec8d5cf717a52b8d29" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b6a73e68a3910139",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "time" : {
-        "start" : 1653638304502,
-        "stop" : 1653638314610,
-        "duration" : 10108
-      }
-    } ]
-  },
-  "6911b24f50b6ef735eb03b4dde463335" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "5e718cd5685aa106",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "time" : {
-        "start" : 1653638282668,
-        "stop" : 1653638293562,
-        "duration" : 10894
+        "start" : 1653642556257,
+        "stop" : 1653642567368,
+        "duration" : 11111
       }
     } ]
   },
@@ -243,56 +164,37 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "102e9db50685f046",
+      "uid" : "b7f5ebe0bb7a5194",
       "status" : "failed",
       "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
       "time" : {
-        "start" : 1653638314610,
-        "stop" : 1653638322894,
-        "duration" : 8284
+        "start" : 1653642326890,
+        "stop" : 1653642338197,
+        "duration" : 11307
       }
     } ]
   },
-  "94219a28cf46f936837f258ebcef7a2b" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "a80a921bb9b4057c",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "time" : {
-        "start" : 1653638325088,
-        "stop" : 1653638335181,
-        "duration" : 10093
-      }
-    } ]
-  },
-  "cecf444c7cd28f2144187e745fd25dfc" : {
+  "6750998ccf1f91b33cf526f2b1cf9429" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7cd4b10c9405a763",
-      "status" : "passed",
+      "uid" : "a527b5981c2a6323",
+      "status" : "broken",
+      "statusDetails" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
       "time" : {
-        "start" : 1653638239123,
-        "stop" : 1653638240532,
-        "duration" : 1409
+        "start" : 1653642493151,
+        "stop" : 1653642507724,
+        "duration" : 14573
       }
     } ]
   },
-  "4f7bf2970d8e22934965661eae41dd31" : {
+  "43888981f05a1d0a30136a250066a99d" : {
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -302,53 +204,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d7bbf7e5658f5c88",
+      "uid" : "d31dd8faa67333c6",
       "status" : "failed",
       "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
       "time" : {
-        "start" : 1653638335181,
-        "stop" : 1653638340314,
-        "duration" : 5133
+        "start" : 1653642529009,
+        "stop" : 1653642539949,
+        "duration" : 10940
       }
     } ]
   },
-  "f4540465643528581f6375ec7f6df285" : {
+  "9ed27f431a8d5355fbe75fa2a9682d91" : {
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a88e3d22f0982f03",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "uid" : "173bba29cf6a0d1e",
+      "status" : "broken",
+      "statusDetails" : "element (\"#select-countryId\") still not clickable after 15000ms",
       "time" : {
-        "start" : 1653638352735,
-        "stop" : 1653638356932,
-        "duration" : 4197
-      }
-    } ]
-  },
-  "587d1f077267dbec2c325c726aa7a3b5" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "e52ebef65805284d",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "time" : {
-        "start" : 1653638342510,
-        "stop" : 1653638352735,
-        "duration" : 10225
+        "start" : 1653642615495,
+        "stop" : 1653642630673,
+        "duration" : 15178
       }
     } ]
   },
@@ -362,12 +244,303 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e46c254179f8c47c",
+      "uid" : "e666183f1e1a997e",
       "status" : "passed",
       "time" : {
-        "start" : 1653638248646,
-        "stop" : 1653638250574,
-        "duration" : 1928
+        "start" : 1653642228125,
+        "stop" : 1653642230977,
+        "duration" : 2852
+      }
+    } ]
+  },
+  "2721a6f0fbe749d4ae0f399c9f5f789a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74436d685cd4e9b3",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
+      "time" : {
+        "start" : 1653642195927,
+        "stop" : 1653642202274,
+        "duration" : 6347
+      }
+    } ]
+  },
+  "1a9bdef7f774eee5096d8250a95154a5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d58ef8eb8bd35d25",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+      "time" : {
+        "start" : 1653642611232,
+        "stop" : 1653642615495,
+        "duration" : 4263
+      }
+    } ]
+  },
+  "4ba9af7d554b9aa8b86cf19df98620aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ad4e1b780452a13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642339979,
+        "stop" : 1653642390794,
+        "duration" : 50815
+      }
+    } ]
+  },
+  "97c16e19b8836f8b415cf7380c7b9d04" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6c2f0ee20d41228",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642202274,
+        "stop" : 1653642206670,
+        "duration" : 4396
+      }
+    } ]
+  },
+  "f41a15e9b597c31d3bf56b913585b19e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3b5ae17fb6e6d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642392507,
+        "stop" : 1653642425359,
+        "duration" : 32852
+      }
+    } ]
+  },
+  "2e76588c1294de6de6758222d1e23d34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b131526f2090d5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642208220,
+        "stop" : 1653642214953,
+        "duration" : 6733
+      }
+    } ]
+  },
+  "784f548463295d5ab791090656bf5f16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43d109bf6be64e3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642222688,
+        "stop" : 1653642223370,
+        "duration" : 682
+      }
+    } ]
+  },
+  "6293518ca46cce65dcc05e5bd19eab8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8faf130a308eed2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642453937,
+        "stop" : 1653642491441,
+        "duration" : 37504
+      }
+    } ]
+  },
+  "febd7c515787fbbbe67cbf8b79f65a28" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81a5a2c5a9152d51",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "time" : {
+        "start" : 1653642441645,
+        "stop" : 1653642452211,
+        "duration" : 10566
+      }
+    } ]
+  },
+  "5112b067595c6bec8d5cf717a52b8d29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30e9ccb18a556ba3",
+      "status" : "broken",
+      "statusDetails" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1653642312334,
+        "stop" : 1653642326890,
+        "duration" : 14556
+      }
+    } ]
+  },
+  "aa331591cb047829b4f6382b5dd3be7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9633b20a2b97ed7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642232861,
+        "stop" : 1653642266696,
+        "duration" : 33835
+      }
+    } ]
+  },
+  "cecf444c7cd28f2144187e745fd25dfc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67446953bea91c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642219420,
+        "stop" : 1653642221244,
+        "duration" : 1824
+      }
+    } ]
+  },
+  "71abcea04a5197585bf301c2b7667905" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e910743683b38ddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653642268398,
+        "stop" : 1653642310575,
+        "duration" : 42177
+      }
+    } ]
+  },
+  "11605a2839af45ee46e5f8abf02e5d3f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce4b52b701e0e212",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "time" : {
+        "start" : 1653642507724,
+        "stop" : 1653642512683,
+        "duration" : 4959
+      }
+    } ]
+  },
+  "2ece14a414be3507138528ace25f60b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98e01314b5f55c54",
+      "status" : "broken",
+      "statusDetails" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1653642541692,
+        "stop" : 1653642556256,
+        "duration" : 14564
       }
     } ]
   }
