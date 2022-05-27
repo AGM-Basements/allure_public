@@ -1,12 +1,12 @@
 {
-  "uid" : "216b8d225041c3ca",
-  "name" : "Should edit existing project name to fn0s3project",
-  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to fn0s3project",
-  "historyId" : "36921c511fed21a0e7b803caacf53c4c",
+  "uid" : "c757de1b6f6e882",
+  "name" : "Open new page",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open new page",
+  "historyId" : "1ed40f8f85a637fb3987d45a82da73f1",
   "time" : {
-    "start" : 1653643135869,
-    "stop" : 1653643180687,
-    "duration" : 44818
+    "start" : 1653644029805,
+    "stop" : 1653644030341,
+    "duration" : 536
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-17"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should edit existing project name to fn0s3project"
+    "value" : "Open new page"
   }, {
     "name" : "package",
-    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "216b8d225041c3ca.json",
+  "source" : "c757de1b6f6e882.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

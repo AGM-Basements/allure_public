@@ -1,12 +1,12 @@
 {
-  "uid" : "1fd3bd11f3912c6",
-  "name" : "Should set filters and verify that they work.",
-  "fullName" : "C21: Filtering configurations by country and region..Should set filters and verify that they work.",
-  "historyId" : "97c16e19b8836f8b415cf7380c7b9d04",
+  "uid" : "f36bb6f8efc36fc3",
+  "name" : "Log in as \"Sales Manager\".",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Sales Manager\".",
+  "historyId" : "4dea36847166c485e060f5ecdd2bd2b6",
   "time" : {
-    "start" : 1653642745574,
-    "stop" : 1653642763326,
-    "duration" : 17752
+    "start" : 1653644030341,
+    "stop" : 1653644031203,
+    "duration" : 862
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-1"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should set filters and verify that they work."
+    "value" : "Log in as \"Sales Manager\"."
   }, {
     "name" : "package",
-    "value" : "C21: Filtering configurations by country and region."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1fd3bd11f3912c6.json",
+  "source" : "f36bb6f8efc36fc3.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

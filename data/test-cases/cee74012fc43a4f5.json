@@ -1,12 +1,12 @@
 {
-  "uid" : "65d2c9e1c2bbf4af",
-  "name" : "Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name.",
-  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name.",
-  "historyId" : "e3003b20995e7ee0483e926d4fe51d89",
+  "uid" : "cee74012fc43a4f5",
+  "name" : "Log in as \"Scheduler\".",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Scheduler\".",
+  "historyId" : "b72974d117a776d48d1da6ef898b3ea2",
   "time" : {
-    "start" : 1653642980273,
-    "stop" : 1653643014410,
-    "duration" : 34137
+    "start" : 1653644010869,
+    "stop" : 1653644012046,
+    "duration" : 1177
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-12"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should reserve project for 2022-08-22 configuration with testhgcqk1 slot name."
+    "value" : "Log in as \"Scheduler\"."
   }, {
     "name" : "package",
-    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "65d2c9e1c2bbf4af.json",
+  "source" : "cee74012fc43a4f5.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

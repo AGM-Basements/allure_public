@@ -1,114 +1,15 @@
 {
-  "total" : 18,
+  "total" : 1,
   "items" : [ {
     "uid" : "daa70a43b342a6843b94bfee27c4ff05",
     "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "9d7a973974014cdef7bc4e2ea4785340",
-    "name" : "C37: The scheduler can move the project to the next week",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "62260e6c8d39482ddb75e1d94a9827a6",
-    "name" : "C40: The scheduler can delete an existing project",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "47120f1cc119ee6fe08e03f72fff7419",
-    "name" : "C41: The sales manager can't delete an existing project\"",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "afc602dce391dfe54a8c129e699af88e",
-    "name" : "C20: Filtering configurations by date (weeks).",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "1ad92b88f3e578a62f17c88ce68ec2e3",
-    "name" : "C21: Filtering configurations by country and region.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "eb459f7343f12e1101a0573747a17006",
-    "name" : "C22: Filtering configurations by project type.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "846f3791d2e734f2cf50bd11c94f2c2d",
-    "name" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "e12d4456af4e661256e17828dbe86d6e",
-    "name" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "77b5c6cbf44847dc9974f9f6de6ff32d",
-    "name" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
+      "total" : 9
     }
   } ]
 }

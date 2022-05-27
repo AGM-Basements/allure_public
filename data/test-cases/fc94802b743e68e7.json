@@ -1,12 +1,12 @@
 {
-  "uid" : "9ed5002981b0c531",
-  "name" : "Should verify that can't move project project1p1rn1 to date without empty slots",
-  "fullName" : "C33: The sales manager can't exceed the slot reservation limit.Should verify that can't move project project1p1rn1 to date without empty slots",
-  "historyId" : "6218206ed290dacaed7f39e63385376a",
+  "uid" : "fc94802b743e68e7",
+  "name" : "As \"Scheduler\" add new configuration.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" add new configuration.",
+  "historyId" : "54e8caae774769e11a2b893d0161e91",
   "time" : {
-    "start" : 1653642864429,
-    "stop" : 1653642922086,
-    "duration" : 57657
+    "start" : 1653644025306,
+    "stop" : 1653644029805,
+    "duration" : 4499
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-10"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should verify that can't move project project1p1rn1 to date without empty slots"
+    "value" : "As \"Scheduler\" add new configuration."
   }, {
     "name" : "package",
-    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9ed5002981b0c531.json",
+  "source" : "fc94802b743e68e7.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

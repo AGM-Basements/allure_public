@@ -6,65 +6,14 @@
     "children" : [ {
       "name" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
       "children" : [ {
-        "name" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-        "uid" : "5a0d719c6c933c8d",
+        "name" : "As \"Scheduler\" clean form structure",
+        "uid" : "ee3178e6aeb9df4a",
         "parentUid" : "ffd2dfe774c60e07dcc8f715bd5df2a2",
         "status" : "broken",
         "time" : {
-          "start" : 1653642792420,
-          "stop" : 1653642807396,
-          "duration" : 14976
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"before all\" hook for C37: The scheduler can move the project to the next week",
-        "uid" : "2706de1adba61180",
-        "parentUid" : "ffd2dfe774c60e07dcc8f715bd5df2a2",
-        "status" : "broken",
-        "time" : {
-          "start" : 1653643058876,
-          "stop" : 1653643074165,
-          "duration" : 15289
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"before all\" hook for C40: The scheduler can delete an existing project",
-        "uid" : "93878f56c67b5c2d",
-        "parentUid" : "ffd2dfe774c60e07dcc8f715bd5df2a2",
-        "status" : "broken",
-        "time" : {
-          "start" : 1653643086554,
-          "stop" : 1653643101572,
-          "duration" : 15018
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"before all\" hook for C41: The sales manager can't delete an existing project\"",
-        "uid" : "32fa1cbe86a455c5",
-        "parentUid" : "ffd2dfe774c60e07dcc8f715bd5df2a2",
-        "status" : "broken",
-        "time" : {
-          "start" : 1653643108404,
-          "stop" : 1653643123409,
-          "duration" : 15005
+          "start" : 1653644012247,
+          "stop" : 1653644025151,
+          "duration" : 12904
         },
         "flaky" : false,
         "newFailed" : false,
@@ -77,81 +26,5 @@
       "uid" : "ffd2dfe774c60e07dcc8f715bd5df2a2"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
-  }, {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
-      "children" : [ {
-        "name" : "\"after all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-        "uid" : "e0cb0f6eb51a235e",
-        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653642807396,
-          "stop" : 1653642817798,
-          "duration" : 10402
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"after all\" hook for C37: The scheduler can move the project to the next week",
-        "uid" : "5b964fe2dfb6973",
-        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653643074172,
-          "stop" : 1653643084455,
-          "duration" : 10283
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"after all\" hook for C40: The scheduler can delete an existing project",
-        "uid" : "48e0b6ba6e6e2496",
-        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653643101572,
-          "stop" : 1653643106283,
-          "duration" : 4711
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      }, {
-        "name" : "\"after all\" hook for C41: The sales manager can't delete an existing project\"",
-        "uid" : "80341dfab2afbd6c",
-        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653643123412,
-          "stop" : 1653643133790,
-          "duration" : 10378
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "821a397e0bb0ee55dd8ab52e5d349a68"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "5a0d719c6c933c8d",
-  "name" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\"",
-  "historyId" : "3c02ace3f7ad6ec2c62f6af2e3e75ed0",
+  "uid" : "ee3178e6aeb9df4a",
+  "name" : "As \"Scheduler\" clean form structure",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" clean form structure",
+  "historyId" : "27b900be64833603e32b8bb04f565c71",
   "time" : {
-    "start" : 1653642792420,
-    "stop" : 1653642807396,
-    "duration" : 14976
+    "start" : 1653644012247,
+    "stop" : 1653644025151,
+    "duration" : 12904
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -20,6 +20,24 @@
   "retriesCount" : 0,
   "retriesStatusChange" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms",
+    "statusTrace" : "Error: element (\".SnackbarContainer-root > div:last-child #notistack-snackbar\") still not displayed after 10000ms\n                    at async Helper.waitForElementDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:75:9)\n                    at async Helper.getElementText (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:191:9)\n                    at async Helper.getPopupNotificationText (/home/runner/work/app_tests/app_tests/test/utilities/helper.ts:10:16)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "354ee4434250e3f3",
+      "name" : "Screenshot",
+      "source" : "354ee4434250e3f3.png",
+      "type" : "image/png",
+      "size" : 31408
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -29,7 +47,7 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-8"
+    "value" : "0-0"
   }, {
     "name" : "suite",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -38,7 +56,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "\"before all\" hook for C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "As \"Scheduler\" clean form structure"
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -63,6 +81,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "5a0d719c6c933c8d.json",
+  "source" : "ee3178e6aeb9df4a.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

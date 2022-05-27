@@ -1,12 +1,12 @@
 {
-  "uid" : "47d403960654752c",
-  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "fullName" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server..Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "historyId" : "784f548463295d5ab791090656bf5f16",
+  "uid" : "1b5a175e48806bf",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name.",
+  "historyId" : "e7ac87c01b54b635d8b99041b8cb0419",
   "time" : {
-    "start" : 1653642781322,
-    "stop" : 1653642782181,
-    "duration" : 859
+    "start" : 1653644031203,
+    "stop" : 1653644051279,
+    "duration" : 20076
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-5"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testClass",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button."
+    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name."
   }, {
     "name" : "package",
-    "value" : "C4: Login to \"Master Schedule\" application without any credentials at Staging server."
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "47d403960654752c.json",
+  "source" : "1b5a175e48806bf.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }
