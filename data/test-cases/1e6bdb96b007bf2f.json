@@ -1,12 +1,12 @@
 {
-  "uid" : "5fe5902e9078d23",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
-  "historyId" : "ff8eb4cda284a19baee9a8d8d2670417",
+  "uid" : "1e6bdb96b007bf2f",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "C56: Creating configurations for subsequent years..Should set filters as you set for scheduling date.",
+  "historyId" : "a2db341bf29e93df743d2339de5e0aa1",
   "time" : {
-    "start" : 1653644718199,
-    "stop" : 1653644739595,
-    "duration" : 21396
+    "start" : 1653645800966,
+    "stop" : 1653645810946,
+    "duration" : 9980
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-36"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C56: Creating configurations for subsequent years."
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C56: Creating configurations for subsequent years."
   }, {
     "name" : "testMethod",
-    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name."
+    "value" : "Should set filters as you set for scheduling date."
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C56: Creating configurations for subsequent years."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5fe5902e9078d23.json",
+  "source" : "1e6bdb96b007bf2f.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

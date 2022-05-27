@@ -1,0 +1,86 @@
+{
+  "uid" : "cf853d17cc28c636",
+  "name" : "Should verify that input displayed in reserve form",
+  "fullName" : "C15: The scheduler can add a new column..Should verify that input displayed in reserve form",
+  "historyId" : "9ed27f431a8d5355fbe75fa2a9682d91",
+  "time" : {
+    "start" : 1653645517235,
+    "stop" : 1653645532438,
+    "duration" : 15203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#select-countryId\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"#select-countryId\") still not clickable after 15000ms\n                    at async FilterPage.waitForElementClickable (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:87:9)\n                    at async FilterPage.click (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:137:9)\n                    at async FilterPage.clickDdlCountry (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:55:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"#select-countryId\") still not clickable after 15000ms",
+    "statusTrace" : "Error: element (\"#select-countryId\") still not clickable after 15000ms\n                    at async FilterPage.waitForElementClickable (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:87:9)\n                    at async FilterPage.click (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:137:9)\n                    at async FilterPage.clickDdlCountry (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:55:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "12c0abb56b24a342",
+      "name" : "Screenshot",
+      "source" : "12c0abb56b24a342.png",
+      "type" : "image/png",
+      "size" : 39394
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C15: The scheduler can add a new column."
+  }, {
+    "name" : "testClass",
+    "value" : "C15: The scheduler can add a new column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input displayed in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C15: The scheduler can add a new column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cf853d17cc28c636.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

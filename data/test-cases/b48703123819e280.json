@@ -1,12 +1,12 @@
 {
-  "uid" : "fa9d35d1dd4a7bec",
-  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Schedule\" button.",
-  "historyId" : "80796dab58996c12732add349effe4aa",
+  "uid" : "b48703123819e280",
+  "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "fullName" : "C13: Verify that added date applied only to the selected \"project type\"..Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "historyId" : "2a8767e9d83fd9bc02d428ad1fce0557",
   "time" : {
-    "start" : 1653644712518,
-    "stop" : 1653644712652,
-    "duration" : 134
+    "start" : 1653645649759,
+    "stop" : 1653645678066,
+    "duration" : 28307
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-28"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
   }, {
     "name" : "testMethod",
-    "value" : "As \"Scheduler\" click the \"Update Schedule\" button."
+    "value" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date."
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fa9d35d1dd4a7bec.json",
+  "source" : "b48703123819e280.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

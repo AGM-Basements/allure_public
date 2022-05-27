@@ -1,12 +1,12 @@
 {
-  "uid" : "83f6ff9ed45e0ba2",
-  "name" : "Log in as \"Sales Manager\".",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Sales Manager\".",
-  "historyId" : "4dea36847166c485e060f5ecdd2bd2b6",
+  "uid" : "bba11f97fcde8e66",
+  "name" : "Should edit created project projectxm6bk",
+  "fullName" : "C36: The sales manager can move the project to the next week.Should edit created project projectxm6bk",
+  "historyId" : "ccbbe6c270a342746d97f13f5d91b163",
   "time" : {
-    "start" : 1653644717360,
-    "stop" : 1653644718199,
-    "duration" : 839
+    "start" : 1653645258193,
+    "stop" : 1653645300359,
+    "duration" : 42166
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-13"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "testMethod",
-    "value" : "Log in as \"Sales Manager\"."
+    "value" : "Should edit created project projectxm6bk"
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C36: The sales manager can move the project to the next week"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "83f6ff9ed45e0ba2.json",
+  "source" : "bba11f97fcde8e66.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

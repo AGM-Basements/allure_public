@@ -1,0 +1,62 @@
+{
+  "uid" : "9ac4e534997d2cef",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "fullName" : "C55: The scheduler can edit areas at existing configuration..Should set filters for edited configuration and verify editing.",
+  "historyId" : "810ed95886fddd42c77b03828be723b0",
+  "time" : {
+    "start" : 1653645781709,
+    "stop" : 1653645791789,
+    "duration" : 10080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-35"
+  }, {
+    "name" : "suite",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify editing."
+  }, {
+    "name" : "package",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ac4e534997d2cef.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

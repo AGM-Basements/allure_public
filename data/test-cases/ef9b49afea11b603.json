@@ -1,12 +1,12 @@
 {
-  "uid" : "5cf1c0344d4aa4f3",
-  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Form Structure\" button.",
-  "historyId" : "6407da82656cf6f4d83bc7e41a5bdeda",
+  "uid" : "ef9b49afea11b603",
+  "name" : "As \"Scheduler\" clean form structure",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" clean form structure",
+  "historyId" : "27b900be64833603e32b8bb04f565c71",
   "time" : {
-    "start" : 1653644708818,
-    "stop" : 1653644708950,
-    "duration" : 132
+    "start" : 1653645030192,
+    "stop" : 1653645033779,
+    "duration" : 3587
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,7 +27,7 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-8"
   }, {
     "name" : "suite",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "As \"Scheduler\" click the \"Update Form Structure\" button."
+    "value" : "As \"Scheduler\" clean form structure"
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5cf1c0344d4aa4f3.json",
+  "source" : "ef9b49afea11b603.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

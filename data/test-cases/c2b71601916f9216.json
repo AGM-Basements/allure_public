@@ -1,12 +1,12 @@
 {
-  "uid" : "a5560e0aea1c703e",
-  "name" : "Open new page",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open new page",
-  "historyId" : "1ed40f8f85a637fb3987d45a82da73f1",
+  "uid" : "c2b71601916f9216",
+  "name" : "Should delete created input from form structure",
+  "fullName" : "C19: The scheduler can delete input form for an existing column..Should delete created input from form structure",
+  "historyId" : "48da9aff3e44b200f4cee17e0263e9f2",
   "time" : {
-    "start" : 1653644716983,
-    "stop" : 1653644717360,
-    "duration" : 377
+    "start" : 1653645584859,
+    "stop" : 1653645587742,
+    "duration" : 2883
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-23"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C19: The scheduler can delete input form for an existing column."
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C19: The scheduler can delete input form for an existing column."
   }, {
     "name" : "testMethod",
-    "value" : "Open new page"
+    "value" : "Should delete created input from form structure"
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C19: The scheduler can delete input form for an existing column."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a5560e0aea1c703e.json",
+  "source" : "c2b71601916f9216.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

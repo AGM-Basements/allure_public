@@ -1,12 +1,12 @@
 {
-  "uid" : "8416fe1f44a7a469",
-  "name" : "As \"Scheduler\" add new configuration.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" add new configuration.",
-  "historyId" : "54e8caae774769e11a2b893d0161e91",
+  "uid" : "8bef89a691d7789d",
+  "name" : "Should try to add configuration.",
+  "fullName" : "C31: The sales manager can't add a new configuration..Should try to add configuration.",
+  "historyId" : "54b3b2cb2c2891fbb41e8480d134010f",
   "time" : {
-    "start" : 1653644712652,
-    "stop" : 1653644716983,
-    "duration" : 4331
+    "start" : 1653645708772,
+    "stop" : 1653645714223,
+    "duration" : 5451
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,19 +27,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-31"
   }, {
     "name" : "suite",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C31: The sales manager can't add a new configuration."
   }, {
     "name" : "testClass",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C31: The sales manager can't add a new configuration."
   }, {
     "name" : "testMethod",
-    "value" : "As \"Scheduler\" add new configuration."
+    "value" : "Should try to add configuration."
   }, {
     "name" : "package",
-    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+    "value" : "C31: The sales manager can't add a new configuration."
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8416fe1f44a7a469.json",
+  "source" : "8bef89a691d7789d.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }
