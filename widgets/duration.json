@@ -1,90 +1,90 @@
 [ {
-  "uid" : "f940f3dceade5cbc",
+  "uid" : "bbf997a7476e772",
   "name" : "Open page",
   "time" : {
-    "start" : 1653644480723,
-    "stop" : 1653644481415,
-    "duration" : 692
+    "start" : 1653644707355,
+    "stop" : 1653644707974,
+    "duration" : 619
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "169f45d35772b7c1",
-  "name" : "Log in as \"Sales Manager\".",
-  "time" : {
-    "start" : 1653644492584,
-    "stop" : 1653644493434,
-    "duration" : 850
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c3da33476af1a7f4",
-  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653644486549,
-    "stop" : 1653644486682,
-    "duration" : 133
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "513c3d29fd6522b1",
-  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653644482801,
-    "stop" : 1653644482994,
-    "duration" : 193
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "db59188bb16b3e99",
-  "name" : "Open new page",
-  "time" : {
-    "start" : 1653644491393,
-    "stop" : 1653644492583,
-    "duration" : 1190
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "af7947e540ff9e9c",
-  "name" : "As \"Scheduler\" add new configuration.",
-  "time" : {
-    "start" : 1653644486682,
-    "stop" : 1653644491392,
-    "duration" : 4710
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "591f37bdc7178481",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name.",
-  "time" : {
-    "start" : 1653644493434,
-    "stop" : 1653644513928,
-    "duration" : 20494
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "73bb6aed788df623",
+  "uid" : "d96612d42528aa74",
   "name" : "Log in as \"Scheduler\".",
   "time" : {
-    "start" : 1653644481416,
-    "stop" : 1653644482800,
-    "duration" : 1384
+    "start" : 1653644707974,
+    "stop" : 1653644708818,
+    "duration" : 844
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1bf1a702e96ea255",
+  "uid" : "fa9d35d1dd4a7bec",
+  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653644712518,
+    "stop" : 1653644712652,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8416fe1f44a7a469",
+  "name" : "As \"Scheduler\" add new configuration.",
+  "time" : {
+    "start" : 1653644712652,
+    "stop" : 1653644716983,
+    "duration" : 4331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fe5902e9078d23",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
+  "time" : {
+    "start" : 1653644718199,
+    "stop" : 1653644739595,
+    "duration" : 21396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4831fbc6eb035cd5",
   "name" : "As \"Scheduler\" clean form structure",
   "time" : {
-    "start" : 1653644482994,
-    "stop" : 1653644486549,
-    "duration" : 3555
+    "start" : 1653644708950,
+    "stop" : 1653644712518,
+    "duration" : 3568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83f6ff9ed45e0ba2",
+  "name" : "Log in as \"Sales Manager\".",
+  "time" : {
+    "start" : 1653644717360,
+    "stop" : 1653644718199,
+    "duration" : 839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5560e0aea1c703e",
+  "name" : "Open new page",
+  "time" : {
+    "start" : 1653644716983,
+    "stop" : 1653644717360,
+    "duration" : 377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf1c0344d4aa4f3",
+  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653644708818,
+    "stop" : 1653644708950,
+    "duration" : 132
   },
   "status" : "passed",
   "severity" : "normal"

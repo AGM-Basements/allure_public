@@ -1,12 +1,12 @@
 {
-  "uid" : "169f45d35772b7c1",
-  "name" : "Log in as \"Sales Manager\".",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Sales Manager\".",
-  "historyId" : "4dea36847166c485e060f5ecdd2bd2b6",
+  "uid" : "5fe5902e9078d23",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
+  "historyId" : "ff8eb4cda284a19baee9a8d8d2670417",
   "time" : {
-    "start" : 1653644492584,
-    "stop" : 1653644493434,
-    "duration" : 850
+    "start" : 1653644718199,
+    "stop" : 1653644739595,
+    "duration" : 21396
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Log in as \"Sales Manager\"."
+    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name."
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "169f45d35772b7c1.json",
+  "source" : "5fe5902e9078d23.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

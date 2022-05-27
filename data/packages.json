@@ -4,13 +4,13 @@
     "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "children" : [ {
       "name" : "Open page",
-      "uid" : "f940f3dceade5cbc",
+      "uid" : "bbf997a7476e772",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644480723,
-        "stop" : 1653644481415,
-        "duration" : 692
+        "start" : 1653644707355,
+        "stop" : 1653644707974,
+        "duration" : 619
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +21,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Log in as \"Scheduler\".",
-      "uid" : "73bb6aed788df623",
+      "uid" : "d96612d42528aa74",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644481416,
-        "stop" : 1653644482800,
-        "duration" : 1384
+        "start" : 1653644707974,
+        "stop" : 1653644708818,
+        "duration" : 844
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,13 +38,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
-      "uid" : "513c3d29fd6522b1",
+      "uid" : "5cf1c0344d4aa4f3",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644482801,
-        "stop" : 1653644482994,
-        "duration" : 193
+        "start" : 1653644708818,
+        "stop" : 1653644708950,
+        "duration" : 132
       },
       "flaky" : false,
       "newFailed" : false,
@@ -55,13 +55,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "As \"Scheduler\" clean form structure",
-      "uid" : "1bf1a702e96ea255",
+      "uid" : "4831fbc6eb035cd5",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644482994,
-        "stop" : 1653644486549,
-        "duration" : 3555
+        "start" : 1653644708950,
+        "stop" : 1653644712518,
+        "duration" : 3568
       },
       "flaky" : false,
       "newFailed" : false,
@@ -72,13 +72,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-      "uid" : "c3da33476af1a7f4",
+      "uid" : "fa9d35d1dd4a7bec",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644486549,
-        "stop" : 1653644486682,
-        "duration" : 133
+        "start" : 1653644712518,
+        "stop" : 1653644712652,
+        "duration" : 134
       },
       "flaky" : false,
       "newFailed" : false,
@@ -89,13 +89,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "As \"Scheduler\" add new configuration.",
-      "uid" : "af7947e540ff9e9c",
+      "uid" : "8416fe1f44a7a469",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644486682,
-        "stop" : 1653644491392,
-        "duration" : 4710
+        "start" : 1653644712652,
+        "stop" : 1653644716983,
+        "duration" : 4331
       },
       "flaky" : false,
       "newFailed" : false,
@@ -106,13 +106,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Open new page",
-      "uid" : "db59188bb16b3e99",
+      "uid" : "a5560e0aea1c703e",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644491393,
-        "stop" : 1653644492583,
-        "duration" : 1190
+        "start" : 1653644716983,
+        "stop" : 1653644717360,
+        "duration" : 377
       },
       "flaky" : false,
       "newFailed" : false,
@@ -123,13 +123,13 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Log in as \"Sales Manager\".",
-      "uid" : "169f45d35772b7c1",
+      "uid" : "83f6ff9ed45e0ba2",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644492584,
-        "stop" : 1653644493434,
-        "duration" : 850
+        "start" : 1653644717360,
+        "stop" : 1653644718199,
+        "duration" : 839
       },
       "flaky" : false,
       "newFailed" : false,
@@ -139,14 +139,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name.",
-      "uid" : "591f37bdc7178481",
+      "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with test8p5461 slot name.",
+      "uid" : "5fe5902e9078d23",
       "parentUid" : "a80c7ae3529bd929cd8042da57b4748c",
       "status" : "passed",
       "time" : {
-        "start" : 1653644493434,
-        "stop" : 1653644513928,
-        "duration" : 20494
+        "start" : 1653644718199,
+        "stop" : 1653644739595,
+        "duration" : 21396
       },
       "flaky" : false,
       "newFailed" : false,

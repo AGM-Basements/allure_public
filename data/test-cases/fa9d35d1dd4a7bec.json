@@ -1,12 +1,12 @@
 {
-  "uid" : "591f37bdc7178481",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name.",
-  "historyId" : "9596deee8762b693ab0d1b0a35214c2d",
+  "uid" : "fa9d35d1dd4a7bec",
+  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Schedule\" button.",
+  "historyId" : "80796dab58996c12732add349effe4aa",
   "time" : {
-    "start" : 1653644493434,
-    "stop" : 1653644513928,
-    "duration" : 20494
+    "start" : 1653644712518,
+    "stop" : 1653644712652,
+    "duration" : 134
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name."
+    "value" : "As \"Scheduler\" click the \"Update Schedule\" button."
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "591f37bdc7178481.json",
+  "source" : "fa9d35d1dd4a7bec.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

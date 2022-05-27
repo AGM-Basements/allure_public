@@ -1,12 +1,12 @@
 {
-  "uid" : "db59188bb16b3e99",
-  "name" : "Open new page",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open new page",
-  "historyId" : "1ed40f8f85a637fb3987d45a82da73f1",
+  "uid" : "d96612d42528aa74",
+  "name" : "Log in as \"Scheduler\".",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Scheduler\".",
+  "historyId" : "b72974d117a776d48d1da6ef898b3ea2",
   "time" : {
-    "start" : 1653644491393,
-    "stop" : 1653644492583,
-    "duration" : 1190
+    "start" : 1653644707974,
+    "stop" : 1653644708818,
+    "duration" : 844
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Open new page"
+    "value" : "Log in as \"Scheduler\"."
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "db59188bb16b3e99.json",
+  "source" : "d96612d42528aa74.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }
