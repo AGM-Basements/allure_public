@@ -1,12 +1,12 @@
 {
-  "uid" : "2a63741bfbdc21c3",
-  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Schedule\" button.",
-  "historyId" : "80796dab58996c12732add349effe4aa",
+  "uid" : "1bf1a702e96ea255",
+  "name" : "As \"Scheduler\" clean form structure",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" clean form structure",
+  "historyId" : "27b900be64833603e32b8bb04f565c71",
   "time" : {
-    "start" : 1653644025153,
-    "stop" : 1653644025306,
-    "duration" : 153
+    "start" : 1653644482994,
+    "stop" : 1653644486549,
+    "duration" : 3555
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "As \"Scheduler\" click the \"Update Schedule\" button."
+    "value" : "As \"Scheduler\" clean form structure"
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2a63741bfbdc21c3.json",
+  "source" : "1bf1a702e96ea255.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

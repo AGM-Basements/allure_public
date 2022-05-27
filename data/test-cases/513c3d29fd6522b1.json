@@ -1,12 +1,12 @@
 {
-  "uid" : "5334b115ce5dc5c",
-  "name" : "Open page",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open page",
-  "historyId" : "382b81c56f0a7c74ca84bcf5a409aef3",
+  "uid" : "513c3d29fd6522b1",
+  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "historyId" : "6407da82656cf6f4d83bc7e41a5bdeda",
   "time" : {
-    "start" : 1653644009345,
-    "stop" : 1653644010868,
-    "duration" : 1523
+    "start" : 1653644482801,
+    "stop" : 1653644482994,
+    "duration" : 193
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Open page"
+    "value" : "As \"Scheduler\" click the \"Update Form Structure\" button."
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5334b115ce5dc5c.json",
+  "source" : "513c3d29fd6522b1.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

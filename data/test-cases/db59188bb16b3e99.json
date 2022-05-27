@@ -1,12 +1,12 @@
 {
-  "uid" : "1b5a175e48806bf",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name.",
-  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name.",
-  "historyId" : "e7ac87c01b54b635d8b99041b8cb0419",
+  "uid" : "db59188bb16b3e99",
+  "name" : "Open new page",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Open new page",
+  "historyId" : "1ed40f8f85a637fb3987d45a82da73f1",
   "time" : {
-    "start" : 1653644031203,
-    "stop" : 1653644051279,
-    "duration" : 20076
+    "start" : 1653644491393,
+    "stop" : 1653644492583,
+    "duration" : 1190
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -36,7 +36,7 @@
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
   }, {
     "name" : "testMethod",
-    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name."
+    "value" : "Open new page"
   }, {
     "name" : "package",
     "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1b5a175e48806bf.json",
+  "source" : "db59188bb16b3e99.json",
   "parameterValues" : [ "chrome-101.0.4951.64" ]
 }

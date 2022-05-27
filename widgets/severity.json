@@ -1,90 +1,90 @@
 [ {
-  "uid" : "fc94802b743e68e7",
-  "name" : "As \"Scheduler\" add new configuration.",
-  "time" : {
-    "start" : 1653644025306,
-    "stop" : 1653644029805,
-    "duration" : 4499
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee3178e6aeb9df4a",
+  "uid" : "1bf1a702e96ea255",
   "name" : "As \"Scheduler\" clean form structure",
   "time" : {
-    "start" : 1653644012247,
-    "stop" : 1653644025151,
-    "duration" : 12904
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1b5a175e48806bf",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testciy3h1 slot name.",
-  "time" : {
-    "start" : 1653644031203,
-    "stop" : 1653644051279,
-    "duration" : 20076
+    "start" : 1653644482994,
+    "stop" : 1653644486549,
+    "duration" : 3555
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5334b115ce5dc5c",
-  "name" : "Open page",
-  "time" : {
-    "start" : 1653644009345,
-    "stop" : 1653644010868,
-    "duration" : 1523
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c757de1b6f6e882",
-  "name" : "Open new page",
-  "time" : {
-    "start" : 1653644029805,
-    "stop" : 1653644030341,
-    "duration" : 536
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "542bb46c5f549090",
-  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653644012046,
-    "stop" : 1653644012247,
-    "duration" : 201
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2a63741bfbdc21c3",
-  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653644025153,
-    "stop" : 1653644025306,
-    "duration" : 153
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cee74012fc43a4f5",
-  "name" : "Log in as \"Scheduler\".",
-  "time" : {
-    "start" : 1653644010869,
-    "stop" : 1653644012046,
-    "duration" : 1177
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f36bb6f8efc36fc3",
+  "uid" : "169f45d35772b7c1",
   "name" : "Log in as \"Sales Manager\".",
   "time" : {
-    "start" : 1653644030341,
-    "stop" : 1653644031203,
-    "duration" : 862
+    "start" : 1653644492584,
+    "stop" : 1653644493434,
+    "duration" : 850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db59188bb16b3e99",
+  "name" : "Open new page",
+  "time" : {
+    "start" : 1653644491393,
+    "stop" : 1653644492583,
+    "duration" : 1190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "513c3d29fd6522b1",
+  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653644482801,
+    "stop" : 1653644482994,
+    "duration" : 193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73bb6aed788df623",
+  "name" : "Log in as \"Scheduler\".",
+  "time" : {
+    "start" : 1653644481416,
+    "stop" : 1653644482800,
+    "duration" : 1384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f940f3dceade5cbc",
+  "name" : "Open page",
+  "time" : {
+    "start" : 1653644480723,
+    "stop" : 1653644481415,
+    "duration" : 692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af7947e540ff9e9c",
+  "name" : "As \"Scheduler\" add new configuration.",
+  "time" : {
+    "start" : 1653644486682,
+    "stop" : 1653644491392,
+    "duration" : 4710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3da33476af1a7f4",
+  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653644486549,
+    "stop" : 1653644486682,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "591f37bdc7178481",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-22 configuration with testipapb1 slot name.",
+  "time" : {
+    "start" : 1653644493434,
+    "stop" : 1653644513928,
+    "duration" : 20494
   },
   "status" : "passed",
   "severity" : "normal"
