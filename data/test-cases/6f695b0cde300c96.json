@@ -1,0 +1,86 @@
+{
+  "uid" : "6f695b0cde300c96",
+  "name" : "Should set filters for edited configuration and verify deleting of area.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration..Should set filters for edited configuration and verify deleting of area.",
+  "historyId" : "4dcd8a5e2674e1f13875f8bb145f3371",
+  "time" : {
+    "start" : 1653916573536,
+    "stop" : 1653916595694,
+    "duration" : 22158
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 15000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 15000ms\n                    at async FilterPage.waitUntilDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:107:9)\n                    at async FilterPage.filter (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:256:9)\n                    at async Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C54.spec.ts:63:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "waitUntil condition timed out after 15000ms",
+    "statusTrace" : "Error: waitUntil condition timed out after 15000ms\n                    at async FilterPage.waitUntilDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:107:9)\n                    at async FilterPage.filter (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:256:9)\n                    at async Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C54.spec.ts:63:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51f41fbf9a80cd9a",
+      "name" : "Screenshot",
+      "source" : "51f41fbf9a80cd9a.png",
+      "type" : "image/png",
+      "size" : 39199
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-38"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify deleting of area."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6f695b0cde300c96.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "bcd6c264b92c350e",
+  "name" : "\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+  "fullName" : "C9: The scheduler can delete an existing configuration..\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+  "historyId" : "deaf98ff8cef59f494ec4aff32fe981d",
+  "time" : {
+    "start" : 1653916692719,
+    "stop" : 1653916716585,
+    "duration" : 23866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 15000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 15000ms\n                    at async FilterPage.waitUntilDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:107:9)\n                    at async FilterPage.filter (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:256:9)\n                    at async Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C9.spec.ts:49:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-42"
+  }, {
+    "name" : "suite",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "package",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bcd6c264b92c350e.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

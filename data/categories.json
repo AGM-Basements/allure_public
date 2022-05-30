@@ -1,5 +1,216 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Value of test0e2db3 must be a date with YYYY-MM-DD format\"",
+      "children" : [ {
+        "name" : "\"before all\" hook for C22: Filtering configurations by project type.",
+        "uid" : "df3ad2c87761e012",
+        "parentUid" : "cf316540ee7c1cb595c79c11fcdf86bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653915529013,
+          "stop" : 1653915542914,
+          "duration" : 13901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "cf316540ee7c1cb595c79c11fcdf86bf"
+    }, {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: false\n                Received: true",
+      "children" : [ {
+        "name" : "Should verify that input without type cannot be created.",
+        "uid" : "2f1d27d27dc48c03",
+        "parentUid" : "19a176217a26805f0d44bbfda36ce55c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653916413108,
+          "stop" : 1653916417275,
+          "duration" : 4167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "19a176217a26805f0d44bbfda36ce55c"
+    }, {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+      "children" : [ {
+        "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+        "uid" : "90b1ec6ccc049719",
+        "parentUid" : "7d22550bcc2853ce14c87084cc359937",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653916448073,
+          "stop" : 1653916474716,
+          "duration" : 26643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "7d22550bcc2853ce14c87084cc359937"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "waitUntil condition timed out after 15000ms",
+      "children" : [ {
+        "name" : "Should verify that input is deleted in reserve form",
+        "uid" : "593e94068b2b1ba3",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916230422,
+          "stop" : 1653916253534,
+          "duration" : 23112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should set filters as you set for scheduling date.",
+        "uid" : "b60782720caa7032",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916482717,
+          "stop" : 1653916505889,
+          "duration" : 23172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should verify that configuration added until the end of this year.",
+        "uid" : "833de6258f1759b9",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916530082,
+          "stop" : 1653916551741,
+          "duration" : 21659
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should set filters for edited configuration and verify deleting of area.",
+        "uid" : "6f695b0cde300c96",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916573536,
+          "stop" : 1653916595694,
+          "duration" : 22158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should set filters for edited configuration and verify editing.",
+        "uid" : "ca50293f9fdffc9",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916609185,
+          "stop" : 1653916631335,
+          "duration" : 22150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should set filters as you set for scheduling date.",
+        "uid" : "14f289f6a0afbcbd",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916639271,
+          "stop" : 1653916660960,
+          "duration" : 21689
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "Should set filters as you set for scheduling date.",
+        "uid" : "43367109e37c121f",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916669444,
+          "stop" : 1653916691091,
+          "duration" : 21647
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      }, {
+        "name" : "\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+        "uid" : "bcd6c264b92c350e",
+        "parentUid" : "7a32765981bcc7398deb824e5d577aab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653916692719,
+          "stop" : 1653916716585,
+          "duration" : 23866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "7a32765981bcc7398deb824e5d577aab"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

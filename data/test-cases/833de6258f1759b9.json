@@ -1,0 +1,86 @@
+{
+  "uid" : "833de6258f1759b9",
+  "name" : "Should verify that configuration added until the end of this year.",
+  "fullName" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year..Should verify that configuration added until the end of this year.",
+  "historyId" : "8b520bd27d0fe91c2f6b40c6df1c7e50",
+  "time" : {
+    "start" : 1653916530082,
+    "stop" : 1653916551741,
+    "duration" : 21659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 15000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 15000ms\n                    at async FilterPage.waitUntilDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:107:9)\n                    at async FilterPage.filter (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:256:9)\n                    at async Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C39.spec.ts:46:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "waitUntil condition timed out after 15000ms",
+    "statusTrace" : "Error: waitUntil condition timed out after 15000ms\n                    at async FilterPage.waitUntilDisplayed (/home/runner/work/app_tests/app_tests/test/pageobjects/page.ts:107:9)\n                    at async FilterPage.filter (/home/runner/work/app_tests/app_tests/test/pageobjects/filter.page.ts:256:9)\n                    at async Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateSchedule/C39.spec.ts:46:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7dc7d1581daa5592",
+      "name" : "Screenshot",
+      "source" : "7dc7d1581daa5592.png",
+      "type" : "image/png",
+      "size" : 39240
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-36"
+  }, {
+    "name" : "suite",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testClass",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that configuration added until the end of this year."
+  }, {
+    "name" : "package",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "833de6258f1759b9.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
