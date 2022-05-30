@@ -1,0 +1,62 @@
+{
+  "uid" : "5ff58861153b9c45",
+  "name" : "Should try to add new configuration with two areas same names.",
+  "fullName" : "C53: Inability to create configurations with area same names..Should try to add new configuration with two areas same names.",
+  "historyId" : "38f1913932520e5f4b736c6a8bfb9c86",
+  "time" : {
+    "start" : 1653922337601,
+    "stop" : 1653922342458,
+    "duration" : 4857
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-37"
+  }, {
+    "name" : "suite",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "testClass",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add new configuration with two areas same names."
+  }, {
+    "name" : "package",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ff58861153b9c45.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

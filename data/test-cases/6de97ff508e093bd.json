@@ -1,0 +1,62 @@
+{
+  "uid" : "6de97ff508e093bd",
+  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "historyId" : "6407da82656cf6f4d83bc7e41a5bdeda",
+  "time" : {
+    "start" : 1653921535833,
+    "stop" : 1653921535998,
+    "duration" : 165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "As \"Scheduler\" click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6de97ff508e093bd.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
