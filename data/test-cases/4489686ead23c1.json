@@ -1,0 +1,86 @@
+{
+  "uid" : "4489686ead23c1",
+  "name" : "Should verify that inputs are created in reserve form",
+  "fullName" : "C18: The scheduler can create input field for an existing column with \"text\" type..Should verify that inputs are created in reserve form",
+  "historyId" : "c07555aa08dbe32aab60ea3d9acc7c06",
+  "time" : {
+    "start" : 1653984317350,
+    "stop" : 1653984327973,
+    "duration" : 10623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateFormStructure/C18.spec.ts:96:69)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/UpdateFormStructure/C18.spec.ts:96:69)\n                    at runMicrotasks (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d163ac8d35179867",
+      "name" : "Screenshot",
+      "source" : "d163ac8d35179867.png",
+      "type" : "image/png",
+      "size" : 39198
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testClass",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that inputs are created in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4489686ead23c1.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

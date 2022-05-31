@@ -1,0 +1,62 @@
+{
+  "uid" : "c9e740424ccf3bb1",
+  "name" : "Should edit existing project name to mcn9aproject",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to mcn9aproject",
+  "historyId" : "99ec2c22e0777d5a8b1e01276ea625e6",
+  "time" : {
+    "start" : 1653984095749,
+    "stop" : 1653984143546,
+    "duration" : 47797
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-21"
+  }, {
+    "name" : "suite",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to mcn9aproject"
+  }, {
+    "name" : "package",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9e740424ccf3bb1.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "fb2951fa385479a2",
+  "name" : "Should try to add configuration with empty area name field.",
+  "fullName" : "C30: Verify that a scheduler can't add empty \"area name\"..Should try to add configuration with empty area name field.",
+  "historyId" : "5c7c9ced5183987ba79681336bc1af8f",
+  "time" : {
+    "start" : 1653984499963,
+    "stop" : 1653984503767,
+    "duration" : 3804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-34"
+  }, {
+    "name" : "suite",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add configuration with empty area name field."
+  }, {
+    "name" : "package",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb2951fa385479a2.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

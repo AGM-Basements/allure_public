@@ -1,0 +1,68 @@
+{
+  "uid" : "8e1de17f45d47751",
+  "name" : "\"before all\" hook for C20: Filtering configurations by date (weeks).",
+  "fullName" : "C20: Filtering configurations by date (weeks)..\"before all\" hook for C20: Filtering configurations by date (weeks).",
+  "historyId" : "9d65961c5f6ccb60d9cd31f4414a1c9c",
+  "time" : {
+    "start" : 1653983415266,
+    "stop" : 1653983424090,
+    "duration" : 8824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Context.<anonymous> (/home/runner/work/app_tests/app_tests/test/specs/Filters/C20.spec.ts:44:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "testClass",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "package",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8e1de17f45d47751.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
