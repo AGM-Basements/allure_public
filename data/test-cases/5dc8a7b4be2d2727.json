@@ -1,0 +1,62 @@
+{
+  "uid" : "5dc8a7b4be2d2727",
+  "name" : "Should add new input for created culumn",
+  "fullName" : "C18: The scheduler can create input field for an existing column with \"text\" type..Should add new input for created culumn",
+  "historyId" : "405fdc15861e5f92a9c40aaf17505b5b",
+  "time" : {
+    "start" : 1653979452901,
+    "stop" : 1653979459106,
+    "duration" : 6205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testClass",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add new input for created culumn"
+  }, {
+    "name" : "package",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5dc8a7b4be2d2727.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
