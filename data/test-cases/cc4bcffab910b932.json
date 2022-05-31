@@ -1,0 +1,62 @@
+{
+  "uid" : "cc4bcffab910b932",
+  "name" : "Should search by date.",
+  "fullName" : "C20: Filtering configurations by date (weeks)..Should search by date.",
+  "historyId" : "db5521a56158bd71e7bb416a1093c203",
+  "time" : {
+    "start" : 1653980082775,
+    "stop" : 1653980089898,
+    "duration" : 7123
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "testClass",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search by date."
+  }, {
+    "name" : "package",
+    "value" : "C20: Filtering configurations by date (weeks)."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc4bcffab910b932.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
