@@ -1,830 +1,810 @@
 [ {
-  "uid" : "6bb9c461049ce09f",
-  "name" : "Should search for created projects by part of the name: project",
-  "time" : {
-    "start" : 1653983550569,
-    "stop" : 1653983597181,
-    "duration" : 46612
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b2b6f751f64cc020",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984184489,
-    "stop" : 1653984197629,
-    "duration" : 13140
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6aa699aea74ba578",
-  "name" : "Should add new input for created culumn",
-  "time" : {
-    "start" : 1653984310733,
-    "stop" : 1653984317350,
-    "duration" : 6617
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "41134b39b37fb185",
-  "name" : "Should verify that configuration added until the end of this year.",
-  "time" : {
-    "start" : 1653984522790,
-    "stop" : 1653984531435,
-    "duration" : 8645
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ba8b0cece40fdcbe",
-  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with random at least 6 symbols.",
-  "time" : {
-    "start" : 1653983495203,
-    "stop" : 1653983497273,
-    "duration" : 2070
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "edd07ffca4e67c93",
-  "name" : "Should delete created project project3hs46",
-  "time" : {
-    "start" : 1653984017410,
-    "stop" : 1653984052886,
-    "duration" : 35476
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6af94c05b8fa507f",
-  "name" : "Should create input.",
-  "time" : {
-    "start" : 1653984197630,
-    "stop" : 1653984203894,
-    "duration" : 6264
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7dd2e611731a71e3",
-  "name" : "Should verify that \"Sales Manager\" can't delete created project projectfbds9",
-  "time" : {
-    "start" : 1653984055100,
-    "stop" : 1653984093427,
-    "duration" : 38327
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "757e6b2b3c354846",
-  "name" : "Open page",
-  "time" : {
-    "start" : 1653983691854,
-    "stop" : 1653983692489,
-    "duration" : 635
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e3800e12ab0590e7",
-  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
-  "time" : {
-    "start" : 1653983492372,
-    "stop" : 1653983493171,
-    "duration" : 799
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1daa698f0615c56b",
-  "name" : "Should edit created project projectltkyq",
-  "time" : {
-    "start" : 1653983973812,
-    "stop" : 1653984015151,
-    "duration" : 41339
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cc6dfeee814e2c58",
-  "name" : "Should set filters as you set for scheduling date and verify deleting.",
-  "time" : {
-    "start" : 1653984687802,
-    "stop" : 1653984687951,
-    "duration" : 149
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c9e740424ccf3bb1",
-  "name" : "Should edit existing project name to mcn9aproject",
-  "time" : {
-    "start" : 1653984095749,
-    "stop" : 1653984143546,
-    "duration" : 47797
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bf4e9f848eb0ec9a",
-  "name" : "Should verify that inputs are created in reserve form",
-  "time" : {
-    "start" : 1653984389304,
-    "stop" : 1653984400412,
-    "duration" : 11108
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "53be356512233b36",
-  "name" : "Should search for created project: project7d27o1",
-  "time" : {
-    "start" : 1653983599492,
-    "stop" : 1653983628124,
-    "duration" : 28632
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ece2ff79dcbe9c72",
-  "name" : "Should verify pop-up errors for reservation with empty input fields.",
-  "time" : {
-    "start" : 1653984145793,
-    "stop" : 1653984182121,
-    "duration" : 36328
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8ca939dcd7e83cdf",
-  "name" : "Should add new inputs for created culumn",
-  "time" : {
-    "start" : 1653984370914,
-    "stop" : 1653984389298,
-    "duration" : 18384
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1903acd3da9c26fc",
-  "name" : "Should search with invalid project name",
-  "time" : {
-    "start" : 1653983674672,
-    "stop" : 1653983689498,
-    "duration" : 14826
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "369736c504323b5f",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984590876,
-    "stop" : 1653984593114,
-    "duration" : 2238
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b372cb5960761c99",
-  "name" : "Should search with empty fields",
-  "time" : {
-    "start" : 1653983628124,
-    "stop" : 1653983646445,
-    "duration" : 18321
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cf9f53137cc4ae3f",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984515392,
-    "stop" : 1653984517675,
-    "duration" : 2283
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c89f73d3144c0fce",
-  "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
-  "time" : {
-    "start" : 1653984420276,
-    "stop" : 1653984422501,
-    "duration" : 2225
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c6769014d7999fe",
-  "name" : "Should search for created project: projectsph541",
-  "time" : {
-    "start" : 1653983648860,
-    "stop" : 1653983674672,
-    "duration" : 25812
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3b681126ebe178e9",
-  "name" : "Should verify that can't move project projectl2q3w1 to date without empty slots",
-  "time" : {
-    "start" : 1653983777690,
-    "stop" : 1653983834131,
-    "duration" : 56441
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5fc43290c51a735f",
-  "name" : "Log in as \"Sales Manager\".",
-  "time" : {
-    "start" : 1653983705372,
-    "stop" : 1653983706318,
-    "duration" : 946
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5871d1e4a8c9cb65",
-  "name" : "Should add configuration",
-  "time" : {
-    "start" : 1653984517675,
-    "stop" : 1653984522789,
-    "duration" : 5114
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d08e59262e2b5327",
-  "name" : "Should add configuration for USA.",
-  "time" : {
-    "start" : 1653984480808,
-    "stop" : 1653984486032,
-    "duration" : 5224
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bbf0cee6891db05e",
-  "name" : "Should try to delete created configuration with project.",
-  "time" : {
-    "start" : 1653984610187,
-    "stop" : 1653984648731,
-    "duration" : 38544
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c66142f649539087",
-  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653983699450,
-    "stop" : 1653983699623,
-    "duration" : 173
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f4b6bc3435e4e52",
-  "name" : "Should edit newly created area name.",
-  "time" : {
-    "start" : 1653984566625,
-    "stop" : 1653984579551,
-    "duration" : 12926
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3314169dc0eb871b",
-  "name" : "Should verify that can't move project projectpl1bh1 to date without empty slots",
-  "time" : {
-    "start" : 1653983836389,
-    "stop" : 1653983889916,
-    "duration" : 53527
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e4199b8619083ab3",
-  "name" : "Should set filters as you set for scheduling date.",
-  "time" : {
-    "start" : 1653984658795,
-    "stop" : 1653984668270,
-    "duration" : 9475
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "43a60c0a45fffe3",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984650987,
-    "stop" : 1653984653417,
-    "duration" : 2430
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18b2f4d49efa9d66",
-  "name" : "Should edit created project projectn2r3v",
-  "time" : {
-    "start" : 1653983929604,
-    "stop" : 1653983971526,
-    "duration" : 41922
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "264b4dad9f857ad7",
-  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
-  "time" : {
-    "start" : 1653983499252,
-    "stop" : 1653983501289,
-    "duration" : 2037
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c00241161e67887",
-  "name" : "Should try to add new configuration with two areas same names.",
-  "time" : {
-    "start" : 1653984533477,
-    "stop" : 1653984541075,
-    "duration" : 7598
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "665e71951e8e276c",
-  "name" : "Should search for created project: projectl9uuh1",
-  "time" : {
-    "start" : 1653983503645,
-    "stop" : 1653983548381,
-    "duration" : 44736
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f5508cdc02d48a15",
-  "name" : "Should reserve project for 2022-08-29 configuration with test4bqcn1 slot name.",
-  "time" : {
-    "start" : 1653983892085,
-    "stop" : 1653983927383,
-    "duration" : 35298
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3d0952e958c026c7",
-  "name" : "Should set filters for edited configuration and verify editing.",
-  "time" : {
-    "start" : 1653984579551,
-    "stop" : 1653984588789,
-    "duration" : 9238
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab4c2c22d8b61b94",
-  "name" : "Should click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653984351508,
-    "stop" : 1653984370914,
-    "duration" : 19406
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "64800848154f2abd",
-  "name" : "Should set filters as you set for scheduling date.",
-  "time" : {
-    "start" : 1653984486032,
-    "stop" : 1653984495692,
-    "duration" : 9660
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "80391e00eb94d500",
-  "name" : "Should verify that created configuration is displayed after filtering by its country.",
-  "time" : {
-    "start" : 1653983431916,
-    "stop" : 1653983452053,
-    "duration" : 20137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5f3ccc4b6f580e31",
-  "name" : "Should verify that input is deleted in reserve form",
-  "time" : {
-    "start" : 1653984277891,
-    "stop" : 1653984288227,
-    "duration" : 10336
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "92be743839232f44",
-  "name" : "\"before all\" hook for C22: Filtering configurations by project type.",
-  "time" : {
-    "start" : 1653983454307,
-    "stop" : 1653983470863,
-    "duration" : 16556
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "100054c70884254f",
-  "name" : "Should edit newly created configuration.",
-  "time" : {
-    "start" : 1653984424768,
-    "stop" : 1653984439218,
-    "duration" : 14450
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1ea55bfa7b0966f6",
-  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653983694023,
-    "stop" : 1653983694230,
-    "duration" : 207
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aa562235b2892bbe",
-  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
-  "time" : {
-    "start" : 1653983488514,
-    "stop" : 1653983490527,
-    "duration" : 2013
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d92c6098430eeb31",
-  "name" : "\"before all\" hook for C19: The scheduler can delete input field for an existing column.",
-  "time" : {
-    "start" : 1653984330366,
-    "stop" : 1653984343398,
-    "duration" : 13032
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "7d59b82faea335a0",
-  "name" : "Should verify that input without type cannot be created.",
-  "time" : {
-    "start" : 1653984411673,
-    "stop" : 1653984415907,
-    "duration" : 4234
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "73e5dc556e0e2953",
-  "name" : "Should set filters as you set for scheduling date.",
-  "time" : {
-    "start" : 1653984598378,
-    "stop" : 1653984607947,
-    "duration" : 9569
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "321afc91bfb2fecc",
-  "name" : "Should edit existing project name to fkyiiproject",
-  "time" : {
-    "start" : 1653983731009,
-    "stop" : 1653983775427,
-    "duration" : 44418
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6fd6d6037c369d3c",
-  "name" : "Should verify that input displayed in reserve form.",
-  "time" : {
-    "start" : 1653984203894,
-    "stop" : 1653984215071,
-    "duration" : 11177
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4489686ead23c1",
-  "name" : "Should verify that inputs are created in reserve form",
-  "time" : {
-    "start" : 1653984317350,
-    "stop" : 1653984327973,
-    "duration" : 10623
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "7dd4882149a88bea",
-  "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date and Area Name.",
-  "time" : {
-    "start" : 1653984653417,
-    "stop" : 1653984658795,
-    "duration" : 5378
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b784bd5d82bcbb5d",
-  "name" : "Should click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653984290636,
-    "stop" : 1653984310727,
-    "duration" : 20091
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f5b1ab2e8f078cc2",
-  "name" : "Should delete created configuration.",
-  "time" : {
-    "start" : 1653984670556,
-    "stop" : 1653984687802,
-    "duration" : 17246
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1a369adde46ca617",
-  "name" : "As \"Scheduler\" clean form structure",
-  "time" : {
-    "start" : 1653983694230,
-    "stop" : 1653983699449,
-    "duration" : 5219
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7e262148a28f605",
-  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-29 configuration with test6b1w91 slot name.",
-  "time" : {
-    "start" : 1653983706318,
-    "stop" : 1653983728672,
-    "duration" : 22354
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d01ae3c64a36b51e",
-  "name" : "Should edit newly created configuration and delete one area.",
-  "time" : {
-    "start" : 1653984543115,
-    "stop" : 1653984555526,
-    "duration" : 12411
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "20e37baee769ea61",
-  "name" : "Should edit created input from form structure",
-  "time" : {
-    "start" : 1653984273127,
-    "stop" : 1653984277890,
-    "duration" : 4763
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bed19d8b5219f76d",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984402480,
-    "stop" : 1653984411672,
-    "duration" : 9192
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2645b74d46aee840",
-  "name" : "Should try to add configuration.",
-  "time" : {
-    "start" : 1653984508178,
-    "stop" : 1653984513357,
-    "duration" : 5179
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d7c0f3992e526479",
-  "name" : "Should click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653984418055,
-    "stop" : 1653984420275,
-    "duration" : 2220
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c179f8bd2956e801",
-  "name" : "Should click the \"Update Form Structure\" button.",
-  "time" : {
-    "start" : 1653984217375,
-    "stop" : 1653984237316,
-    "duration" : 19941
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3004b0fa1c42117b",
-  "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
-  "time" : {
-    "start" : 1653984451634,
-    "stop" : 1653984476499,
-    "duration" : 24865
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6282346f7946735",
-  "name" : "Should click the \"Update Schedule\" button.",
-  "time" : {
-    "start" : 1653984478510,
-    "stop" : 1653984480808,
-    "duration" : 2298
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a1db8e1cd1b1cdb1",
-  "name" : "As \"Scheduler\" add new configuration.",
-  "time" : {
-    "start" : 1653983699623,
-    "stop" : 1653983704869,
-    "duration" : 5246
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a09f382be2a6702a",
-  "name" : "Should search by date.",
-  "time" : {
-    "start" : 1653983424090,
-    "stop" : 1653983429812,
-    "duration" : 5722
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c430dcb8c6a7027e",
-  "name" : "Should verify that input is deleted in reserve form",
-  "time" : {
-    "start" : 1653984241114,
-    "stop" : 1653984251440,
-    "duration" : 10326
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a900f6894a781a5d",
+  "uid" : "54bacb45466cf8c2",
   "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
   "time" : {
-    "start" : 1653983484283,
-    "stop" : 1653983486512,
-    "duration" : 2229
+    "start" : 1653993475103,
+    "stop" : 1653993477895,
+    "duration" : 2792
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d0cbfe62983cfca3",
-  "name" : "Should delete created input from form structure",
-  "time" : {
-    "start" : 1653984237316,
-    "stop" : 1653984241114,
-    "duration" : 3798
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "77e789b887092361",
-  "name" : "Open new page",
-  "time" : {
-    "start" : 1653983704869,
-    "stop" : 1653983705371,
-    "duration" : 502
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3558d5d5139944fb",
-  "name" : "Should set filters for edited configuration and verify editing.",
-  "time" : {
-    "start" : 1653984439218,
-    "stop" : 1653984449426,
-    "duration" : 10208
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fb2951fa385479a2",
-  "name" : "Should try to add configuration with empty area name field.",
-  "time" : {
-    "start" : 1653984499963,
-    "stop" : 1653984503767,
-    "duration" : 3804
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f70fa35b1bdb141a",
-  "name" : "Should add configuration to 2025-05-26.",
-  "time" : {
-    "start" : 1653984593114,
-    "stop" : 1653984598377,
-    "duration" : 5263
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "85c64a6578712534",
+  "uid" : "6d8df2f582a5297",
   "name" : "Should click the \"Update Form Structure\" button.",
   "time" : {
-    "start" : 1653984253676,
-    "stop" : 1653984273127,
-    "duration" : 19451
+    "start" : 1653994295343,
+    "stop" : 1653994315696,
+    "duration" : 20353
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2c97f8785162ce52",
+  "uid" : "99841e3a77dd91f7",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-29 configuration with testg7w7x1 slot name.",
+  "time" : {
+    "start" : 1653993699931,
+    "stop" : 1653993720821,
+    "duration" : 20890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5340f5007b9e3ef7",
+  "name" : "Should try to add configuration.",
+  "time" : {
+    "start" : 1653994456962,
+    "stop" : 1653994461740,
+    "duration" : 4778
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4dfec02b88c9c9e",
+  "name" : "Should verify that can't move project projectu9j981 to date without empty slots",
+  "time" : {
+    "start" : 1653993766405,
+    "stop" : 1653993819521,
+    "duration" : 53116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a62d5e1d332f187e",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653994184517,
+    "stop" : 1653994204081,
+    "duration" : 19564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3773f507e2b4d7ea",
+  "name" : "Should verify that inputs are created in reserve form",
+  "time" : {
+    "start" : 1653994283720,
+    "stop" : 1653994293588,
+    "duration" : 9868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "adca164329d96e08",
+  "name" : "Should reserve project for 2022-08-29 configuration with test3zsaq1 slot name.",
+  "time" : {
+    "start" : 1653993871737,
+    "stop" : 1653993906169,
+    "duration" : 34432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb0612516fd9370",
+  "name" : "Should search for created projects by part of the name: project",
+  "time" : {
+    "start" : 1653993543409,
+    "stop" : 1653993590766,
+    "duration" : 47357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17f5fa1fed849cf3",
+  "name" : "Should verify pop-up errors for reservation with empty input fields.",
+  "time" : {
+    "start" : 1653994113504,
+    "stop" : 1653994151650,
+    "duration" : 38146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b36406fabc5fabf0",
+  "name" : "Should add new input for created culumn",
+  "time" : {
+    "start" : 1653994277082,
+    "stop" : 1653994283720,
+    "duration" : 6638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7888e20d9ef865d",
+  "name" : "Should verify that inputs are created in reserve form",
+  "time" : {
+    "start" : 1653994350359,
+    "stop" : 1653994357754,
+    "duration" : 7395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef4e37151232e318",
+  "name" : "Should add configuration for USA.",
+  "time" : {
+    "start" : 1653994431282,
+    "stop" : 1653994436072,
+    "duration" : 4790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c761249f0801bd2f",
+  "name" : "Should set filters as you set for scheduling date.",
+  "time" : {
+    "start" : 1653994544594,
+    "stop" : 1653994554277,
+    "duration" : 9683
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f590bd3bf2763f08",
+  "name" : "Should edit newly created configuration and delete one area.",
+  "time" : {
+    "start" : 1653994490754,
+    "stop" : 1653994502340,
+    "duration" : 11586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eafa2e40cfc8cce4",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653994372233,
+    "stop" : 1653994375021,
+    "duration" : 2788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2e01cd7daa26cf",
+  "name" : "Should verify that input is deleted in reserve form",
+  "time" : {
+    "start" : 1653994208183,
+    "stop" : 1653994218571,
+    "duration" : 10388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "707989bfef07a6a5",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653994220336,
+    "stop" : 1653994239724,
+    "duration" : 19388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f3045bc02de47fa",
+  "name" : "As \"Scheduler\" click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653993692941,
+    "stop" : 1653993693081,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b40e9995f42036c",
+  "name" : "Should try to add new configuration with two areas same names.",
+  "time" : {
+    "start" : 1653994482052,
+    "stop" : 1653994489109,
+    "duration" : 7057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c53a2365da0afebb",
+  "name" : "Should delete created configuration.",
+  "time" : {
+    "start" : 1653994612612,
+    "stop" : 1653994628616,
+    "duration" : 16004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9041cdd5c8a7218",
+  "name" : "Log in as \"Scheduler\".",
+  "time" : {
+    "start" : 1653993685981,
+    "stop" : 1653993687307,
+    "duration" : 1326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b5e9dfa332d8d33",
+  "name" : "As \"Scheduler\" click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653993687307,
+    "stop" : 1653993687445,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9e24a47dbe17f65",
+  "name" : "Should search with invalid project name",
+  "time" : {
+    "start" : 1653993668489,
+    "stop" : 1653993683591,
+    "duration" : 15102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e41661f4262b9373",
+  "name" : "Should edit created project project7qxzm",
+  "time" : {
+    "start" : 1653993907930,
+    "stop" : 1653993948516,
+    "duration" : 40586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9197c7ea1df5e934",
   "name" : "Should click the \"Update Schedule\" button.",
   "time" : {
-    "start" : 1653984505941,
-    "stop" : 1653984508178,
-    "duration" : 2237
+    "start" : 1653994537608,
+    "stop" : 1653994539842,
+    "duration" : 2234
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8e1de17f45d47751",
-  "name" : "\"before all\" hook for C20: Filtering configurations by date (weeks).",
+  "uid" : "649c05587c76455a",
+  "name" : "Should click the \"Update Schedule\" button.",
   "time" : {
-    "start" : 1653983415266,
-    "stop" : 1653983424090,
-    "duration" : 8824
+    "start" : 1653994595626,
+    "stop" : 1653994597715,
+    "duration" : 2089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60484f485dc43099",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653994454729,
+    "stop" : 1653994456961,
+    "duration" : 2232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66f43e040477fb18",
+  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with random at least 6 symbols.",
+  "time" : {
+    "start" : 1653993486756,
+    "stop" : 1653993489521,
+    "duration" : 2765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87f586bc862bcbcc",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "time" : {
+    "start" : 1653994526799,
+    "stop" : 1653994535945,
+    "duration" : 9146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "785685da12fc99c",
+  "name" : "Should edit created input from form structure",
+  "time" : {
+    "start" : 1653994239725,
+    "stop" : 1653994244870,
+    "duration" : 5145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36fb1d77982a5cf0",
+  "name" : "Should add configuration",
+  "time" : {
+    "start" : 1653994465681,
+    "stop" : 1653994470447,
+    "duration" : 4766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdcf0a2a4f95d00a",
+  "name" : "Should delete created project projectl9swl",
+  "time" : {
+    "start" : 1653993989761,
+    "stop" : 1653994023679,
+    "duration" : 33918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9254de50d7432be2",
+  "name" : "Should fill the \"Email\" input with the valid data and \"Password\" with 1 to 5 random symbols.",
+  "time" : {
+    "start" : 1653993490987,
+    "stop" : 1653993493845,
+    "duration" : 2858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1abb688299c7d0f",
+  "name" : "As \"Scheduler\" add new configuration.",
+  "time" : {
+    "start" : 1653993693081,
+    "stop" : 1653993697831,
+    "duration" : 4750
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebe4f28e4d451401",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "time" : {
+    "start" : 1653994257088,
+    "stop" : 1653994277081,
+    "duration" : 19993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3896bc2a09592d18",
+  "name" : "Should set filters as you set for scheduling date.",
+  "time" : {
+    "start" : 1653994602438,
+    "stop" : 1653994610968,
+    "duration" : 8530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9dcae39e01a4b7b",
+  "name" : "Should search with empty fields",
+  "time" : {
+    "start" : 1653993622338,
+    "stop" : 1653993641123,
+    "duration" : 18785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8450f451f03ed9a",
+  "name" : "Should set filters as you set for scheduling date and verify deleting.",
+  "time" : {
+    "start" : 1653994628616,
+    "stop" : 1653994628713,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad4f5567f9bfc592",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653994153395,
+    "stop" : 1653994166094,
+    "duration" : 12699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bfabce0dca31833",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653994429138,
+    "stop" : 1653994431282,
+    "duration" : 2144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b53d1d37f101096a",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "time" : {
+    "start" : 1653994391573,
+    "stop" : 1653994401264,
+    "duration" : 9691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32c2a231f2b29897",
+  "name" : "Open page",
+  "time" : {
+    "start" : 1653993685334,
+    "stop" : 1653993685980,
+    "duration" : 646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3e1de563bc21874",
+  "name" : "Should verify that input without type cannot be created.",
+  "time" : {
+    "start" : 1653994366584,
+    "stop" : 1653994370596,
+    "duration" : 4012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e7fc8d654234367",
+  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "time" : {
+    "start" : 1653993479454,
+    "stop" : 1653993482216,
+    "duration" : 2762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b14844dec576848a",
+  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "time" : {
+    "start" : 1653993483664,
+    "stop" : 1653993485280,
+    "duration" : 1616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eada76307990911",
+  "name" : "\"after all\" hook for C19: The scheduler can delete input field for an existing column.",
+  "time" : {
+    "start" : 1653994319400,
+    "stop" : 1653994341358,
+    "duration" : 21958
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aff3b0f723737edd",
+  "name" : "Should verify that can't move project projectl7ack1 to date without empty slots",
+  "time" : {
+    "start" : 1653993821293,
+    "stop" : 1653993869984,
+    "duration" : 48691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86ffa859ffa12c8",
+  "name" : "Open new page",
+  "time" : {
+    "start" : 1653993697831,
+    "stop" : 1653993698519,
+    "duration" : 688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "daf96d60e4ec756c",
+  "name" : "Should create input.",
+  "time" : {
+    "start" : 1653994166094,
+    "stop" : 1653994171857,
+    "duration" : 5763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0347e99575073f8",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653994463386,
+    "stop" : 1653994465680,
+    "duration" : 2294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53a48d81eff9d8b",
+  "name" : "Should verify that input is deleted in reserve form",
+  "time" : {
+    "start" : 1653994244870,
+    "stop" : 1653994255321,
+    "duration" : 10451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a70562eec2cd712",
+  "name" : "\"before all\" hook for C24: The scheduler can create input field for and existing column with any type.",
+  "time" : {
+    "start" : 1653994343347,
+    "stop" : 1653994350358,
+    "duration" : 7011
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "241c2f89286a1628",
-  "name" : "Log in as \"Scheduler\".",
+  "uid" : "d8fc28984a378524",
+  "name" : "Should delete created input from form structure",
   "time" : {
-    "start" : 1653983692490,
-    "stop" : 1653983694022,
-    "duration" : 1532
+    "start" : 1653994315697,
+    "stop" : 1653994319400,
+    "duration" : 3703
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7609d9add0c969ef",
-  "name" : "Should verify that input is deleted in reserve form",
+  "uid" : "7feec65afd5ae54a",
+  "name" : "Should edit newly created area name.",
   "time" : {
-    "start" : 1653984343398,
-    "stop" : 1653984349116,
-    "duration" : 5718
+    "start" : 1653994514994,
+    "stop" : 1653994526799,
+    "duration" : 11805
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2f28cfbb9177bebe",
+  "uid" : "635e755c07784b07",
+  "name" : "Should verify that \"Sales Manager\" can't delete created project projectywdep",
+  "time" : {
+    "start" : 1653994025422,
+    "stop" : 1653994062978,
+    "duration" : 37556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "adc4be7222991306",
+  "name" : "Should edit newly created configuration.",
+  "time" : {
+    "start" : 1653994378671,
+    "stop" : 1653994391572,
+    "duration" : 12901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db0c789d80d90340",
   "name" : "Should click the \"Update Schedule\" button.",
   "time" : {
-    "start" : 1653984497709,
-    "stop" : 1653984499963,
-    "duration" : 2254
+    "start" : 1653994447297,
+    "stop" : 1653994449585,
+    "duration" : 2288
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "817e700d10f0208c",
+  "uid" : "3ec951110977041e",
+  "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date and Area Name.",
+  "time" : {
+    "start" : 1653994597721,
+    "stop" : 1653994602437,
+    "duration" : 4716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da1b9296cb66b2c0",
+  "name" : "Should edit existing project name to vth44project",
+  "time" : {
+    "start" : 1653994064741,
+    "stop" : 1653994111757,
+    "duration" : 47016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98dd4b617ceba26d",
+  "name" : "Log in as \"Sales Manager\".",
+  "time" : {
+    "start" : 1653993698519,
+    "stop" : 1653993699931,
+    "duration" : 1412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15627231ad8e4267",
+  "name" : "Should search by date.",
+  "time" : {
+    "start" : 1653993392042,
+    "stop" : 1653993408492,
+    "duration" : 16450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6727d4bdf3d34314",
+  "name" : "Should try to add configuration with empty area name field.",
+  "time" : {
+    "start" : 1653994449585,
+    "stop" : 1653994453082,
+    "duration" : 3497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12e69595d0f3c224",
+  "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "time" : {
+    "start" : 1653994402924,
+    "stop" : 1653994427479,
+    "duration" : 24555
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3d182836b9bf8c6",
+  "name" : "Should verify that input displayed in reserve form.",
+  "time" : {
+    "start" : 1653994171857,
+    "stop" : 1653994182762,
+    "duration" : 10905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae72bb9a7f41dfe5",
+  "name" : "Should search for created project: projectefreh1",
+  "time" : {
+    "start" : 1653993642885,
+    "stop" : 1653993668489,
+    "duration" : 25604
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "736b8fc963a59df6",
   "name" : "Should verify that only projects with chosen type are displayed.",
   "time" : {
-    "start" : 1653983470864,
-    "stop" : 1653983482187,
-    "duration" : 11323
+    "start" : 1653993432766,
+    "stop" : 1653993473533,
+    "duration" : 40767
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e3cc666c471445c5",
+  "uid" : "a9893304dce76bff",
+  "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
+  "time" : {
+    "start" : 1653994375022,
+    "stop" : 1653994377006,
+    "duration" : 1984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e935a07cbfb475db",
+  "name" : "Should try to delete created configuration with project.",
+  "time" : {
+    "start" : 1653994556030,
+    "stop" : 1653994593973,
+    "duration" : 37943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "114711db83527f7c",
+  "name" : "Should delete created input from form structure",
+  "time" : {
+    "start" : 1653994204082,
+    "stop" : 1653994208183,
+    "duration" : 4101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b00ddb76f57735de",
+  "name" : "Should edit created project project1entg",
+  "time" : {
+    "start" : 1653993950275,
+    "stop" : 1653993988009,
+    "duration" : 37734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "805b3c8586a3207",
+  "name" : "Should search for created project: projectqhscg1",
+  "time" : {
+    "start" : 1653993495595,
+    "stop" : 1653993541589,
+    "duration" : 45994
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bd43b13992831cd",
+  "name" : "Should verify that configuration added until the end of this year.",
+  "time" : {
+    "start" : 1653994470447,
+    "stop" : 1653994480413,
+    "duration" : 9966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac2ba4e240ba3ea9",
+  "name" : "Should verify that created configuration is displayed after filtering by its country.",
+  "time" : {
+    "start" : 1653993410162,
+    "stop" : 1653993430965,
+    "duration" : 20803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af4d24fe71750ec0",
+  "name" : "Should edit existing project name to fy9z0project",
+  "time" : {
+    "start" : 1653993722582,
+    "stop" : 1653993764636,
+    "duration" : 42054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9f2fa359cb69ebf",
+  "name" : "Should add configuration to 2025-05-26.",
+  "time" : {
+    "start" : 1653994539842,
+    "stop" : 1653994544594,
+    "duration" : 4752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6c8708e687d460f",
+  "name" : "As \"Scheduler\" clean form structure",
+  "time" : {
+    "start" : 1653993687445,
+    "stop" : 1653993692941,
+    "duration" : 5496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd775bd3925b914",
   "name" : "Should set filters for edited configuration and verify deleting of area.",
   "time" : {
-    "start" : 1653984555526,
-    "stop" : 1653984564527,
-    "duration" : 9001
+    "start" : 1653994502340,
+    "stop" : 1653994513348,
+    "duration" : 11008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba1afa00468a427f",
+  "name" : "Should search for created project: projectsy97o1",
+  "time" : {
+    "start" : 1653993592521,
+    "stop" : 1653993622335,
+    "duration" : 29814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aef06ffeb8bf5ee2",
+  "name" : "Should set filters as you set for scheduling date.",
+  "time" : {
+    "start" : 1653994436072,
+    "stop" : 1653994445630,
+    "duration" : 9558
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cc831b3fca9278e",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "time" : {
+    "start" : 1653994359390,
+    "stop" : 1653994366584,
+    "duration" : 7194
   },
   "status" : "passed",
   "severity" : "normal"

@@ -1,0 +1,62 @@
+{
+  "uid" : "a9893304dce76bff",
+  "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
+  "fullName" : "C32: The sales manager can't edit the scructure form..Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
+  "historyId" : "21a77d8ea009c3b1f8217d337ce693a5",
+  "time" : {
+    "start" : 1653994375022,
+    "stop" : 1653994377006,
+    "duration" : 1984
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-30"
+  }, {
+    "name" : "suite",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "testClass",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\""
+  }, {
+    "name" : "package",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9893304dce76bff.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

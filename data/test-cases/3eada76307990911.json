@@ -1,0 +1,68 @@
+{
+  "uid" : "3eada76307990911",
+  "name" : "\"after all\" hook for C19: The scheduler can delete input field for an existing column.",
+  "fullName" : "C19: The scheduler can delete input field for an existing column..\"after all\" hook for C19: The scheduler can delete input field for an existing column.",
+  "historyId" : "d613491dfff9bb178e09bedec75126af",
+  "time" : {
+    "start" : 1653994319400,
+    "stop" : 1653994341358,
+    "duration" : 21958
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"div[role=\"presentation\"] #select-regionId\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"div[role=\"presentation\"] #select-regionId\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.clickDdlRegion (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:50:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-27"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3eada76307990911.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

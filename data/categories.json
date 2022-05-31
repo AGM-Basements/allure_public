@@ -1,18 +1,43 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"div[role=\"presentation\"] #select-regionId\") still not clickable after 15000ms",
+      "children" : [ {
+        "name" : "\"after all\" hook for C19: The scheduler can delete input field for an existing column.",
+        "uid" : "3eada76307990911",
+        "parentUid" : "b28e597cc997bf80375380475bbe2d76",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653994319400,
+          "stop" : 1653994341358,
+          "duration" : 21958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "b28e597cc997bf80375380475bbe2d76"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
     "name" : "Product defects",
     "children" : [ {
       "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
       "children" : [ {
-        "name" : "\"before all\" hook for C20: Filtering configurations by date (weeks).",
-        "uid" : "8e1de17f45d47751",
+        "name" : "\"before all\" hook for C24: The scheduler can create input field for and existing column with any type.",
+        "uid" : "7a70562eec2cd712",
         "parentUid" : "ca41f26d9e9fe698edb896d5ac8eee4d",
         "status" : "failed",
         "time" : {
-          "start" : 1653983415266,
-          "stop" : 1653983424090,
-          "duration" : 8824
+          "start" : 1653994343347,
+          "stop" : 1653994350358,
+          "duration" : 7011
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,69 +48,6 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       } ],
       "uid" : "ca41f26d9e9fe698edb896d5ac8eee4d"
-    }, {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Value of 53w5 must be a date with YYYY-MM-DD format\"",
-      "children" : [ {
-        "name" : "\"before all\" hook for C22: Filtering configurations by project type.",
-        "uid" : "92be743839232f44",
-        "parentUid" : "0e058698522278dd0dd5ed538bdef263",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653983454307,
-          "stop" : 1653983470863,
-          "duration" : 16556
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "0e058698522278dd0dd5ed538bdef263"
-    }, {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
-      "children" : [ {
-        "name" : "Should verify that inputs are created in reserve form",
-        "uid" : "4489686ead23c1",
-        "parentUid" : "7d22550bcc2853ce14c87084cc359937",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653984317350,
-          "stop" : 1653984327973,
-          "duration" : 10623
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "7d22550bcc2853ce14c87084cc359937"
-    }, {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Form has been successfully updated\"\n                Received: \"Form has been successfully created\"",
-      "children" : [ {
-        "name" : "\"before all\" hook for C19: The scheduler can delete input field for an existing column.",
-        "uid" : "d92c6098430eeb31",
-        "parentUid" : "9b1119613ff4ac628cba3cf1b0d20a6c",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653984330366,
-          "stop" : 1653984343398,
-          "duration" : 13032
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "9b1119613ff4ac628cba3cf1b0d20a6c"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],
