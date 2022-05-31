@@ -1,0 +1,62 @@
+{
+  "uid" : "c794f86267127da6",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C30: Verify that a scheduler can't add empty \"area name\"..Should click the \"Update Schedule\" button.",
+  "historyId" : "14dd7053b162009a6ae09b88f1d78a85",
+  "time" : {
+    "start" : 1653996863049,
+    "stop" : 1653996865271,
+    "duration" : 2222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-34"
+  }, {
+    "name" : "suite",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c794f86267127da6.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

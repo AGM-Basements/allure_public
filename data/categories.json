@@ -1,55 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "element (\"div[role=\"presentation\"] #select-regionId\") still not clickable after 15000ms",
-      "children" : [ {
-        "name" : "\"after all\" hook for C19: The scheduler can delete input field for an existing column.",
-        "uid" : "3eada76307990911",
-        "parentUid" : "b28e597cc997bf80375380475bbe2d76",
-        "status" : "broken",
-        "time" : {
-          "start" : 1653994319400,
-          "stop" : 1653994341358,
-          "duration" : 21958
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "b28e597cc997bf80375380475bbe2d76"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  }, {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
-      "children" : [ {
-        "name" : "\"before all\" hook for C24: The scheduler can create input field for and existing column with any type.",
-        "uid" : "7a70562eec2cd712",
-        "parentUid" : "ca41f26d9e9fe698edb896d5ac8eee4d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1653994343347,
-          "stop" : 1653994350358,
-          "duration" : 7011
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "ca41f26d9e9fe698edb896d5ac8eee4d"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
