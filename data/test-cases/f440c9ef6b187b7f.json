@@ -1,0 +1,86 @@
+{
+  "uid" : "f440c9ef6b187b7f",
+  "name" : "Should edit newly created configuration and delete one area.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration..Should edit newly created configuration and delete one area.",
+  "historyId" : "bcba6113793a3eb424f41608333f7568",
+  "time" : {
+    "start" : 1654078050533,
+    "stop" : 1654078076740,
+    "duration" : 26207
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.setCalendarDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:169:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms",
+    "statusTrace" : "Error: element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.setCalendarDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:169:17)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ddee50e5f2736e1",
+      "name" : "Screenshot",
+      "source" : "6ddee50e5f2736e1.png",
+      "type" : "image/png",
+      "size" : 71591
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-38"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created configuration and delete one area."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f440c9ef6b187b7f.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

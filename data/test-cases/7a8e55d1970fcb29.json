@@ -1,0 +1,62 @@
+{
+  "uid" : "7a8e55d1970fcb29",
+  "name" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "fullName" : "C4: Login to \"Master Schedule\" application without any credentials.Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button.",
+  "historyId" : "6dc5492a1ae2dfcceda8e08dfe73d222",
+  "time" : {
+    "start" : 1654076988043,
+    "stop" : 1654076988644,
+    "duration" : 601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should leave the \"Email\" and \"Password\" fields empty and click the \"Send\" button."
+  }, {
+    "name" : "package",
+    "value" : "C4: Login to \"Master Schedule\" application without any credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a8e55d1970fcb29.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
