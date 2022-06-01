@@ -1,0 +1,68 @@
+{
+  "uid" : "540be29b16836461",
+  "name" : "\"before all\" hook for C58: The scheduler can't delete a configuration if there are already projects attached to this working week",
+  "fullName" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week.\"before all\" hook for C58: The scheduler can't delete a configuration if there are already projects attached to this working week",
+  "historyId" : "d37ee4d90d85a9b9e0b28f6a116eaa8e",
+  "time" : {
+    "start" : 1654080385532,
+    "stop" : 1654080398965,
+    "duration" : 13433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/UpdateSchedule/C58.spec.ts:58:57)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-41"
+  }, {
+    "name" : "suite",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testClass",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "package",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "540be29b16836461.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

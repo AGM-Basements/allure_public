@@ -1,60 +1,19 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "element (\"div[role=\"presentation\"] input[name=\"isRequired\"]\") still not clickable after 15000ms",
-      "children" : [ {
-        "name" : "Should add new inputs for created culumn",
-        "uid" : "a0823eab5d9004f6",
-        "parentUid" : "964100b73fd30b6b9e5aa48e5074344a",
-        "status" : "broken",
-        "time" : {
-          "start" : 1654077878441,
-          "stop" : 1654077898537,
-          "duration" : 20096
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "964100b73fd30b6b9e5aa48e5074344a"
-    }, {
-      "name" : "element (\"#select-countryId\") still not clickable after 15000ms",
-      "children" : [ {
-        "name" : "Should verify that inputs are created in reserve form",
-        "uid" : "c32ca2a84cc8fae1",
-        "parentUid" : "c8f611c54fb85086641f2aac68181c8d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1654077898537,
-          "stop" : 1654077920487,
-          "duration" : 21950
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "c8f611c54fb85086641f2aac68181c8d"
-    }, {
       "name" : "element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms",
       "children" : [ {
-        "name" : "Should edit newly created configuration and delete one area.",
-        "uid" : "f440c9ef6b187b7f",
+        "name" : "Should edit newly created area name.",
+        "uid" : "82bec8757a24518c",
         "parentUid" : "65fb0a3b3e0d5dc493959a7adc7fd36f",
         "status" : "broken",
         "time" : {
-          "start" : 1654078050533,
-          "stop" : 1654078076740,
-          "duration" : 26207
+          "start" : 1654080306636,
+          "stop" : 1654080333667,
+          "duration" : 27031
         },
         "flaky" : false,
         "newFailed" : false,
@@ -68,14 +27,14 @@
     }, {
       "name" : "element (\"//button[text()=\"Update schedule\"]\") still not clickable after 15000ms",
       "children" : [ {
-        "name" : "\"after all\" hook for C54: The scheduler can delete areas at existing configuration.",
-        "uid" : "e92363ac91575e69",
+        "name" : "\"after all\" hook for C55: The scheduler can edit areas at existing configuration.",
+        "uid" : "152d28b5b3223ec5",
         "parentUid" : "17dea60fdc3b94b77d365536ef103d30",
         "status" : "broken",
         "time" : {
-          "start" : 1654078076740,
-          "stop" : 1654078106959,
-          "duration" : 30219
+          "start" : 1654080333668,
+          "stop" : 1654080363909,
+          "duration" : 30241
         },
         "flaky" : false,
         "newFailed" : false,
@@ -93,14 +52,14 @@
     "children" : [ {
       "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
       "children" : [ {
-        "name" : "\"before all\" hook for C55: The scheduler can edit areas at existing configuration.",
-        "uid" : "35cf0eb9318889a0",
+        "name" : "\"before all\" hook for C58: The scheduler can't delete a configuration if there are already projects attached to this working week",
+        "uid" : "540be29b16836461",
         "parentUid" : "ca41f26d9e9fe698edb896d5ac8eee4d",
         "status" : "failed",
         "time" : {
-          "start" : 1654078108636,
-          "stop" : 1654078115291,
-          "duration" : 6655
+          "start" : 1654080385532,
+          "stop" : 1654080398965,
+          "duration" : 13433
         },
         "flaky" : false,
         "newFailed" : false,
@@ -113,6 +72,5 @@
       "uid" : "ca41f26d9e9fe698edb896d5ac8eee4d"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
-  "name" : "categories"
+  } ]
 }

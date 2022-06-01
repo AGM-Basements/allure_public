@@ -1,0 +1,62 @@
+{
+  "uid" : "ca5606cc0cbbc857",
+  "name" : "Should add configuration to 2025-06-02.",
+  "fullName" : "C56: Creating configurations for subsequent years..Should add configuration to 2025-06-02.",
+  "historyId" : "d43fe89bd3c68b7722c922f6fb728d48",
+  "time" : {
+    "start" : 1654080367710,
+    "stop" : 1654080373482,
+    "duration" : 5772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testClass",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add configuration to 2025-06-02."
+  }, {
+    "name" : "package",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca5606cc0cbbc857.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

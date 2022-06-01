@@ -1,0 +1,86 @@
+{
+  "uid" : "152d28b5b3223ec5",
+  "name" : "\"after all\" hook for C55: The scheduler can edit areas at existing configuration.",
+  "fullName" : "C55: The scheduler can edit areas at existing configuration..\"after all\" hook for C55: The scheduler can edit areas at existing configuration.",
+  "historyId" : "b989ce5c3ae5c4daab81f08dd1a63581",
+  "time" : {
+    "start" : 1654080333668,
+    "stop" : 1654080363909,
+    "duration" : 30241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//button[text()=\"Update schedule\"]\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"//button[text()=\"Update schedule\"]\") still not clickable after 15000ms\n                    at async FilterPage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async FilterPage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async FilterPage.clickBtnUpdateSchedule (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/filter.page.ts:58:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"//button[text()=\"Update schedule\"]\") still not clickable after 15000ms",
+    "statusTrace" : "Error: element (\"//button[text()=\"Update schedule\"]\") still not clickable after 15000ms\n                    at async FilterPage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async FilterPage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async FilterPage.clickBtnUpdateSchedule (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/filter.page.ts:58:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a69efb975884859f",
+      "name" : "Screenshot",
+      "source" : "a69efb975884859f.png",
+      "type" : "image/png",
+      "size" : 71547
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-39"
+  }, {
+    "name" : "suite",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "package",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "152d28b5b3223ec5.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

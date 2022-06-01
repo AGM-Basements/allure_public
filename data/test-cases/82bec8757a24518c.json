@@ -1,0 +1,86 @@
+{
+  "uid" : "82bec8757a24518c",
+  "name" : "Should edit newly created area name.",
+  "fullName" : "C55: The scheduler can edit areas at existing configuration..Should edit newly created area name.",
+  "historyId" : "3e49ebeee5edc3c1f5d9fc414d906a8d",
+  "time" : {
+    "start" : 1654080306636,
+    "stop" : 1654080333667,
+    "duration" : 27031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.setCalendarDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:169:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms",
+    "statusTrace" : "Error: element (\"button[aria-label=\"Previous month\"]\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.setCalendarDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:169:17)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f5bb1191f5ff89b0",
+      "name" : "Screenshot",
+      "source" : "f5bb1191f5ff89b0.png",
+      "type" : "image/png",
+      "size" : 71547
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-39"
+  }, {
+    "name" : "suite",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created area name."
+  }, {
+    "name" : "package",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "82bec8757a24518c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
