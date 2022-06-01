@@ -1,0 +1,141 @@
+{
+  "uid" : "6e307a027f4363ab",
+  "name" : "Should add new input for created culumn",
+  "fullName" : "C18: The scheduler can create input field for an existing column with \"text\" type..Should add new input for created culumn",
+  "historyId" : "ba50852c28a039396e592690cb4e975e",
+  "time" : {
+    "start" : 1654082103049,
+    "stop" : 1654082110945,
+    "duration" : 7896
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c803b8fa4d6db0eb",
+      "name" : "Screenshot",
+      "source" : "c803b8fa4d6db0eb.png",
+      "type" : "image/png",
+      "size" : 25051
+    }, {
+      "uid" : "596445cca1821b31",
+      "name" : "Screenshot",
+      "source" : "596445cca1821b31.png",
+      "type" : "image/png",
+      "size" : 27416
+    }, {
+      "uid" : "c569fab2464dc4b8",
+      "name" : "Screenshot",
+      "source" : "c569fab2464dc4b8.png",
+      "type" : "image/png",
+      "size" : 25430
+    }, {
+      "uid" : "acb6e8a2bc9bf51d",
+      "name" : "Screenshot",
+      "source" : "acb6e8a2bc9bf51d.png",
+      "type" : "image/png",
+      "size" : 50950
+    }, {
+      "uid" : "86869522c0783ba4",
+      "name" : "Screenshot",
+      "source" : "86869522c0783ba4.png",
+      "type" : "image/png",
+      "size" : 54303
+    }, {
+      "uid" : "ceb7d538a1a996ed",
+      "name" : "Screenshot",
+      "source" : "ceb7d538a1a996ed.png",
+      "type" : "image/png",
+      "size" : 60329
+    }, {
+      "uid" : "c43ea5a312a29d3",
+      "name" : "Screenshot",
+      "source" : "c43ea5a312a29d3.png",
+      "type" : "image/png",
+      "size" : 51641
+    }, {
+      "uid" : "ae758ac2d536d76d",
+      "name" : "Screenshot",
+      "source" : "ae758ac2d536d76d.png",
+      "type" : "image/png",
+      "size" : 53815
+    }, {
+      "uid" : "a1774feaacd74882",
+      "name" : "Screenshot",
+      "source" : "a1774feaacd74882.png",
+      "type" : "image/png",
+      "size" : 41812
+    }, {
+      "uid" : "b02c9415367c7710",
+      "name" : "Screenshot",
+      "source" : "b02c9415367c7710.png",
+      "type" : "image/png",
+      "size" : 41845
+    }, {
+      "uid" : "5a9094f1b4dc4d87",
+      "name" : "Screenshot",
+      "source" : "5a9094f1b4dc4d87.png",
+      "type" : "image/png",
+      "size" : 37560
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testClass",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add new input for created culumn"
+  }, {
+    "name" : "package",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e307a027f4363ab.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

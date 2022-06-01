@@ -1,0 +1,189 @@
+{
+  "uid" : "4ec0ea64e28a31a",
+  "name" : "Should verify that inputs are created in reserve form",
+  "fullName" : "C18: The scheduler can create input field for an existing column with \"text\" type..Should verify that inputs are created in reserve form",
+  "historyId" : "cf092a7cb0229ef4d2d5a189cd0fd30f",
+  "time" : {
+    "start" : 1654082110948,
+    "stop" : 1654082123350,
+    "duration" : 12402
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b1f7d6098d3e3c59",
+      "name" : "Screenshot",
+      "source" : "b1f7d6098d3e3c59.png",
+      "type" : "image/png",
+      "size" : 42270
+    }, {
+      "uid" : "50aa54822b788d75",
+      "name" : "Screenshot",
+      "source" : "50aa54822b788d75.png",
+      "type" : "image/png",
+      "size" : 44770
+    }, {
+      "uid" : "36b054e5a9ac9eb",
+      "name" : "Screenshot",
+      "source" : "36b054e5a9ac9eb.png",
+      "type" : "image/png",
+      "size" : 42413
+    }, {
+      "uid" : "8d15550438be4e01",
+      "name" : "Screenshot",
+      "source" : "8d15550438be4e01.png",
+      "type" : "image/png",
+      "size" : 48306
+    }, {
+      "uid" : "38c54961cd00beb7",
+      "name" : "Screenshot",
+      "source" : "38c54961cd00beb7.png",
+      "type" : "image/png",
+      "size" : 51444
+    }, {
+      "uid" : "9e1e88e7cce6dbf",
+      "name" : "Screenshot",
+      "source" : "9e1e88e7cce6dbf.png",
+      "type" : "image/png",
+      "size" : 55719
+    }, {
+      "uid" : "e304c0768b53000",
+      "name" : "Screenshot",
+      "source" : "e304c0768b53000.png",
+      "type" : "image/png",
+      "size" : 41309
+    }, {
+      "uid" : "a9297c516792473e",
+      "name" : "Screenshot",
+      "source" : "a9297c516792473e.png",
+      "type" : "image/png",
+      "size" : 43547
+    }, {
+      "uid" : "9ea49723556ebdef",
+      "name" : "Screenshot",
+      "source" : "9ea49723556ebdef.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "ca1358c810235e95",
+      "name" : "Screenshot",
+      "source" : "ca1358c810235e95.png",
+      "type" : "image/png",
+      "size" : 38724
+    }, {
+      "uid" : "e073a1a43e16bf94",
+      "name" : "Screenshot",
+      "source" : "e073a1a43e16bf94.png",
+      "type" : "image/png",
+      "size" : 54007
+    }, {
+      "uid" : "b75f3c8d9837cf9",
+      "name" : "Screenshot",
+      "source" : "b75f3c8d9837cf9.png",
+      "type" : "image/png",
+      "size" : 56310
+    }, {
+      "uid" : "2a9dad628947beb8",
+      "name" : "Screenshot",
+      "source" : "2a9dad628947beb8.png",
+      "type" : "image/png",
+      "size" : 54702
+    }, {
+      "uid" : "12937fa30b686dcc",
+      "name" : "Screenshot",
+      "source" : "12937fa30b686dcc.png",
+      "type" : "image/png",
+      "size" : 56007
+    }, {
+      "uid" : "4d3c39c4c353c0b6",
+      "name" : "Screenshot",
+      "source" : "4d3c39c4c353c0b6.png",
+      "type" : "image/png",
+      "size" : 57081
+    }, {
+      "uid" : "2f531afb24598493",
+      "name" : "Screenshot",
+      "source" : "2f531afb24598493.png",
+      "type" : "image/png",
+      "size" : 63880
+    }, {
+      "uid" : "eb45037bce3aecb5",
+      "name" : "Screenshot",
+      "source" : "eb45037bce3aecb5.png",
+      "type" : "image/png",
+      "size" : 50626
+    }, {
+      "uid" : "89bd707cd5f0874b",
+      "name" : "Screenshot",
+      "source" : "89bd707cd5f0874b.png",
+      "type" : "image/png",
+      "size" : 64488
+    }, {
+      "uid" : "230b24661a16e4bb",
+      "name" : "Screenshot",
+      "source" : "230b24661a16e4bb.png",
+      "type" : "image/png",
+      "size" : 45548
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 19,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testClass",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that inputs are created in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ec0ea64e28a31a.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

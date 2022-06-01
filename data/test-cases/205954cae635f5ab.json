@@ -1,0 +1,105 @@
+{
+  "uid" : "205954cae635f5ab",
+  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "fullName" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server..Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button.",
+  "historyId" : "80ac704a3a45bf102a2518a28c466051",
+  "time" : {
+    "start" : 1654081230891,
+    "stop" : 1654081233111,
+    "duration" : 2220
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d5a3269af82160d",
+      "name" : "Screenshot",
+      "source" : "3d5a3269af82160d.png",
+      "type" : "image/png",
+      "size" : 18906
+    }, {
+      "uid" : "e8c7ca6ccf5f7431",
+      "name" : "Screenshot",
+      "source" : "e8c7ca6ccf5f7431.png",
+      "type" : "image/png",
+      "size" : 24604
+    }, {
+      "uid" : "8b99db22ed8e2491",
+      "name" : "Screenshot",
+      "source" : "8b99db22ed8e2491.png",
+      "type" : "image/png",
+      "size" : 24594
+    }, {
+      "uid" : "ddd3378efd5f190d",
+      "name" : "Screenshot",
+      "source" : "ddd3378efd5f190d.png",
+      "type" : "image/png",
+      "size" : 23586
+    }, {
+      "uid" : "c6a3ab9d4b6d4437",
+      "name" : "Screenshot",
+      "source" : "c6a3ab9d4b6d4437.png",
+      "type" : "image/png",
+      "size" : 23381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testClass",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should fill the \"Email\" and \"Password\" fields with the valid data and click \"Send\" button."
+  }, {
+    "name" : "package",
+    "value" : "C3: Login to \"Master Schedule\" application as \"Scheduler\" role with valid credentials at Staging server."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "205954cae635f5ab.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

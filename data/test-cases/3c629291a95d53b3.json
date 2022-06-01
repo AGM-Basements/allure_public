@@ -1,0 +1,273 @@
+{
+  "uid" : "3c629291a95d53b3",
+  "name" : "Should verify that can't move project projectf5ti51 to date without empty slots",
+  "fullName" : "C34: The scheduler can't exceed the slot reservation limit.Should verify that can't move project projectf5ti51 to date without empty slots",
+  "historyId" : "38bc8b3899f229b63c707560066c985a",
+  "time" : {
+    "start" : 1654081603150,
+    "stop" : 1654081658731,
+    "duration" : 55581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "61401c62a14a3401",
+      "name" : "Screenshot",
+      "source" : "61401c62a14a3401.png",
+      "type" : "image/png",
+      "size" : 62837
+    }, {
+      "uid" : "b18631b4f40bb826",
+      "name" : "Screenshot",
+      "source" : "b18631b4f40bb826.png",
+      "type" : "image/png",
+      "size" : 62796
+    }, {
+      "uid" : "97797875e8c36e56",
+      "name" : "Screenshot",
+      "source" : "97797875e8c36e56.png",
+      "type" : "image/png",
+      "size" : 62796
+    }, {
+      "uid" : "26ae7dd912ca6992",
+      "name" : "Screenshot",
+      "source" : "26ae7dd912ca6992.png",
+      "type" : "image/png",
+      "size" : 62291
+    }, {
+      "uid" : "fba1a55999c98545",
+      "name" : "Screenshot",
+      "source" : "fba1a55999c98545.png",
+      "type" : "image/png",
+      "size" : 62291
+    }, {
+      "uid" : "8b18383696616fe5",
+      "name" : "Screenshot",
+      "source" : "8b18383696616fe5.png",
+      "type" : "image/png",
+      "size" : 63073
+    }, {
+      "uid" : "10a6c1d7e46d29f8",
+      "name" : "Screenshot",
+      "source" : "10a6c1d7e46d29f8.png",
+      "type" : "image/png",
+      "size" : 59401
+    }, {
+      "uid" : "38346512962d19d9",
+      "name" : "Screenshot",
+      "source" : "38346512962d19d9.png",
+      "type" : "image/png",
+      "size" : 34938
+    }, {
+      "uid" : "b96f6b52d414ab97",
+      "name" : "Screenshot",
+      "source" : "b96f6b52d414ab97.png",
+      "type" : "image/png",
+      "size" : 66339
+    }, {
+      "uid" : "6e98ea2753658b54",
+      "name" : "Screenshot",
+      "source" : "6e98ea2753658b54.png",
+      "type" : "image/png",
+      "size" : 67568
+    }, {
+      "uid" : "83b2ae1684c1cae8",
+      "name" : "Screenshot",
+      "source" : "83b2ae1684c1cae8.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "84617afe18903110",
+      "name" : "Screenshot",
+      "source" : "84617afe18903110.png",
+      "type" : "image/png",
+      "size" : 69015
+    }, {
+      "uid" : "50d901dcc6e4609",
+      "name" : "Screenshot",
+      "source" : "50d901dcc6e4609.png",
+      "type" : "image/png",
+      "size" : 69274
+    }, {
+      "uid" : "8c6ddf95edb2b27d",
+      "name" : "Screenshot",
+      "source" : "8c6ddf95edb2b27d.png",
+      "type" : "image/png",
+      "size" : 75051
+    }, {
+      "uid" : "4ed67b5ac7e72782",
+      "name" : "Screenshot",
+      "source" : "4ed67b5ac7e72782.png",
+      "type" : "image/png",
+      "size" : 62814
+    }, {
+      "uid" : "d1e2574672125fa",
+      "name" : "Screenshot",
+      "source" : "d1e2574672125fa.png",
+      "type" : "image/png",
+      "size" : 66185
+    }, {
+      "uid" : "a23818a5f9367f59",
+      "name" : "Screenshot",
+      "source" : "a23818a5f9367f59.png",
+      "type" : "image/png",
+      "size" : 59124
+    }, {
+      "uid" : "42ee6584a999e654",
+      "name" : "Screenshot",
+      "source" : "42ee6584a999e654.png",
+      "type" : "image/png",
+      "size" : 71300
+    }, {
+      "uid" : "a6e2a19b222a9ca6",
+      "name" : "Screenshot",
+      "source" : "a6e2a19b222a9ca6.png",
+      "type" : "image/png",
+      "size" : 64264
+    }, {
+      "uid" : "6360153c491f9be0",
+      "name" : "Screenshot",
+      "source" : "6360153c491f9be0.png",
+      "type" : "image/png",
+      "size" : 78459
+    }, {
+      "uid" : "94f22f9e6711afa",
+      "name" : "Screenshot",
+      "source" : "94f22f9e6711afa.png",
+      "type" : "image/png",
+      "size" : 70935
+    }, {
+      "uid" : "b7d61bca50ce16d5",
+      "name" : "Screenshot",
+      "source" : "b7d61bca50ce16d5.png",
+      "type" : "image/png",
+      "size" : 62535
+    }, {
+      "uid" : "e116111015e51e34",
+      "name" : "Screenshot",
+      "source" : "e116111015e51e34.png",
+      "type" : "image/png",
+      "size" : 73529
+    }, {
+      "uid" : "8860fb9cad94e137",
+      "name" : "Screenshot",
+      "source" : "8860fb9cad94e137.png",
+      "type" : "image/png",
+      "size" : 73692
+    }, {
+      "uid" : "d3a7459f9b120911",
+      "name" : "Screenshot",
+      "source" : "d3a7459f9b120911.png",
+      "type" : "image/png",
+      "size" : 70966
+    }, {
+      "uid" : "fc236c8ab551dab8",
+      "name" : "Screenshot",
+      "source" : "fc236c8ab551dab8.png",
+      "type" : "image/png",
+      "size" : 70321
+    }, {
+      "uid" : "58e380e84c3dbbe6",
+      "name" : "Screenshot",
+      "source" : "58e380e84c3dbbe6.png",
+      "type" : "image/png",
+      "size" : 72126
+    }, {
+      "uid" : "796020de89b3f1b",
+      "name" : "Screenshot",
+      "source" : "796020de89b3f1b.png",
+      "type" : "image/png",
+      "size" : 75522
+    }, {
+      "uid" : "d17bd1108c36faf9",
+      "name" : "Screenshot",
+      "source" : "d17bd1108c36faf9.png",
+      "type" : "image/png",
+      "size" : 57038
+    }, {
+      "uid" : "22c8c68a84a5bf3f",
+      "name" : "Screenshot",
+      "source" : "22c8c68a84a5bf3f.png",
+      "type" : "image/png",
+      "size" : 66779
+    }, {
+      "uid" : "869f1486caafb682",
+      "name" : "Screenshot",
+      "source" : "869f1486caafb682.png",
+      "type" : "image/png",
+      "size" : 50416
+    }, {
+      "uid" : "650da5809a4c74c1",
+      "name" : "Screenshot",
+      "source" : "650da5809a4c74c1.png",
+      "type" : "image/png",
+      "size" : 61505
+    }, {
+      "uid" : "133d2f972bc2ed73",
+      "name" : "Screenshot",
+      "source" : "133d2f972bc2ed73.png",
+      "type" : "image/png",
+      "size" : 53436
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 33,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-15"
+  }, {
+    "name" : "suite",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "testClass",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that can't move project projectf5ti51 to date without empty slots"
+  }, {
+    "name" : "package",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c629291a95d53b3.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

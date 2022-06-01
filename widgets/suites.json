@@ -1,28 +1,6 @@
 {
   "total" : 44,
   "items" : [ {
-    "uid" : "5de6313b6b11de87473b3f47e78739ed",
-    "name" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "3dc639dccae0d41afe9520e1442d69ff",
-    "name" : "C55: The scheduler can edit areas at existing configuration.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 2,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
     "uid" : "daa70a43b342a6843b94bfee27c4ff05",
     "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "statistic" : {
@@ -102,6 +80,28 @@
   }, {
     "uid" : "07d1babc7bf234637521c382736536e0",
     "name" : "C14: The scheduler can add a configuration with certain date for the United States of America country.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "4e595816aec1890200354df51df33b46",
+    "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "cda7c0dae36a07bd3db34063997cfec9",
+    "name" : "C56: Creating configurations for subsequent years.",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

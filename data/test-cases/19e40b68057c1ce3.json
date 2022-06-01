@@ -1,0 +1,183 @@
+{
+  "uid" : "19e40b68057c1ce3",
+  "name" : "Should set filters for edited configuration and verify deleting of area.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration..Should set filters for edited configuration and verify deleting of area.",
+  "historyId" : "3eeb5601b076c32c1660854a7c834664",
+  "time" : {
+    "start" : 1654082403263,
+    "stop" : 1654082415140,
+    "duration" : 11877
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d185be213b1cdd51",
+      "name" : "Screenshot",
+      "source" : "d185be213b1cdd51.png",
+      "type" : "image/png",
+      "size" : 41150
+    }, {
+      "uid" : "6c5f6f112aefeba6",
+      "name" : "Screenshot",
+      "source" : "6c5f6f112aefeba6.png",
+      "type" : "image/png",
+      "size" : 43119
+    }, {
+      "uid" : "3f641d26e52f7d21",
+      "name" : "Screenshot",
+      "source" : "3f641d26e52f7d21.png",
+      "type" : "image/png",
+      "size" : 41178
+    }, {
+      "uid" : "54c92181ffc3d011",
+      "name" : "Screenshot",
+      "source" : "54c92181ffc3d011.png",
+      "type" : "image/png",
+      "size" : 43994
+    }, {
+      "uid" : "eb88134675070e87",
+      "name" : "Screenshot",
+      "source" : "eb88134675070e87.png",
+      "type" : "image/png",
+      "size" : 48905
+    }, {
+      "uid" : "f58c22bca65f02a9",
+      "name" : "Screenshot",
+      "source" : "f58c22bca65f02a9.png",
+      "type" : "image/png",
+      "size" : 53333
+    }, {
+      "uid" : "7b3b1f644cea4c13",
+      "name" : "Screenshot",
+      "source" : "7b3b1f644cea4c13.png",
+      "type" : "image/png",
+      "size" : 66246
+    }, {
+      "uid" : "d5121ad63bd43546",
+      "name" : "Screenshot",
+      "source" : "d5121ad63bd43546.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "d88d8a279afaa4e",
+      "name" : "Screenshot",
+      "source" : "d88d8a279afaa4e.png",
+      "type" : "image/png",
+      "size" : 38724
+    }, {
+      "uid" : "40d64f6ef27f5999",
+      "name" : "Screenshot",
+      "source" : "40d64f6ef27f5999.png",
+      "type" : "image/png",
+      "size" : 55644
+    }, {
+      "uid" : "e87b0252e28273aa",
+      "name" : "Screenshot",
+      "source" : "e87b0252e28273aa.png",
+      "type" : "image/png",
+      "size" : 56310
+    }, {
+      "uid" : "333c718fa77db037",
+      "name" : "Screenshot",
+      "source" : "333c718fa77db037.png",
+      "type" : "image/png",
+      "size" : 54710
+    }, {
+      "uid" : "2c831e3a59eab834",
+      "name" : "Screenshot",
+      "source" : "2c831e3a59eab834.png",
+      "type" : "image/png",
+      "size" : 56003
+    }, {
+      "uid" : "bc30feeea5fdf338",
+      "name" : "Screenshot",
+      "source" : "bc30feeea5fdf338.png",
+      "type" : "image/png",
+      "size" : 57080
+    }, {
+      "uid" : "1749b07fdb68ecfc",
+      "name" : "Screenshot",
+      "source" : "1749b07fdb68ecfc.png",
+      "type" : "image/png",
+      "size" : 63889
+    }, {
+      "uid" : "eb6f23fc91539f88",
+      "name" : "Screenshot",
+      "source" : "eb6f23fc91539f88.png",
+      "type" : "image/png",
+      "size" : 50730
+    }, {
+      "uid" : "c536bdf7b4d2f521",
+      "name" : "Screenshot",
+      "source" : "c536bdf7b4d2f521.png",
+      "type" : "image/png",
+      "size" : 58176
+    }, {
+      "uid" : "29ebb8e3e92ea326",
+      "name" : "Screenshot",
+      "source" : "29ebb8e3e92ea326.png",
+      "type" : "image/png",
+      "size" : 49601
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-38"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify deleting of area."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19e40b68057c1ce3.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

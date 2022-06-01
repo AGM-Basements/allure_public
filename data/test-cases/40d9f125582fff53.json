@@ -1,0 +1,81 @@
+{
+  "uid" : "40d9f125582fff53",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C17: The scheduler can edit an existing input field..Should click the \"Update Form Structure\" button.",
+  "historyId" : "440eed5aba9f6c9fa10cca2bcb488687",
+  "time" : {
+    "start" : 1654082040553,
+    "stop" : 1654082060843,
+    "duration" : 20290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fef4c49b132c4294",
+      "name" : "Screenshot",
+      "source" : "fef4c49b132c4294.png",
+      "type" : "image/png",
+      "size" : 18486
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40d9f125582fff53.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

@@ -1,0 +1,249 @@
+{
+  "uid" : "cb051488809bd7d",
+  "name" : "Should edit created project projectao4b9",
+  "fullName" : "C37: The scheduler can move the project to the next week.Should edit created project projectao4b9",
+  "historyId" : "5f8619fae8a81c22772d844428cddf45",
+  "time" : {
+    "start" : 1654081748977,
+    "stop" : 1654081791885,
+    "duration" : 42908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2754096b7b66a90e",
+      "name" : "Screenshot",
+      "source" : "2754096b7b66a90e.png",
+      "type" : "image/png",
+      "size" : 50709
+    }, {
+      "uid" : "c211401a8c848ef5",
+      "name" : "Screenshot",
+      "source" : "c211401a8c848ef5.png",
+      "type" : "image/png",
+      "size" : 58887
+    }, {
+      "uid" : "abae402052713c38",
+      "name" : "Screenshot",
+      "source" : "abae402052713c38.png",
+      "type" : "image/png",
+      "size" : 58887
+    }, {
+      "uid" : "9bcc4705192a3602",
+      "name" : "Screenshot",
+      "source" : "9bcc4705192a3602.png",
+      "type" : "image/png",
+      "size" : 58517
+    }, {
+      "uid" : "6b9afcf1bfeb8b74",
+      "name" : "Screenshot",
+      "source" : "6b9afcf1bfeb8b74.png",
+      "type" : "image/png",
+      "size" : 58517
+    }, {
+      "uid" : "4a10a50d562059b2",
+      "name" : "Screenshot",
+      "source" : "4a10a50d562059b2.png",
+      "type" : "image/png",
+      "size" : 59168
+    }, {
+      "uid" : "e8e3ba11e3e04112",
+      "name" : "Screenshot",
+      "source" : "e8e3ba11e3e04112.png",
+      "type" : "image/png",
+      "size" : 55391
+    }, {
+      "uid" : "f3eca15af3dcc2ee",
+      "name" : "Screenshot",
+      "source" : "f3eca15af3dcc2ee.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "f5293631e0ff1c8b",
+      "name" : "Screenshot",
+      "source" : "f5293631e0ff1c8b.png",
+      "type" : "image/png",
+      "size" : 66339
+    }, {
+      "uid" : "4bcd2d4f60f23eac",
+      "name" : "Screenshot",
+      "source" : "4bcd2d4f60f23eac.png",
+      "type" : "image/png",
+      "size" : 67598
+    }, {
+      "uid" : "e414905f9cce57b",
+      "name" : "Screenshot",
+      "source" : "e414905f9cce57b.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "979e276049b75872",
+      "name" : "Screenshot",
+      "source" : "979e276049b75872.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "c4153e473014176d",
+      "name" : "Screenshot",
+      "source" : "c4153e473014176d.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "38f8d102acab3f84",
+      "name" : "Screenshot",
+      "source" : "38f8d102acab3f84.png",
+      "type" : "image/png",
+      "size" : 75698
+    }, {
+      "uid" : "6c7d732c5c913ad2",
+      "name" : "Screenshot",
+      "source" : "6c7d732c5c913ad2.png",
+      "type" : "image/png",
+      "size" : 62832
+    }, {
+      "uid" : "ae0a83eaf286f32b",
+      "name" : "Screenshot",
+      "source" : "ae0a83eaf286f32b.png",
+      "type" : "image/png",
+      "size" : 63487
+    }, {
+      "uid" : "9559a422590d4f38",
+      "name" : "Screenshot",
+      "source" : "9559a422590d4f38.png",
+      "type" : "image/png",
+      "size" : 54449
+    }, {
+      "uid" : "51239254a5463f4b",
+      "name" : "Screenshot",
+      "source" : "51239254a5463f4b.png",
+      "type" : "image/png",
+      "size" : 56140
+    }, {
+      "uid" : "d9f45b2a4c058342",
+      "name" : "Screenshot",
+      "source" : "d9f45b2a4c058342.png",
+      "type" : "image/png",
+      "size" : 64998
+    }, {
+      "uid" : "9f7986c6e9026aff",
+      "name" : "Screenshot",
+      "source" : "9f7986c6e9026aff.png",
+      "type" : "image/png",
+      "size" : 67332
+    }, {
+      "uid" : "a6a6383f8123bdd5",
+      "name" : "Screenshot",
+      "source" : "a6a6383f8123bdd5.png",
+      "type" : "image/png",
+      "size" : 64518
+    }, {
+      "uid" : "5cacd18560e306c5",
+      "name" : "Screenshot",
+      "source" : "5cacd18560e306c5.png",
+      "type" : "image/png",
+      "size" : 67019
+    }, {
+      "uid" : "ad9fcd9caef51df2",
+      "name" : "Screenshot",
+      "source" : "ad9fcd9caef51df2.png",
+      "type" : "image/png",
+      "size" : 68080
+    }, {
+      "uid" : "88a5a2641340b0d7",
+      "name" : "Screenshot",
+      "source" : "88a5a2641340b0d7.png",
+      "type" : "image/png",
+      "size" : 74824
+    }, {
+      "uid" : "7722408c46b271c3",
+      "name" : "Screenshot",
+      "source" : "7722408c46b271c3.png",
+      "type" : "image/png",
+      "size" : 60670
+    }, {
+      "uid" : "bea3dccdf2f4250f",
+      "name" : "Screenshot",
+      "source" : "bea3dccdf2f4250f.png",
+      "type" : "image/png",
+      "size" : 62912
+    }, {
+      "uid" : "296b1d3c9532a4a6",
+      "name" : "Screenshot",
+      "source" : "296b1d3c9532a4a6.png",
+      "type" : "image/png",
+      "size" : 54358
+    }, {
+      "uid" : "1c7722bfaa0bfbd5",
+      "name" : "Screenshot",
+      "source" : "1c7722bfaa0bfbd5.png",
+      "type" : "image/png",
+      "size" : 61227
+    }, {
+      "uid" : "bd09d81311d5868b",
+      "name" : "Screenshot",
+      "source" : "bd09d81311d5868b.png",
+      "type" : "image/png",
+      "size" : 53131
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 29,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C37: The scheduler can move the project to the next week"
+  }, {
+    "name" : "testClass",
+    "value" : "C37: The scheduler can move the project to the next week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created project projectao4b9"
+  }, {
+    "name" : "package",
+    "value" : "C37: The scheduler can move the project to the next week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb051488809bd7d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

@@ -1,0 +1,183 @@
+{
+  "uid" : "445542ced604f31a",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "C14: The scheduler can add a configuration with certain date for the United States of America country..Should set filters as you set for scheduling date.",
+  "historyId" : "dae9f49fe2b66a6268dacb1e91bf8861",
+  "time" : {
+    "start" : 1654082320009,
+    "stop" : 1654082332483,
+    "duration" : 12474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "637b4a8954381132",
+      "name" : "Screenshot",
+      "source" : "637b4a8954381132.png",
+      "type" : "image/png",
+      "size" : 39768
+    }, {
+      "uid" : "774e6f041e6e9d26",
+      "name" : "Screenshot",
+      "source" : "774e6f041e6e9d26.png",
+      "type" : "image/png",
+      "size" : 46238
+    }, {
+      "uid" : "5e972ab298f0f7e3",
+      "name" : "Screenshot",
+      "source" : "5e972ab298f0f7e3.png",
+      "type" : "image/png",
+      "size" : 42119
+    }, {
+      "uid" : "9caf32d7be7da1b4",
+      "name" : "Screenshot",
+      "source" : "9caf32d7be7da1b4.png",
+      "type" : "image/png",
+      "size" : 45896
+    }, {
+      "uid" : "c530c27d6a8b7d51",
+      "name" : "Screenshot",
+      "source" : "c530c27d6a8b7d51.png",
+      "type" : "image/png",
+      "size" : 43895
+    }, {
+      "uid" : "83c0061d0a66294a",
+      "name" : "Screenshot",
+      "source" : "83c0061d0a66294a.png",
+      "type" : "image/png",
+      "size" : 49626
+    }, {
+      "uid" : "3e7dfb363898e5c0",
+      "name" : "Screenshot",
+      "source" : "3e7dfb363898e5c0.png",
+      "type" : "image/png",
+      "size" : 68303
+    }, {
+      "uid" : "e0143d8e613ade09",
+      "name" : "Screenshot",
+      "source" : "e0143d8e613ade09.png",
+      "type" : "image/png",
+      "size" : 49701
+    }, {
+      "uid" : "ed744a38bd4abd3f",
+      "name" : "Screenshot",
+      "source" : "ed744a38bd4abd3f.png",
+      "type" : "image/png",
+      "size" : 44812
+    }, {
+      "uid" : "3ad906124760bb71",
+      "name" : "Screenshot",
+      "source" : "3ad906124760bb71.png",
+      "type" : "image/png",
+      "size" : 47197
+    }, {
+      "uid" : "6f9b854fb8d95a5",
+      "name" : "Screenshot",
+      "source" : "6f9b854fb8d95a5.png",
+      "type" : "image/png",
+      "size" : 49311
+    }, {
+      "uid" : "d1827bfd2d606ea4",
+      "name" : "Screenshot",
+      "source" : "d1827bfd2d606ea4.png",
+      "type" : "image/png",
+      "size" : 47565
+    }, {
+      "uid" : "89ad94203833d187",
+      "name" : "Screenshot",
+      "source" : "89ad94203833d187.png",
+      "type" : "image/png",
+      "size" : 48963
+    }, {
+      "uid" : "c14624bcb1b74fb9",
+      "name" : "Screenshot",
+      "source" : "c14624bcb1b74fb9.png",
+      "type" : "image/png",
+      "size" : 47740
+    }, {
+      "uid" : "4fbf11d32899b745",
+      "name" : "Screenshot",
+      "source" : "4fbf11d32899b745.png",
+      "type" : "image/png",
+      "size" : 52224
+    }, {
+      "uid" : "af4d7d15a3050314",
+      "name" : "Screenshot",
+      "source" : "af4d7d15a3050314.png",
+      "type" : "image/png",
+      "size" : 43434
+    }, {
+      "uid" : "8d23f729a1f41093",
+      "name" : "Screenshot",
+      "source" : "8d23f729a1f41093.png",
+      "type" : "image/png",
+      "size" : 54719
+    }, {
+      "uid" : "fb460bec6150bf70",
+      "name" : "Screenshot",
+      "source" : "fb460bec6150bf70.png",
+      "type" : "image/png",
+      "size" : 42455
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-33"
+  }, {
+    "name" : "suite",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testClass",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters as you set for scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "445542ced604f31a.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

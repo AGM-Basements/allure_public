@@ -1,0 +1,165 @@
+{
+  "uid" : "682b2495e251a9cb",
+  "name" : "Should try to add configuration.",
+  "fullName" : "C31: The sales manager can't add a new configuration..Should try to add configuration.",
+  "historyId" : "e7deddb18ef2e0eb6c500bc5f2e8dea2",
+  "time" : {
+    "start" : 1654082345369,
+    "stop" : 1654082352594,
+    "duration" : 7225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ee3957491928c1d1",
+      "name" : "Screenshot",
+      "source" : "ee3957491928c1d1.png",
+      "type" : "image/png",
+      "size" : 36181
+    }, {
+      "uid" : "32100fece66e52df",
+      "name" : "Screenshot",
+      "source" : "32100fece66e52df.png",
+      "type" : "image/png",
+      "size" : 37887
+    }, {
+      "uid" : "ec12a152568217e9",
+      "name" : "Screenshot",
+      "source" : "ec12a152568217e9.png",
+      "type" : "image/png",
+      "size" : 34112
+    }, {
+      "uid" : "d2bd7d9e42192452",
+      "name" : "Screenshot",
+      "source" : "d2bd7d9e42192452.png",
+      "type" : "image/png",
+      "size" : 37501
+    }, {
+      "uid" : "62c2ab62cf2dae82",
+      "name" : "Screenshot",
+      "source" : "62c2ab62cf2dae82.png",
+      "type" : "image/png",
+      "size" : 38435
+    }, {
+      "uid" : "f922978748070f11",
+      "name" : "Screenshot",
+      "source" : "f922978748070f11.png",
+      "type" : "image/png",
+      "size" : 47002
+    }, {
+      "uid" : "92e8f574fe3f5c01",
+      "name" : "Screenshot",
+      "source" : "92e8f574fe3f5c01.png",
+      "type" : "image/png",
+      "size" : 33732
+    }, {
+      "uid" : "4de12c49b3c3bb6",
+      "name" : "Screenshot",
+      "source" : "4de12c49b3c3bb6.png",
+      "type" : "image/png",
+      "size" : 33090
+    }, {
+      "uid" : "a23c3585a093b245",
+      "name" : "Screenshot",
+      "source" : "a23c3585a093b245.png",
+      "type" : "image/png",
+      "size" : 34970
+    }, {
+      "uid" : "ede64875d28a50b7",
+      "name" : "Screenshot",
+      "source" : "ede64875d28a50b7.png",
+      "type" : "image/png",
+      "size" : 38835
+    }, {
+      "uid" : "c39577f19cfc7ffa",
+      "name" : "Screenshot",
+      "source" : "c39577f19cfc7ffa.png",
+      "type" : "image/png",
+      "size" : 38441
+    }, {
+      "uid" : "fa2d8b2fbcc4186a",
+      "name" : "Screenshot",
+      "source" : "fa2d8b2fbcc4186a.png",
+      "type" : "image/png",
+      "size" : 40253
+    }, {
+      "uid" : "273fa2cc29b66569",
+      "name" : "Screenshot",
+      "source" : "273fa2cc29b66569.png",
+      "type" : "image/png",
+      "size" : 43721
+    }, {
+      "uid" : "ee9153da02b0d26d",
+      "name" : "Screenshot",
+      "source" : "ee9153da02b0d26d.png",
+      "type" : "image/png",
+      "size" : 45041
+    }, {
+      "uid" : "54284ce3ecaaa0a4",
+      "name" : "Screenshot",
+      "source" : "54284ce3ecaaa0a4.png",
+      "type" : "image/png",
+      "size" : 35717
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 15,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-35"
+  }, {
+    "name" : "suite",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add configuration."
+  }, {
+    "name" : "package",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "682b2495e251a9cb.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

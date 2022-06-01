@@ -1,0 +1,183 @@
+{
+  "uid" : "6afa439cbc338f27",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "C56: Creating configurations for subsequent years..Should set filters as you set for scheduling date.",
+  "historyId" : "b16783f9a7c4c2923eff7c6cfc5a49b5",
+  "time" : {
+    "start" : 1654082456332,
+    "stop" : 1654082468972,
+    "duration" : 12640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5aa1d7874c3603d5",
+      "name" : "Screenshot",
+      "source" : "5aa1d7874c3603d5.png",
+      "type" : "image/png",
+      "size" : 39768
+    }, {
+      "uid" : "638dc8f7850a6841",
+      "name" : "Screenshot",
+      "source" : "638dc8f7850a6841.png",
+      "type" : "image/png",
+      "size" : 43201
+    }, {
+      "uid" : "e281b27b34b30456",
+      "name" : "Screenshot",
+      "source" : "e281b27b34b30456.png",
+      "type" : "image/png",
+      "size" : 39895
+    }, {
+      "uid" : "59ec118d09d5b3f7",
+      "name" : "Screenshot",
+      "source" : "59ec118d09d5b3f7.png",
+      "type" : "image/png",
+      "size" : 44027
+    }, {
+      "uid" : "62dafa5686ed20f6",
+      "name" : "Screenshot",
+      "source" : "62dafa5686ed20f6.png",
+      "type" : "image/png",
+      "size" : 44364
+    }, {
+      "uid" : "e770d0fdefb23430",
+      "name" : "Screenshot",
+      "source" : "e770d0fdefb23430.png",
+      "type" : "image/png",
+      "size" : 53273
+    }, {
+      "uid" : "37ee3520826afd52",
+      "name" : "Screenshot",
+      "source" : "37ee3520826afd52.png",
+      "type" : "image/png",
+      "size" : 66024
+    }, {
+      "uid" : "74bbf79e30a73055",
+      "name" : "Screenshot",
+      "source" : "74bbf79e30a73055.png",
+      "type" : "image/png",
+      "size" : 34938
+    }, {
+      "uid" : "dc14f31af24a1e69",
+      "name" : "Screenshot",
+      "source" : "dc14f31af24a1e69.png",
+      "type" : "image/png",
+      "size" : 44313
+    }, {
+      "uid" : "dea6cf3120af5eda",
+      "name" : "Screenshot",
+      "source" : "dea6cf3120af5eda.png",
+      "type" : "image/png",
+      "size" : 53225
+    }, {
+      "uid" : "67fff62c5b4b9029",
+      "name" : "Screenshot",
+      "source" : "67fff62c5b4b9029.png",
+      "type" : "image/png",
+      "size" : 55368
+    }, {
+      "uid" : "b08d7ac183e2e9bd",
+      "name" : "Screenshot",
+      "source" : "b08d7ac183e2e9bd.png",
+      "type" : "image/png",
+      "size" : 54912
+    }, {
+      "uid" : "c760d09adcc2bcb0",
+      "name" : "Screenshot",
+      "source" : "c760d09adcc2bcb0.png",
+      "type" : "image/png",
+      "size" : 55364
+    }, {
+      "uid" : "c0571b69228cccf0",
+      "name" : "Screenshot",
+      "source" : "c0571b69228cccf0.png",
+      "type" : "image/png",
+      "size" : 59682
+    }, {
+      "uid" : "faca216e3b2a3363",
+      "name" : "Screenshot",
+      "source" : "faca216e3b2a3363.png",
+      "type" : "image/png",
+      "size" : 63209
+    }, {
+      "uid" : "d68260d771194578",
+      "name" : "Screenshot",
+      "source" : "d68260d771194578.png",
+      "type" : "image/png",
+      "size" : 49926
+    }, {
+      "uid" : "c1d254eb205413d2",
+      "name" : "Screenshot",
+      "source" : "c1d254eb205413d2.png",
+      "type" : "image/png",
+      "size" : 60913
+    }, {
+      "uid" : "91d012e646645181",
+      "name" : "Screenshot",
+      "source" : "91d012e646645181.png",
+      "type" : "image/png",
+      "size" : 48899
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testClass",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters as you set for scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6afa439cbc338f27.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

@@ -1,0 +1,183 @@
+{
+  "uid" : "23e65cb53ee22de3",
+  "name" : "Should verify that configuration added until the end of this year.",
+  "fullName" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year..Should verify that configuration added until the end of this year.",
+  "historyId" : "d93e05cb31939885054ba86d1b819280",
+  "time" : {
+    "start" : 1654082363192,
+    "stop" : 1654082374842,
+    "duration" : 11650
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f791eadb9ac80e8",
+      "name" : "Screenshot",
+      "source" : "9f791eadb9ac80e8.png",
+      "type" : "image/png",
+      "size" : 39768
+    }, {
+      "uid" : "1991f35364036a51",
+      "name" : "Screenshot",
+      "source" : "1991f35364036a51.png",
+      "type" : "image/png",
+      "size" : 43201
+    }, {
+      "uid" : "c1bff59b50bdf981",
+      "name" : "Screenshot",
+      "source" : "c1bff59b50bdf981.png",
+      "type" : "image/png",
+      "size" : 39895
+    }, {
+      "uid" : "9c5c5b311a926322",
+      "name" : "Screenshot",
+      "source" : "9c5c5b311a926322.png",
+      "type" : "image/png",
+      "size" : 44027
+    }, {
+      "uid" : "c71f212c96784ee7",
+      "name" : "Screenshot",
+      "source" : "c71f212c96784ee7.png",
+      "type" : "image/png",
+      "size" : 41818
+    }, {
+      "uid" : "4e13779f5eb34e51",
+      "name" : "Screenshot",
+      "source" : "4e13779f5eb34e51.png",
+      "type" : "image/png",
+      "size" : 53183
+    }, {
+      "uid" : "c65c55aecec6d95b",
+      "name" : "Screenshot",
+      "source" : "c65c55aecec6d95b.png",
+      "type" : "image/png",
+      "size" : 38802
+    }, {
+      "uid" : "984c23be84145976",
+      "name" : "Screenshot",
+      "source" : "984c23be84145976.png",
+      "type" : "image/png",
+      "size" : 34938
+    }, {
+      "uid" : "fb25ab2afd5ceeb1",
+      "name" : "Screenshot",
+      "source" : "fb25ab2afd5ceeb1.png",
+      "type" : "image/png",
+      "size" : 45728
+    }, {
+      "uid" : "d718c535d19d0e62",
+      "name" : "Screenshot",
+      "source" : "d718c535d19d0e62.png",
+      "type" : "image/png",
+      "size" : 55644
+    }, {
+      "uid" : "5958d9039d8d683e",
+      "name" : "Screenshot",
+      "source" : "5958d9039d8d683e.png",
+      "type" : "image/png",
+      "size" : 56030
+    }, {
+      "uid" : "c2c72e15a3af136b",
+      "name" : "Screenshot",
+      "source" : "c2c72e15a3af136b.png",
+      "type" : "image/png",
+      "size" : 54702
+    }, {
+      "uid" : "719c32c2731176a",
+      "name" : "Screenshot",
+      "source" : "719c32c2731176a.png",
+      "type" : "image/png",
+      "size" : 56015
+    }, {
+      "uid" : "f01a244f7e3347b7",
+      "name" : "Screenshot",
+      "source" : "f01a244f7e3347b7.png",
+      "type" : "image/png",
+      "size" : 57080
+    }, {
+      "uid" : "27571df4979da3b7",
+      "name" : "Screenshot",
+      "source" : "27571df4979da3b7.png",
+      "type" : "image/png",
+      "size" : 63888
+    }, {
+      "uid" : "ddf24f67a5a06c88",
+      "name" : "Screenshot",
+      "source" : "ddf24f67a5a06c88.png",
+      "type" : "image/png",
+      "size" : 50715
+    }, {
+      "uid" : "5b10654e0652c9f7",
+      "name" : "Screenshot",
+      "source" : "5b10654e0652c9f7.png",
+      "type" : "image/png",
+      "size" : 61649
+    }, {
+      "uid" : "23954a80a7e98674",
+      "name" : "Screenshot",
+      "source" : "23954a80a7e98674.png",
+      "type" : "image/png",
+      "size" : 49615
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-36"
+  }, {
+    "name" : "suite",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testClass",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that configuration added until the end of this year."
+  }, {
+    "name" : "package",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23e65cb53ee22de3.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

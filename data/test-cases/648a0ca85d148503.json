@@ -1,0 +1,105 @@
+{
+  "uid" : "648a0ca85d148503",
+  "name" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
+  "fullName" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server..Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button.",
+  "historyId" : "ffd318a2a6614a5d9b4423a9f6bfd406",
+  "time" : {
+    "start" : 1654081226108,
+    "stop" : 1654081228439,
+    "duration" : 2331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5b847ce7824507e7",
+      "name" : "Screenshot",
+      "source" : "5b847ce7824507e7.png",
+      "type" : "image/png",
+      "size" : 18906
+    }, {
+      "uid" : "6502514e381e51fc",
+      "name" : "Screenshot",
+      "source" : "6502514e381e51fc.png",
+      "type" : "image/png",
+      "size" : 24246
+    }, {
+      "uid" : "ab9493bf3edced23",
+      "name" : "Screenshot",
+      "source" : "ab9493bf3edced23.png",
+      "type" : "image/png",
+      "size" : 24289
+    }, {
+      "uid" : "2ed39e0b99573fba",
+      "name" : "Screenshot",
+      "source" : "2ed39e0b99573fba.png",
+      "type" : "image/png",
+      "size" : 23271
+    }, {
+      "uid" : "81aa0a6a4e4ecc00",
+      "name" : "Screenshot",
+      "source" : "81aa0a6a4e4ecc00.png",
+      "type" : "image/png",
+      "size" : 23104
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testClass",
+    "value" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should fill the \"Email\" and \"Password\" fields with the valid data adn click \"Send\" button."
+  }, {
+    "name" : "package",
+    "value" : "C12: Login to \"Master Schedule\" application as \"Sales Manager\" role with valid credentials at Staging server."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "648a0ca85d148503.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

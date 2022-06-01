@@ -1,0 +1,81 @@
+{
+  "uid" : "6f6e7ecb1dcbf825",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C18: The scheduler can create input field for an existing column with \"text\" type..Should click the \"Update Form Structure\" button.",
+  "historyId" : "d584f073d0359bb5c8b15356ece5ab63",
+  "time" : {
+    "start" : 1654082082562,
+    "stop" : 1654082103047,
+    "duration" : 20485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b96e8f410235759b",
+      "name" : "Screenshot",
+      "source" : "b96e8f410235759b.png",
+      "type" : "image/png",
+      "size" : 18608
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testClass",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C18: The scheduler can create input field for an existing column with \"text\" type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f6e7ecb1dcbf825.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

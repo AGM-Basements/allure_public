@@ -1,0 +1,81 @@
+{
+  "uid" : "bd113528ec53d636",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C16: The scheduler can delete an existing column..Should click the \"Update Form Structure\" button.",
+  "historyId" : "be3ce96f5e5cc41187d03f143ea62108",
+  "time" : {
+    "start" : 1654082001565,
+    "stop" : 1654082021517,
+    "duration" : 19952
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4058f8b533c409b1",
+      "name" : "Screenshot",
+      "source" : "4058f8b533c409b1.png",
+      "type" : "image/png",
+      "size" : 18608
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-24"
+  }, {
+    "name" : "suite",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd113528ec53d636.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

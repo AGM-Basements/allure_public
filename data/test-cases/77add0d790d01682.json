@@ -1,0 +1,237 @@
+{
+  "uid" : "77add0d790d01682",
+  "name" : "Should verify that only projects with chosen type are displayed.",
+  "fullName" : "C22: Filtering configurations by project type..Should verify that only projects with chosen type are displayed.",
+  "historyId" : "31ebf89ac30caac0effe62affd3459e6",
+  "time" : {
+    "start" : 1654081182042,
+    "stop" : 1654081223769,
+    "duration" : 41727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0c00ee8bef3bdc5",
+      "name" : "Screenshot",
+      "source" : "a0c00ee8bef3bdc5.png",
+      "type" : "image/png",
+      "size" : 64817
+    }, {
+      "uid" : "b19855c2791bd440",
+      "name" : "Screenshot",
+      "source" : "b19855c2791bd440.png",
+      "type" : "image/png",
+      "size" : 68978
+    }, {
+      "uid" : "4296320fef4845a6",
+      "name" : "Screenshot",
+      "source" : "4296320fef4845a6.png",
+      "type" : "image/png",
+      "size" : 64466
+    }, {
+      "uid" : "b4e41975b4e301ca",
+      "name" : "Screenshot",
+      "source" : "b4e41975b4e301ca.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "8caf9cceebe43e85",
+      "name" : "Screenshot",
+      "source" : "8caf9cceebe43e85.png",
+      "type" : "image/png",
+      "size" : 66411
+    }, {
+      "uid" : "8833a772c7a16b72",
+      "name" : "Screenshot",
+      "source" : "8833a772c7a16b72.png",
+      "type" : "image/png",
+      "size" : 75062
+    }, {
+      "uid" : "603a2ae59735f004",
+      "name" : "Screenshot",
+      "source" : "603a2ae59735f004.png",
+      "type" : "image/png",
+      "size" : 35225
+    }, {
+      "uid" : "8a037a4fc1595c52",
+      "name" : "Screenshot",
+      "source" : "8a037a4fc1595c52.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "d13785b697a065cf",
+      "name" : "Screenshot",
+      "source" : "d13785b697a065cf.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "fc7750bcd380d65f",
+      "name" : "Screenshot",
+      "source" : "fc7750bcd380d65f.png",
+      "type" : "image/png",
+      "size" : 67598
+    }, {
+      "uid" : "474290322e079c2e",
+      "name" : "Screenshot",
+      "source" : "474290322e079c2e.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "ba8ccee5eaf2e934",
+      "name" : "Screenshot",
+      "source" : "ba8ccee5eaf2e934.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "7815241f05accaab",
+      "name" : "Screenshot",
+      "source" : "7815241f05accaab.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "4e5dc6666c36991f",
+      "name" : "Screenshot",
+      "source" : "4e5dc6666c36991f.png",
+      "type" : "image/png",
+      "size" : 75698
+    }, {
+      "uid" : "de8d266d398d7c86",
+      "name" : "Screenshot",
+      "source" : "de8d266d398d7c86.png",
+      "type" : "image/png",
+      "size" : 62832
+    }, {
+      "uid" : "4ea21d41add6827a",
+      "name" : "Screenshot",
+      "source" : "4ea21d41add6827a.png",
+      "type" : "image/png",
+      "size" : 59626
+    }, {
+      "uid" : "4c7672c8504b5ed4",
+      "name" : "Screenshot",
+      "source" : "4c7672c8504b5ed4.png",
+      "type" : "image/png",
+      "size" : 53718
+    }, {
+      "uid" : "8591a70ba1684669",
+      "name" : "Screenshot",
+      "source" : "8591a70ba1684669.png",
+      "type" : "image/png",
+      "size" : 50434
+    }, {
+      "uid" : "3875fd015fdb8d26",
+      "name" : "Screenshot",
+      "source" : "3875fd015fdb8d26.png",
+      "type" : "image/png",
+      "size" : 58353
+    }, {
+      "uid" : "df3be4345dad6463",
+      "name" : "Screenshot",
+      "source" : "df3be4345dad6463.png",
+      "type" : "image/png",
+      "size" : 62135
+    }, {
+      "uid" : "ed9ea21d43734ab",
+      "name" : "Screenshot",
+      "source" : "ed9ea21d43734ab.png",
+      "type" : "image/png",
+      "size" : 60806
+    }, {
+      "uid" : "9f4fe01dea00a8bd",
+      "name" : "Screenshot",
+      "source" : "9f4fe01dea00a8bd.png",
+      "type" : "image/png",
+      "size" : 62093
+    }, {
+      "uid" : "13ded54df498bcc5",
+      "name" : "Screenshot",
+      "source" : "13ded54df498bcc5.png",
+      "type" : "image/png",
+      "size" : 69777
+    }, {
+      "uid" : "2be632a8e8fbfc63",
+      "name" : "Screenshot",
+      "source" : "2be632a8e8fbfc63.png",
+      "type" : "image/png",
+      "size" : 70195
+    }, {
+      "uid" : "536177f40c53f7d1",
+      "name" : "Screenshot",
+      "source" : "536177f40c53f7d1.png",
+      "type" : "image/png",
+      "size" : 56846
+    }, {
+      "uid" : "1e3957a6459baa35",
+      "name" : "Screenshot",
+      "source" : "1e3957a6459baa35.png",
+      "type" : "image/png",
+      "size" : 61624
+    }, {
+      "uid" : "9389b5798f62ecd",
+      "name" : "Screenshot",
+      "source" : "9389b5798f62ecd.png",
+      "type" : "image/png",
+      "size" : 46100
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 27,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "C22: Filtering configurations by project type."
+  }, {
+    "name" : "testClass",
+    "value" : "C22: Filtering configurations by project type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that only projects with chosen type are displayed."
+  }, {
+    "name" : "package",
+    "value" : "C22: Filtering configurations by project type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77add0d790d01682.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

@@ -1,0 +1,297 @@
+{
+  "uid" : "4a95b466dd71ef7d",
+  "name" : "Should add new inputs for created culumn",
+  "fullName" : "C24: The scheduler can create input field for and existing column with any type..Should add new inputs for created culumn",
+  "historyId" : "b78022f3612ba8305ade552b7dbcb65e",
+  "time" : {
+    "start" : 1654082185694,
+    "stop" : 1654082210698,
+    "duration" : 25004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bea18fadd41553cd",
+      "name" : "Screenshot",
+      "source" : "bea18fadd41553cd.png",
+      "type" : "image/png",
+      "size" : 25051
+    }, {
+      "uid" : "a39a65baf287fbc1",
+      "name" : "Screenshot",
+      "source" : "a39a65baf287fbc1.png",
+      "type" : "image/png",
+      "size" : 29944
+    }, {
+      "uid" : "fbfa9b7d409384af",
+      "name" : "Screenshot",
+      "source" : "fbfa9b7d409384af.png",
+      "type" : "image/png",
+      "size" : 25430
+    }, {
+      "uid" : "a8c9a2558ba6e3a9",
+      "name" : "Screenshot",
+      "source" : "a8c9a2558ba6e3a9.png",
+      "type" : "image/png",
+      "size" : 50863
+    }, {
+      "uid" : "3a4cd5888808ca89",
+      "name" : "Screenshot",
+      "source" : "3a4cd5888808ca89.png",
+      "type" : "image/png",
+      "size" : 54044
+    }, {
+      "uid" : "9dada610faa8d4dc",
+      "name" : "Screenshot",
+      "source" : "9dada610faa8d4dc.png",
+      "type" : "image/png",
+      "size" : 62907
+    }, {
+      "uid" : "a5a3869db6dc0cc7",
+      "name" : "Screenshot",
+      "source" : "a5a3869db6dc0cc7.png",
+      "type" : "image/png",
+      "size" : 51370
+    }, {
+      "uid" : "d60167be091f09c9",
+      "name" : "Screenshot",
+      "source" : "d60167be091f09c9.png",
+      "type" : "image/png",
+      "size" : 53279
+    }, {
+      "uid" : "dc62e8ce8f3ab76a",
+      "name" : "Screenshot",
+      "source" : "dc62e8ce8f3ab76a.png",
+      "type" : "image/png",
+      "size" : 41560
+    }, {
+      "uid" : "de6329a17562b3f3",
+      "name" : "Screenshot",
+      "source" : "de6329a17562b3f3.png",
+      "type" : "image/png",
+      "size" : 52671
+    }, {
+      "uid" : "b557bf8c698564f9",
+      "name" : "Screenshot",
+      "source" : "b557bf8c698564f9.png",
+      "type" : "image/png",
+      "size" : 57614
+    }, {
+      "uid" : "88585cc80d3c0043",
+      "name" : "Screenshot",
+      "source" : "88585cc80d3c0043.png",
+      "type" : "image/png",
+      "size" : 64969
+    }, {
+      "uid" : "e1d659c139db7e47",
+      "name" : "Screenshot",
+      "source" : "e1d659c139db7e47.png",
+      "type" : "image/png",
+      "size" : 53766
+    }, {
+      "uid" : "542296b630d41fe4",
+      "name" : "Screenshot",
+      "source" : "542296b630d41fe4.png",
+      "type" : "image/png",
+      "size" : 55470
+    }, {
+      "uid" : "f3cec54875f5a2e0",
+      "name" : "Screenshot",
+      "source" : "f3cec54875f5a2e0.png",
+      "type" : "image/png",
+      "size" : 60546
+    }, {
+      "uid" : "2134790a986527b",
+      "name" : "Screenshot",
+      "source" : "2134790a986527b.png",
+      "type" : "image/png",
+      "size" : 61704
+    }, {
+      "uid" : "72aae38334c8f12f",
+      "name" : "Screenshot",
+      "source" : "72aae38334c8f12f.png",
+      "type" : "image/png",
+      "size" : 45045
+    }, {
+      "uid" : "a55d230c5734c94f",
+      "name" : "Screenshot",
+      "source" : "a55d230c5734c94f.png",
+      "type" : "image/png",
+      "size" : 56233
+    }, {
+      "uid" : "8917ceb465743ac4",
+      "name" : "Screenshot",
+      "source" : "8917ceb465743ac4.png",
+      "type" : "image/png",
+      "size" : 59367
+    }, {
+      "uid" : "436efa1a31559e2",
+      "name" : "Screenshot",
+      "source" : "436efa1a31559e2.png",
+      "type" : "image/png",
+      "size" : 69551
+    }, {
+      "uid" : "5432e313f2ea14cf",
+      "name" : "Screenshot",
+      "source" : "5432e313f2ea14cf.png",
+      "type" : "image/png",
+      "size" : 57835
+    }, {
+      "uid" : "5ccbfdcc37eec573",
+      "name" : "Screenshot",
+      "source" : "5ccbfdcc37eec573.png",
+      "type" : "image/png",
+      "size" : 59749
+    }, {
+      "uid" : "737b527d1d83e421",
+      "name" : "Screenshot",
+      "source" : "737b527d1d83e421.png",
+      "type" : "image/png",
+      "size" : 46570
+    }, {
+      "uid" : "502f4abaf2514cd",
+      "name" : "Screenshot",
+      "source" : "502f4abaf2514cd.png",
+      "type" : "image/png",
+      "size" : 57594
+    }, {
+      "uid" : "18ef76cfdd39f5d7",
+      "name" : "Screenshot",
+      "source" : "18ef76cfdd39f5d7.png",
+      "type" : "image/png",
+      "size" : 62742
+    }, {
+      "uid" : "a783b75175a6a559",
+      "name" : "Screenshot",
+      "source" : "a783b75175a6a559.png",
+      "type" : "image/png",
+      "size" : 69562
+    }, {
+      "uid" : "364575014edff32f",
+      "name" : "Screenshot",
+      "source" : "364575014edff32f.png",
+      "type" : "image/png",
+      "size" : 58424
+    }, {
+      "uid" : "db34bf555ea8a196",
+      "name" : "Screenshot",
+      "source" : "db34bf555ea8a196.png",
+      "type" : "image/png",
+      "size" : 60387
+    }, {
+      "uid" : "393477555d83838f",
+      "name" : "Screenshot",
+      "source" : "393477555d83838f.png",
+      "type" : "image/png",
+      "size" : 49819
+    }, {
+      "uid" : "1fc5c6bb4928b314",
+      "name" : "Screenshot",
+      "source" : "1fc5c6bb4928b314.png",
+      "type" : "image/png",
+      "size" : 60373
+    }, {
+      "uid" : "7606c5e93eaf4ccd",
+      "name" : "Screenshot",
+      "source" : "7606c5e93eaf4ccd.png",
+      "type" : "image/png",
+      "size" : 61281
+    }, {
+      "uid" : "9de1019dddf7577c",
+      "name" : "Screenshot",
+      "source" : "9de1019dddf7577c.png",
+      "type" : "image/png",
+      "size" : 68850
+    }, {
+      "uid" : "7a1fa9f583cac1e9",
+      "name" : "Screenshot",
+      "source" : "7a1fa9f583cac1e9.png",
+      "type" : "image/png",
+      "size" : 58157
+    }, {
+      "uid" : "2252b44fcde9b587",
+      "name" : "Screenshot",
+      "source" : "2252b44fcde9b587.png",
+      "type" : "image/png",
+      "size" : 59998
+    }, {
+      "uid" : "490bd7f43446b192",
+      "name" : "Screenshot",
+      "source" : "490bd7f43446b192.png",
+      "type" : "image/png",
+      "size" : 52276
+    }, {
+      "uid" : "cad75df5981b2ffa",
+      "name" : "Screenshot",
+      "source" : "cad75df5981b2ffa.png",
+      "type" : "image/png",
+      "size" : 52307
+    }, {
+      "uid" : "fd742f5590fecd4c",
+      "name" : "Screenshot",
+      "source" : "fd742f5590fecd4c.png",
+      "type" : "image/png",
+      "size" : 37560
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 37,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-28"
+  }, {
+    "name" : "suite",
+    "value" : "C24: The scheduler can create input field for and existing column with any type."
+  }, {
+    "name" : "testClass",
+    "value" : "C24: The scheduler can create input field for and existing column with any type."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add new inputs for created culumn"
+  }, {
+    "name" : "package",
+    "value" : "C24: The scheduler can create input field for and existing column with any type."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a95b466dd71ef7d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

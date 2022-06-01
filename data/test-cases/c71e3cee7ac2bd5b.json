@@ -1,0 +1,117 @@
+{
+  "uid" : "c71e3cee7ac2bd5b",
+  "name" : "Should delete created input from form structure",
+  "fullName" : "C16: The scheduler can delete an existing column..Should delete created input from form structure",
+  "historyId" : "3945a26f8c7ef0b9b27525bd1c272ca4",
+  "time" : {
+    "start" : 1654082021519,
+    "stop" : 1654082025911,
+    "duration" : 4392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "42e792a32a26e9ac",
+      "name" : "Screenshot",
+      "source" : "42e792a32a26e9ac.png",
+      "type" : "image/png",
+      "size" : 26274
+    }, {
+      "uid" : "4340738edb59004d",
+      "name" : "Screenshot",
+      "source" : "4340738edb59004d.png",
+      "type" : "image/png",
+      "size" : 29944
+    }, {
+      "uid" : "65a90f53603a7458",
+      "name" : "Screenshot",
+      "source" : "65a90f53603a7458.png",
+      "type" : "image/png",
+      "size" : 33201
+    }, {
+      "uid" : "2f4db123f7c86659",
+      "name" : "Screenshot",
+      "source" : "2f4db123f7c86659.png",
+      "type" : "image/png",
+      "size" : 46788
+    }, {
+      "uid" : "64fda3b803d0d5c0",
+      "name" : "Screenshot",
+      "source" : "64fda3b803d0d5c0.png",
+      "type" : "image/png",
+      "size" : 45610
+    }, {
+      "uid" : "a10d94228f22a6c1",
+      "name" : "Screenshot",
+      "source" : "a10d94228f22a6c1.png",
+      "type" : "image/png",
+      "size" : 23995
+    }, {
+      "uid" : "3f677b83a6a47c55",
+      "name" : "Screenshot",
+      "source" : "3f677b83a6a47c55.png",
+      "type" : "image/png",
+      "size" : 43188
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-24"
+  }, {
+    "name" : "suite",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c71e3cee7ac2bd5b.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

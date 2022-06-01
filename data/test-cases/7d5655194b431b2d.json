@@ -1,0 +1,141 @@
+{
+  "uid" : "7d5655194b431b2d",
+  "name" : "Should try to add configuration with empty area name field.",
+  "fullName" : "C30: Verify that a scheduler can't add empty \"area name\"..Should try to add configuration with empty area name field.",
+  "historyId" : "3153f94aa544f45fc362d41ec8b4b7bf",
+  "time" : {
+    "start" : 1654082336878,
+    "stop" : 1654082341031,
+    "duration" : 4153
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fded21cfc9a68125",
+      "name" : "Screenshot",
+      "source" : "fded21cfc9a68125.png",
+      "type" : "image/png",
+      "size" : 35198
+    }, {
+      "uid" : "f117c44f0d8b4c41",
+      "name" : "Screenshot",
+      "source" : "f117c44f0d8b4c41.png",
+      "type" : "image/png",
+      "size" : 37887
+    }, {
+      "uid" : "f1202ed9943d4be6",
+      "name" : "Screenshot",
+      "source" : "f1202ed9943d4be6.png",
+      "type" : "image/png",
+      "size" : 35182
+    }, {
+      "uid" : "d666c21a7132185e",
+      "name" : "Screenshot",
+      "source" : "d666c21a7132185e.png",
+      "type" : "image/png",
+      "size" : 37501
+    }, {
+      "uid" : "d784091fb6b22bd1",
+      "name" : "Screenshot",
+      "source" : "d784091fb6b22bd1.png",
+      "type" : "image/png",
+      "size" : 38435
+    }, {
+      "uid" : "c43dd099aed7a1d6",
+      "name" : "Screenshot",
+      "source" : "c43dd099aed7a1d6.png",
+      "type" : "image/png",
+      "size" : 47002
+    }, {
+      "uid" : "c1f32053e5721d0f",
+      "name" : "Screenshot",
+      "source" : "c1f32053e5721d0f.png",
+      "type" : "image/png",
+      "size" : 46132
+    }, {
+      "uid" : "4743c15587fe52a0",
+      "name" : "Screenshot",
+      "source" : "4743c15587fe52a0.png",
+      "type" : "image/png",
+      "size" : 45634
+    }, {
+      "uid" : "b84b840a252897ff",
+      "name" : "Screenshot",
+      "source" : "b84b840a252897ff.png",
+      "type" : "image/png",
+      "size" : 47350
+    }, {
+      "uid" : "813595a4590c505e",
+      "name" : "Screenshot",
+      "source" : "813595a4590c505e.png",
+      "type" : "image/png",
+      "size" : 50878
+    }, {
+      "uid" : "64d1814ef5d6b8db",
+      "name" : "Screenshot",
+      "source" : "64d1814ef5d6b8db.png",
+      "type" : "image/png",
+      "size" : 50540
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-34"
+  }, {
+    "name" : "suite",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add configuration with empty area name field."
+  }, {
+    "name" : "package",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d5655194b431b2d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}
