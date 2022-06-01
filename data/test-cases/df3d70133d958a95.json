@@ -1,0 +1,207 @@
+{
+  "uid" : "df3d70133d958a95",
+  "name" : "Should verify that \"Sales Manager\" can't delete created project projectwiyeu",
+  "fullName" : "C41: The sales manager can't delete an existing project\".Should verify that \"Sales Manager\" can't delete created project projectwiyeu",
+  "historyId" : "eb1d3a62c1fa8e790a16b6c4848cb905",
+  "time" : {
+    "start" : 1654086334165,
+    "stop" : 1654086375738,
+    "duration" : 41573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b0d9d50bcdb4d97",
+      "name" : "Screenshot",
+      "source" : "b0d9d50bcdb4d97.png",
+      "type" : "image/png",
+      "size" : 64085
+    }, {
+      "uid" : "55cabe05006ca5d3",
+      "name" : "Screenshot",
+      "source" : "55cabe05006ca5d3.png",
+      "type" : "image/png",
+      "size" : 54909
+    }, {
+      "uid" : "4fefbf1b984ab7b5",
+      "name" : "Screenshot",
+      "source" : "4fefbf1b984ab7b5.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "f4da366645f173f",
+      "name" : "Screenshot",
+      "source" : "f4da366645f173f.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "5ff151077d14e134",
+      "name" : "Screenshot",
+      "source" : "5ff151077d14e134.png",
+      "type" : "image/png",
+      "size" : 67598
+    }, {
+      "uid" : "9e8e0e1b817edb5c",
+      "name" : "Screenshot",
+      "source" : "9e8e0e1b817edb5c.png",
+      "type" : "image/png",
+      "size" : 65607
+    }, {
+      "uid" : "4c75be45559c990a",
+      "name" : "Screenshot",
+      "source" : "4c75be45559c990a.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "168ff295c0a135a2",
+      "name" : "Screenshot",
+      "source" : "168ff295c0a135a2.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "92d9a33a8e38f968",
+      "name" : "Screenshot",
+      "source" : "92d9a33a8e38f968.png",
+      "type" : "image/png",
+      "size" : 75698
+    }, {
+      "uid" : "6171d48e25af8e38",
+      "name" : "Screenshot",
+      "source" : "6171d48e25af8e38.png",
+      "type" : "image/png",
+      "size" : 35355
+    }, {
+      "uid" : "61a36faf348dc7ae",
+      "name" : "Screenshot",
+      "source" : "61a36faf348dc7ae.png",
+      "type" : "image/png",
+      "size" : 60628
+    }, {
+      "uid" : "415529daf8edb2cf",
+      "name" : "Screenshot",
+      "source" : "415529daf8edb2cf.png",
+      "type" : "image/png",
+      "size" : 53079
+    }, {
+      "uid" : "e37fb33bd0a2e121",
+      "name" : "Screenshot",
+      "source" : "e37fb33bd0a2e121.png",
+      "type" : "image/png",
+      "size" : 37675
+    }, {
+      "uid" : "856026461055e78d",
+      "name" : "Screenshot",
+      "source" : "856026461055e78d.png",
+      "type" : "image/png",
+      "size" : 60173
+    }, {
+      "uid" : "dc174f05709f01c7",
+      "name" : "Screenshot",
+      "source" : "dc174f05709f01c7.png",
+      "type" : "image/png",
+      "size" : 62135
+    }, {
+      "uid" : "928210a047249900",
+      "name" : "Screenshot",
+      "source" : "928210a047249900.png",
+      "type" : "image/png",
+      "size" : 60806
+    }, {
+      "uid" : "5ad26479941b482c",
+      "name" : "Screenshot",
+      "source" : "5ad26479941b482c.png",
+      "type" : "image/png",
+      "size" : 62093
+    }, {
+      "uid" : "9874f2c674bdf6a0",
+      "name" : "Screenshot",
+      "source" : "9874f2c674bdf6a0.png",
+      "type" : "image/png",
+      "size" : 63300
+    }, {
+      "uid" : "6beb822d69a42122",
+      "name" : "Screenshot",
+      "source" : "6beb822d69a42122.png",
+      "type" : "image/png",
+      "size" : 70205
+    }, {
+      "uid" : "c917e5169f1c2898",
+      "name" : "Screenshot",
+      "source" : "c917e5169f1c2898.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "91db13d175b3b36d",
+      "name" : "Screenshot",
+      "source" : "91db13d175b3b36d.png",
+      "type" : "image/png",
+      "size" : 61614
+    }, {
+      "uid" : "15e1ec2555dd3eff",
+      "name" : "Screenshot",
+      "source" : "15e1ec2555dd3eff.png",
+      "type" : "image/png",
+      "size" : 49551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 22,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-20"
+  }, {
+    "name" : "suite",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testClass",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that \"Sales Manager\" can't delete created project projectwiyeu"
+  }, {
+    "name" : "package",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df3d70133d958a95.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

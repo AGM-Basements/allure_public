@@ -1,0 +1,189 @@
+{
+  "uid" : "227ac7136b61f7e",
+  "name" : "Should verify that created configuration is displayed after filtering by its country.",
+  "fullName" : "C21: Filtering configurations by country and region..Should verify that created configuration is displayed after filtering by its country.",
+  "historyId" : "c8585b2dece48d826eae267565eec73a",
+  "time" : {
+    "start" : 1654085621144,
+    "stop" : 1654085643819,
+    "duration" : 22675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6248d350e3a54a85",
+      "name" : "Screenshot",
+      "source" : "6248d350e3a54a85.png",
+      "type" : "image/png",
+      "size" : 37589
+    }, {
+      "uid" : "8be74975e2f059bd",
+      "name" : "Screenshot",
+      "source" : "8be74975e2f059bd.png",
+      "type" : "image/png",
+      "size" : 39575
+    }, {
+      "uid" : "d794c8e620f987b5",
+      "name" : "Screenshot",
+      "source" : "d794c8e620f987b5.png",
+      "type" : "image/png",
+      "size" : 35250
+    }, {
+      "uid" : "35b9fc3699471362",
+      "name" : "Screenshot",
+      "source" : "35b9fc3699471362.png",
+      "type" : "image/png",
+      "size" : 40426
+    }, {
+      "uid" : "ef196024293fed4e",
+      "name" : "Screenshot",
+      "source" : "ef196024293fed4e.png",
+      "type" : "image/png",
+      "size" : 48738
+    }, {
+      "uid" : "c7db7fec2869627f",
+      "name" : "Screenshot",
+      "source" : "c7db7fec2869627f.png",
+      "type" : "image/png",
+      "size" : 49592
+    }, {
+      "uid" : "e575c5eb94f68612",
+      "name" : "Screenshot",
+      "source" : "e575c5eb94f68612.png",
+      "type" : "image/png",
+      "size" : 35301
+    }, {
+      "uid" : "980c2be662157c52",
+      "name" : "Screenshot",
+      "source" : "980c2be662157c52.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "34eabc8e85c9c30d",
+      "name" : "Screenshot",
+      "source" : "34eabc8e85c9c30d.png",
+      "type" : "image/png",
+      "size" : 38060
+    }, {
+      "uid" : "f7c5fc47e7f8e75d",
+      "name" : "Screenshot",
+      "source" : "f7c5fc47e7f8e75d.png",
+      "type" : "image/png",
+      "size" : 55644
+    }, {
+      "uid" : "8360fdd3b6d2812e",
+      "name" : "Screenshot",
+      "source" : "8360fdd3b6d2812e.png",
+      "type" : "image/png",
+      "size" : 56310
+    }, {
+      "uid" : "50ac5b1ba3faa0dc",
+      "name" : "Screenshot",
+      "source" : "50ac5b1ba3faa0dc.png",
+      "type" : "image/png",
+      "size" : 53506
+    }, {
+      "uid" : "f7ac5c3a8d6a54d8",
+      "name" : "Screenshot",
+      "source" : "f7ac5c3a8d6a54d8.png",
+      "type" : "image/png",
+      "size" : 56008
+    }, {
+      "uid" : "7791f78241406144",
+      "name" : "Screenshot",
+      "source" : "7791f78241406144.png",
+      "type" : "image/png",
+      "size" : 57081
+    }, {
+      "uid" : "96e3c61df8e3a630",
+      "name" : "Screenshot",
+      "source" : "96e3c61df8e3a630.png",
+      "type" : "image/png",
+      "size" : 63885
+    }, {
+      "uid" : "2bc7ac4bcce5b948",
+      "name" : "Screenshot",
+      "source" : "2bc7ac4bcce5b948.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "b558b890721fdb93",
+      "name" : "Screenshot",
+      "source" : "b558b890721fdb93.png",
+      "type" : "image/png",
+      "size" : 61614
+    }, {
+      "uid" : "c655fd170072b86c",
+      "name" : "Screenshot",
+      "source" : "c655fd170072b86c.png",
+      "type" : "image/png",
+      "size" : 49551
+    }, {
+      "uid" : "2fde96b95090ed45",
+      "name" : "Screenshot",
+      "source" : "2fde96b95090ed45.png",
+      "type" : "image/png",
+      "size" : 64955
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 19,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "C21: Filtering configurations by country and region."
+  }, {
+    "name" : "testClass",
+    "value" : "C21: Filtering configurations by country and region."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that created configuration is displayed after filtering by its country."
+  }, {
+    "name" : "package",
+    "value" : "C21: Filtering configurations by country and region."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "227ac7136b61f7e.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

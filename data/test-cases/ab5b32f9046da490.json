@@ -1,0 +1,255 @@
+{
+  "uid" : "ab5b32f9046da490",
+  "name" : "Should search with empty fields",
+  "fullName" : "C26: Searching with empty request.Should search with empty fields",
+  "historyId" : "b4b03b15379a86c4790cd85fe8f33bab",
+  "time" : {
+    "start" : 1654085859799,
+    "stop" : 1654085880667,
+    "duration" : 20868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f9e847bbe467c0e4",
+      "name" : "Screenshot",
+      "source" : "f9e847bbe467c0e4.png",
+      "type" : "image/png",
+      "size" : 59186
+    }, {
+      "uid" : "d7b2831390e0e7e9",
+      "name" : "Screenshot",
+      "source" : "d7b2831390e0e7e9.png",
+      "type" : "image/png",
+      "size" : 60786
+    }, {
+      "uid" : "2bfbb5742b6b3710",
+      "name" : "Screenshot",
+      "source" : "2bfbb5742b6b3710.png",
+      "type" : "image/png",
+      "size" : 51779
+    }, {
+      "uid" : "f0b9d01bf3dc17df",
+      "name" : "Screenshot",
+      "source" : "f0b9d01bf3dc17df.png",
+      "type" : "image/png",
+      "size" : 46664
+    }, {
+      "uid" : "6f4d856a1879749f",
+      "name" : "Screenshot",
+      "source" : "6f4d856a1879749f.png",
+      "type" : "image/png",
+      "size" : 43288
+    }, {
+      "uid" : "62299db1563cba63",
+      "name" : "Screenshot",
+      "source" : "62299db1563cba63.png",
+      "type" : "image/png",
+      "size" : 62788
+    }, {
+      "uid" : "bdef3f31fd50c382",
+      "name" : "Screenshot",
+      "source" : "bdef3f31fd50c382.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "a5fdb3ef9b935cf6",
+      "name" : "Screenshot",
+      "source" : "a5fdb3ef9b935cf6.png",
+      "type" : "image/png",
+      "size" : 66339
+    }, {
+      "uid" : "865f3aa058c7da38",
+      "name" : "Screenshot",
+      "source" : "865f3aa058c7da38.png",
+      "type" : "image/png",
+      "size" : 68949
+    }, {
+      "uid" : "70674586faf9ad3a",
+      "name" : "Screenshot",
+      "source" : "70674586faf9ad3a.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "79a9fa942f8eaa40",
+      "name" : "Screenshot",
+      "source" : "79a9fa942f8eaa40.png",
+      "type" : "image/png",
+      "size" : 69015
+    }, {
+      "uid" : "e22b955a638df6f2",
+      "name" : "Screenshot",
+      "source" : "e22b955a638df6f2.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "d40ddf81107a2854",
+      "name" : "Screenshot",
+      "source" : "d40ddf81107a2854.png",
+      "type" : "image/png",
+      "size" : 75863
+    }, {
+      "uid" : "37ad6ae22f5bc531",
+      "name" : "Screenshot",
+      "source" : "37ad6ae22f5bc531.png",
+      "type" : "image/png",
+      "size" : 35485
+    }, {
+      "uid" : "a77b42546dbbe8d7",
+      "name" : "Screenshot",
+      "source" : "a77b42546dbbe8d7.png",
+      "type" : "image/png",
+      "size" : 66956
+    }, {
+      "uid" : "6e708dbfb9d9ad85",
+      "name" : "Screenshot",
+      "source" : "6e708dbfb9d9ad85.png",
+      "type" : "image/png",
+      "size" : 59725
+    }, {
+      "uid" : "6c971944d1a8f0b6",
+      "name" : "Screenshot",
+      "source" : "6c971944d1a8f0b6.png",
+      "type" : "image/png",
+      "size" : 72238
+    }, {
+      "uid" : "a42300013209da57",
+      "name" : "Screenshot",
+      "source" : "a42300013209da57.png",
+      "type" : "image/png",
+      "size" : 65102
+    }, {
+      "uid" : "91f7d684b910cfb8",
+      "name" : "Screenshot",
+      "source" : "91f7d684b910cfb8.png",
+      "type" : "image/png",
+      "size" : 31961
+    }, {
+      "uid" : "f08809d3f114a820",
+      "name" : "Screenshot",
+      "source" : "f08809d3f114a820.png",
+      "type" : "image/png",
+      "size" : 71486
+    }, {
+      "uid" : "6a96a86b355876d4",
+      "name" : "Screenshot",
+      "source" : "6a96a86b355876d4.png",
+      "type" : "image/png",
+      "size" : 73693
+    }, {
+      "uid" : "a2a195e63d739c4e",
+      "name" : "Screenshot",
+      "source" : "a2a195e63d739c4e.png",
+      "type" : "image/png",
+      "size" : 66391
+    }, {
+      "uid" : "5322b20581b0a23b",
+      "name" : "Screenshot",
+      "source" : "5322b20581b0a23b.png",
+      "type" : "image/png",
+      "size" : 67766
+    }, {
+      "uid" : "8eab5af2ea9c90a8",
+      "name" : "Screenshot",
+      "source" : "8eab5af2ea9c90a8.png",
+      "type" : "image/png",
+      "size" : 68827
+    }, {
+      "uid" : "8242419f2eb50ff4",
+      "name" : "Screenshot",
+      "source" : "8242419f2eb50ff4.png",
+      "type" : "image/png",
+      "size" : 75527
+    }, {
+      "uid" : "8377f6cecef0e4ea",
+      "name" : "Screenshot",
+      "source" : "8377f6cecef0e4ea.png",
+      "type" : "image/png",
+      "size" : 24946
+    }, {
+      "uid" : "fed80f4f48e5f474",
+      "name" : "Screenshot",
+      "source" : "fed80f4f48e5f474.png",
+      "type" : "image/png",
+      "size" : 63579
+    }, {
+      "uid" : "76403aed7e635f1",
+      "name" : "Screenshot",
+      "source" : "76403aed7e635f1.png",
+      "type" : "image/png",
+      "size" : 55042
+    }, {
+      "uid" : "7c4b37497b98c4db",
+      "name" : "Screenshot",
+      "source" : "7c4b37497b98c4db.png",
+      "type" : "image/png",
+      "size" : 65035
+    }, {
+      "uid" : "706a1b930081e448",
+      "name" : "Screenshot",
+      "source" : "706a1b930081e448.png",
+      "type" : "image/png",
+      "size" : 53438
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 30,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testClass",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search with empty fields"
+  }, {
+    "name" : "package",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab5b32f9046da490.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

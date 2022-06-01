@@ -1,0 +1,165 @@
+{
+  "uid" : "12e80568aaeb4e8c",
+  "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date and Area Name.",
+  "fullName" : "C8: The scheduler can add a date for Canada country..Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date and Area Name.",
+  "historyId" : "dc83515d0ec77a4793fc607721b59d68",
+  "time" : {
+    "start" : 1654087056665,
+    "stop" : 1654087063703,
+    "duration" : 7038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "240388c3486a370c",
+      "name" : "Screenshot",
+      "source" : "240388c3486a370c.png",
+      "type" : "image/png",
+      "size" : 33336
+    }, {
+      "uid" : "2ab39f7d2eb98df2",
+      "name" : "Screenshot",
+      "source" : "2ab39f7d2eb98df2.png",
+      "type" : "image/png",
+      "size" : 37887
+    }, {
+      "uid" : "9691e8a6e2f52ff4",
+      "name" : "Screenshot",
+      "source" : "9691e8a6e2f52ff4.png",
+      "type" : "image/png",
+      "size" : 34112
+    }, {
+      "uid" : "2a65c0c59eb2c7f5",
+      "name" : "Screenshot",
+      "source" : "2a65c0c59eb2c7f5.png",
+      "type" : "image/png",
+      "size" : 37501
+    }, {
+      "uid" : "36c5a4a41c1f7839",
+      "name" : "Screenshot",
+      "source" : "36c5a4a41c1f7839.png",
+      "type" : "image/png",
+      "size" : 38437
+    }, {
+      "uid" : "562d88de4433f9d1",
+      "name" : "Screenshot",
+      "source" : "562d88de4433f9d1.png",
+      "type" : "image/png",
+      "size" : 52025
+    }, {
+      "uid" : "80b008dee7abf5fb",
+      "name" : "Screenshot",
+      "source" : "80b008dee7abf5fb.png",
+      "type" : "image/png",
+      "size" : 24946
+    }, {
+      "uid" : "5e9f34e7afe37717",
+      "name" : "Screenshot",
+      "source" : "5e9f34e7afe37717.png",
+      "type" : "image/png",
+      "size" : 45567
+    }, {
+      "uid" : "92b7b4d05c1f0bce",
+      "name" : "Screenshot",
+      "source" : "92b7b4d05c1f0bce.png",
+      "type" : "image/png",
+      "size" : 47445
+    }, {
+      "uid" : "b55bdfd455c6b682",
+      "name" : "Screenshot",
+      "source" : "b55bdfd455c6b682.png",
+      "type" : "image/png",
+      "size" : 50814
+    }, {
+      "uid" : "b15f1c0604e5c1ac",
+      "name" : "Screenshot",
+      "source" : "b15f1c0604e5c1ac.png",
+      "type" : "image/png",
+      "size" : 50496
+    }, {
+      "uid" : "d65a50ddcf79cba2",
+      "name" : "Screenshot",
+      "source" : "d65a50ddcf79cba2.png",
+      "type" : "image/png",
+      "size" : 51925
+    }, {
+      "uid" : "9f91a807377af1ea",
+      "name" : "Screenshot",
+      "source" : "9f91a807377af1ea.png",
+      "type" : "image/png",
+      "size" : 55672
+    }, {
+      "uid" : "21008f33aef33e67",
+      "name" : "Screenshot",
+      "source" : "21008f33aef33e67.png",
+      "type" : "image/png",
+      "size" : 55883
+    }, {
+      "uid" : "69482ec11a4c2a3a",
+      "name" : "Screenshot",
+      "source" : "69482ec11a4c2a3a.png",
+      "type" : "image/png",
+      "size" : 35066
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 15,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-42"
+  }, {
+    "name" : "suite",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "testClass",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date and Area Name."
+  }, {
+    "name" : "package",
+    "value" : "C8: The scheduler can add a date for Canada country."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12e80568aaeb4e8c.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

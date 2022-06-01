@@ -1,0 +1,147 @@
+{
+  "uid" : "1d8419f1633ec7a6",
+  "name" : "Should edit newly created configuration and delete one area.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration..Should edit newly created configuration and delete one area.",
+  "historyId" : "43722c19de4977002bba92dfff867565",
+  "time" : {
+    "start" : 1654086921607,
+    "stop" : 1654086936365,
+    "duration" : 14758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4a67457b29ac607c",
+      "name" : "Screenshot",
+      "source" : "4a67457b29ac607c.png",
+      "type" : "image/png",
+      "size" : 30624
+    }, {
+      "uid" : "ca4304090895fed0",
+      "name" : "Screenshot",
+      "source" : "ca4304090895fed0.png",
+      "type" : "image/png",
+      "size" : 52399
+    }, {
+      "uid" : "fd20d6c4f9349423",
+      "name" : "Screenshot",
+      "source" : "fd20d6c4f9349423.png",
+      "type" : "image/png",
+      "size" : 57660
+    }, {
+      "uid" : "ed89412d047cac9a",
+      "name" : "Screenshot",
+      "source" : "ed89412d047cac9a.png",
+      "type" : "image/png",
+      "size" : 54820
+    }, {
+      "uid" : "25acb3761defc3c4",
+      "name" : "Screenshot",
+      "source" : "25acb3761defc3c4.png",
+      "type" : "image/png",
+      "size" : 58473
+    }, {
+      "uid" : "e383c22b67064896",
+      "name" : "Screenshot",
+      "source" : "e383c22b67064896.png",
+      "type" : "image/png",
+      "size" : 59282
+    }, {
+      "uid" : "df8b2a79824e749f",
+      "name" : "Screenshot",
+      "source" : "df8b2a79824e749f.png",
+      "type" : "image/png",
+      "size" : 69312
+    }, {
+      "uid" : "78fc85d26003a09e",
+      "name" : "Screenshot",
+      "source" : "78fc85d26003a09e.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "3c2e23dcac884fa2",
+      "name" : "Screenshot",
+      "source" : "3c2e23dcac884fa2.png",
+      "type" : "image/png",
+      "size" : 65749
+    }, {
+      "uid" : "f402e124e2292e77",
+      "name" : "Screenshot",
+      "source" : "f402e124e2292e77.png",
+      "type" : "image/png",
+      "size" : 61269
+    }, {
+      "uid" : "fe2b50604b78043a",
+      "name" : "Screenshot",
+      "source" : "fe2b50604b78043a.png",
+      "type" : "image/png",
+      "size" : 60617
+    }, {
+      "uid" : "76f7e93a0844fcbd",
+      "name" : "Screenshot",
+      "source" : "76f7e93a0844fcbd.png",
+      "type" : "image/png",
+      "size" : 35320
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 12,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-38"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created configuration and delete one area."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d8419f1633ec7a6.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

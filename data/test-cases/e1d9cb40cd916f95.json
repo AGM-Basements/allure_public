@@ -1,0 +1,183 @@
+{
+  "uid" : "e1d9cb40cd916f95",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "fullName" : "C55: The scheduler can edit areas at existing configuration..Should set filters for edited configuration and verify editing.",
+  "historyId" : "53f57a8ae5f18488e81bd1dbfb1a0da",
+  "time" : {
+    "start" : 1654086966443,
+    "stop" : 1654086979459,
+    "duration" : 13016
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "650642f470a056a",
+      "name" : "Screenshot",
+      "source" : "650642f470a056a.png",
+      "type" : "image/png",
+      "size" : 39730
+    }, {
+      "uid" : "1f5baab5bcec640",
+      "name" : "Screenshot",
+      "source" : "1f5baab5bcec640.png",
+      "type" : "image/png",
+      "size" : 42224
+    }, {
+      "uid" : "ce0f3c21ce507d6b",
+      "name" : "Screenshot",
+      "source" : "ce0f3c21ce507d6b.png",
+      "type" : "image/png",
+      "size" : 41153
+    }, {
+      "uid" : "f08b994b7bb5267a",
+      "name" : "Screenshot",
+      "source" : "f08b994b7bb5267a.png",
+      "type" : "image/png",
+      "size" : 43995
+    }, {
+      "uid" : "a78e6667fbe4cabe",
+      "name" : "Screenshot",
+      "source" : "a78e6667fbe4cabe.png",
+      "type" : "image/png",
+      "size" : 48883
+    }, {
+      "uid" : "8b4253afd0c21489",
+      "name" : "Screenshot",
+      "source" : "8b4253afd0c21489.png",
+      "type" : "image/png",
+      "size" : 53267
+    }, {
+      "uid" : "d41675c63dfd4f4f",
+      "name" : "Screenshot",
+      "source" : "d41675c63dfd4f4f.png",
+      "type" : "image/png",
+      "size" : 38771
+    }, {
+      "uid" : "85ad64b3f43c8bcc",
+      "name" : "Screenshot",
+      "source" : "85ad64b3f43c8bcc.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "a40d3030b676e004",
+      "name" : "Screenshot",
+      "source" : "a40d3030b676e004.png",
+      "type" : "image/png",
+      "size" : 45408
+    }, {
+      "uid" : "5345340f5230b227",
+      "name" : "Screenshot",
+      "source" : "5345340f5230b227.png",
+      "type" : "image/png",
+      "size" : 54371
+    }, {
+      "uid" : "dbcbf9ccd6599c49",
+      "name" : "Screenshot",
+      "source" : "dbcbf9ccd6599c49.png",
+      "type" : "image/png",
+      "size" : 56329
+    }, {
+      "uid" : "57b5186e989e7bcb",
+      "name" : "Screenshot",
+      "source" : "57b5186e989e7bcb.png",
+      "type" : "image/png",
+      "size" : 53879
+    }, {
+      "uid" : "7b6aba55d8476feb",
+      "name" : "Screenshot",
+      "source" : "7b6aba55d8476feb.png",
+      "type" : "image/png",
+      "size" : 56339
+    }, {
+      "uid" : "9abab01012e0a259",
+      "name" : "Screenshot",
+      "source" : "9abab01012e0a259.png",
+      "type" : "image/png",
+      "size" : 57434
+    }, {
+      "uid" : "7ebde70bd0a0a96f",
+      "name" : "Screenshot",
+      "source" : "7ebde70bd0a0a96f.png",
+      "type" : "image/png",
+      "size" : 64252
+    }, {
+      "uid" : "c03d141b77a72540",
+      "name" : "Screenshot",
+      "source" : "c03d141b77a72540.png",
+      "type" : "image/png",
+      "size" : 25083
+    }, {
+      "uid" : "56935f239621b5c5",
+      "name" : "Screenshot",
+      "source" : "56935f239621b5c5.png",
+      "type" : "image/png",
+      "size" : 61930
+    }, {
+      "uid" : "39a186c6c34bcbec",
+      "name" : "Screenshot",
+      "source" : "39a186c6c34bcbec.png",
+      "type" : "image/png",
+      "size" : 49896
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 18,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-39"
+  }, {
+    "name" : "suite",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify editing."
+  }, {
+    "name" : "package",
+    "value" : "C55: The scheduler can edit areas at existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1d9cb40cd916f95.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

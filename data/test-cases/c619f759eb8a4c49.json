@@ -1,0 +1,111 @@
+{
+  "uid" : "c619f759eb8a4c49",
+  "name" : "Log in as \"Sales Manager\".",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Log in as \"Sales Manager\".",
+  "historyId" : "fd5a3bfef0a48ade66d08db596fac153",
+  "time" : {
+    "start" : 1654085949011,
+    "stop" : 1654085951403,
+    "duration" : 2392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a270acd9c3c736b1",
+      "name" : "Screenshot",
+      "source" : "a270acd9c3c736b1.png",
+      "type" : "image/png",
+      "size" : 18906
+    }, {
+      "uid" : "db8d43af634e46f0",
+      "name" : "Screenshot",
+      "source" : "db8d43af634e46f0.png",
+      "type" : "image/png",
+      "size" : 18906
+    }, {
+      "uid" : "77d7b8db99a24b9c",
+      "name" : "Screenshot",
+      "source" : "77d7b8db99a24b9c.png",
+      "type" : "image/png",
+      "size" : 24201
+    }, {
+      "uid" : "6a625a9f576c53b2",
+      "name" : "Screenshot",
+      "source" : "6a625a9f576c53b2.png",
+      "type" : "image/png",
+      "size" : 24289
+    }, {
+      "uid" : "4a0c263254bf7d00",
+      "name" : "Screenshot",
+      "source" : "4a0c263254bf7d00.png",
+      "type" : "image/png",
+      "size" : 23271
+    }, {
+      "uid" : "11e04a5f3eeb2885",
+      "name" : "Screenshot",
+      "source" : "11e04a5f3eeb2885.png",
+      "type" : "image/png",
+      "size" : 23053
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Log in as \"Sales Manager\"."
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c619f759eb8a4c49.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

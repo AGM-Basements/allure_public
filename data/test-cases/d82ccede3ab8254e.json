@@ -1,0 +1,105 @@
+{
+  "uid" : "d82ccede3ab8254e",
+  "name" : "As \"Scheduler\" clean form structure",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".As \"Scheduler\" clean form structure",
+  "historyId" : "209531c6484612672080ce1491619f6b",
+  "time" : {
+    "start" : 1654085933897,
+    "stop" : 1654085939527,
+    "duration" : 5630
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bb43b7821c371943",
+      "name" : "Screenshot",
+      "source" : "bb43b7821c371943.png",
+      "type" : "image/png",
+      "size" : 18887
+    }, {
+      "uid" : "ede3eeaa9d2aef18",
+      "name" : "Screenshot",
+      "source" : "ede3eeaa9d2aef18.png",
+      "type" : "image/png",
+      "size" : 21746
+    }, {
+      "uid" : "168fce4896b3377",
+      "name" : "Screenshot",
+      "source" : "168fce4896b3377.png",
+      "type" : "image/png",
+      "size" : 27728
+    }, {
+      "uid" : "26c2866d79359a04",
+      "name" : "Screenshot",
+      "source" : "26c2866d79359a04.png",
+      "type" : "image/png",
+      "size" : 39555
+    }, {
+      "uid" : "7e3ae394912cde87",
+      "name" : "Screenshot",
+      "source" : "7e3ae394912cde87.png",
+      "type" : "image/png",
+      "size" : 38735
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "As \"Scheduler\" clean form structure"
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d82ccede3ab8254e.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

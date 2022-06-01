@@ -1,0 +1,261 @@
+{
+  "uid" : "baf28cc84ab79abd",
+  "name" : "Should search for created project: projecttpnj61",
+  "fullName" : "C23: Searching existing project by name.Should search for created project: projecttpnj61",
+  "historyId" : "ab20342974325f48a614d271df21e124",
+  "time" : {
+    "start" : 1654085719953,
+    "stop" : 1654085771594,
+    "duration" : 51641
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c09c0f275382ce23",
+      "name" : "Screenshot",
+      "source" : "c09c0f275382ce23.png",
+      "type" : "image/png",
+      "size" : 69745
+    }, {
+      "uid" : "d48b407bfaec6249",
+      "name" : "Screenshot",
+      "source" : "d48b407bfaec6249.png",
+      "type" : "image/png",
+      "size" : 78780
+    }, {
+      "uid" : "fe5d31bcd60bb067",
+      "name" : "Screenshot",
+      "source" : "fe5d31bcd60bb067.png",
+      "type" : "image/png",
+      "size" : 65802
+    }, {
+      "uid" : "4276c9d69cbe7edb",
+      "name" : "Screenshot",
+      "source" : "4276c9d69cbe7edb.png",
+      "type" : "image/png",
+      "size" : 65802
+    }, {
+      "uid" : "64e331138fe2fbb2",
+      "name" : "Screenshot",
+      "source" : "64e331138fe2fbb2.png",
+      "type" : "image/png",
+      "size" : 66909
+    }, {
+      "uid" : "6f42895e3ad4af6c",
+      "name" : "Screenshot",
+      "source" : "6f42895e3ad4af6c.png",
+      "type" : "image/png",
+      "size" : 68090
+    }, {
+      "uid" : "fa244b54b146d538",
+      "name" : "Screenshot",
+      "source" : "fa244b54b146d538.png",
+      "type" : "image/png",
+      "size" : 48353
+    }, {
+      "uid" : "bce527e128824f46",
+      "name" : "Screenshot",
+      "source" : "bce527e128824f46.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "57ab6b1ccb666528",
+      "name" : "Screenshot",
+      "source" : "57ab6b1ccb666528.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "cb730cfe6b586ff4",
+      "name" : "Screenshot",
+      "source" : "cb730cfe6b586ff4.png",
+      "type" : "image/png",
+      "size" : 67568
+    }, {
+      "uid" : "a496c4e25a03d2a7",
+      "name" : "Screenshot",
+      "source" : "a496c4e25a03d2a7.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "c8d50a77a88384",
+      "name" : "Screenshot",
+      "source" : "c8d50a77a88384.png",
+      "type" : "image/png",
+      "size" : 68888
+    }, {
+      "uid" : "b8dc67884f31eaea",
+      "name" : "Screenshot",
+      "source" : "b8dc67884f31eaea.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "990745560d92caa0",
+      "name" : "Screenshot",
+      "source" : "990745560d92caa0.png",
+      "type" : "image/png",
+      "size" : 75863
+    }, {
+      "uid" : "466befdbf345bfb",
+      "name" : "Screenshot",
+      "source" : "466befdbf345bfb.png",
+      "type" : "image/png",
+      "size" : 35244
+    }, {
+      "uid" : "dcbf399e2cb55d20",
+      "name" : "Screenshot",
+      "source" : "dcbf399e2cb55d20.png",
+      "type" : "image/png",
+      "size" : 64642
+    }, {
+      "uid" : "f3e9873e044e2a8",
+      "name" : "Screenshot",
+      "source" : "f3e9873e044e2a8.png",
+      "type" : "image/png",
+      "size" : 57210
+    }, {
+      "uid" : "cab093a91df17a5",
+      "name" : "Screenshot",
+      "source" : "cab093a91df17a5.png",
+      "type" : "image/png",
+      "size" : 70031
+    }, {
+      "uid" : "a448cb542d87ccf1",
+      "name" : "Screenshot",
+      "source" : "a448cb542d87ccf1.png",
+      "type" : "image/png",
+      "size" : 62796
+    }, {
+      "uid" : "d4c18a26bafc578",
+      "name" : "Screenshot",
+      "source" : "d4c18a26bafc578.png",
+      "type" : "image/png",
+      "size" : 49848
+    }, {
+      "uid" : "49c723feb799f369",
+      "name" : "Screenshot",
+      "source" : "49c723feb799f369.png",
+      "type" : "image/png",
+      "size" : 73529
+    }, {
+      "uid" : "3105b94515aef02f",
+      "name" : "Screenshot",
+      "source" : "3105b94515aef02f.png",
+      "type" : "image/png",
+      "size" : 73692
+    }, {
+      "uid" : "b0d74645384db4f",
+      "name" : "Screenshot",
+      "source" : "b0d74645384db4f.png",
+      "type" : "image/png",
+      "size" : 70966
+    }, {
+      "uid" : "6355b2ea12753699",
+      "name" : "Screenshot",
+      "source" : "6355b2ea12753699.png",
+      "type" : "image/png",
+      "size" : 67891
+    }, {
+      "uid" : "f657ed6bf8bb5c20",
+      "name" : "Screenshot",
+      "source" : "f657ed6bf8bb5c20.png",
+      "type" : "image/png",
+      "size" : 72149
+    }, {
+      "uid" : "b9fa87e06a0e858d",
+      "name" : "Screenshot",
+      "source" : "b9fa87e06a0e858d.png",
+      "type" : "image/png",
+      "size" : 75575
+    }, {
+      "uid" : "c9d680649d4690f4",
+      "name" : "Screenshot",
+      "source" : "c9d680649d4690f4.png",
+      "type" : "image/png",
+      "size" : 55803
+    }, {
+      "uid" : "d0015c4a54f2f65",
+      "name" : "Screenshot",
+      "source" : "d0015c4a54f2f65.png",
+      "type" : "image/png",
+      "size" : 69572
+    }, {
+      "uid" : "2765434f6d00d31a",
+      "name" : "Screenshot",
+      "source" : "2765434f6d00d31a.png",
+      "type" : "image/png",
+      "size" : 55042
+    }, {
+      "uid" : "afd04a306991ebd6",
+      "name" : "Screenshot",
+      "source" : "afd04a306991ebd6.png",
+      "type" : "image/png",
+      "size" : 67815
+    }, {
+      "uid" : "e825b1059214ee67",
+      "name" : "Screenshot",
+      "source" : "e825b1059214ee67.png",
+      "type" : "image/png",
+      "size" : 53438
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 31,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testClass",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search for created project: projecttpnj61"
+  }, {
+    "name" : "package",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baf28cc84ab79abd.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

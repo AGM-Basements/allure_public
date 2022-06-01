@@ -1,0 +1,189 @@
+{
+  "uid" : "f54b0103ccaccbd4",
+  "name" : "Should verify that input displayed in reserve form.",
+  "fullName" : "C15: The scheduler can add a new column.Should verify that input displayed in reserve form.",
+  "historyId" : "c33d046d846132c6adfa8570366db45c",
+  "time" : {
+    "start" : 1654086496675,
+    "stop" : 1654086510185,
+    "duration" : 13510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a73e9da35981065",
+      "name" : "Screenshot",
+      "source" : "9a73e9da35981065.png",
+      "type" : "image/png",
+      "size" : 42270
+    }, {
+      "uid" : "62f0a330e8713d4f",
+      "name" : "Screenshot",
+      "source" : "62f0a330e8713d4f.png",
+      "type" : "image/png",
+      "size" : 45717
+    }, {
+      "uid" : "29a95af726f91059",
+      "name" : "Screenshot",
+      "source" : "29a95af726f91059.png",
+      "type" : "image/png",
+      "size" : 42413
+    }, {
+      "uid" : "dfc91ef94af54b94",
+      "name" : "Screenshot",
+      "source" : "dfc91ef94af54b94.png",
+      "type" : "image/png",
+      "size" : 46545
+    }, {
+      "uid" : "7ab90b64aba3317e",
+      "name" : "Screenshot",
+      "source" : "7ab90b64aba3317e.png",
+      "type" : "image/png",
+      "size" : 44317
+    }, {
+      "uid" : "2a7a5e5d613bcce1",
+      "name" : "Screenshot",
+      "source" : "2a7a5e5d613bcce1.png",
+      "type" : "image/png",
+      "size" : 55580
+    }, {
+      "uid" : "11c0e5d59f058300",
+      "name" : "Screenshot",
+      "source" : "11c0e5d59f058300.png",
+      "type" : "image/png",
+      "size" : 35266
+    }, {
+      "uid" : "810ac5ad39d18327",
+      "name" : "Screenshot",
+      "source" : "810ac5ad39d18327.png",
+      "type" : "image/png",
+      "size" : 47908
+    }, {
+      "uid" : "1b15737eefede55",
+      "name" : "Screenshot",
+      "source" : "1b15737eefede55.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "22148647b2adb2a7",
+      "name" : "Screenshot",
+      "source" : "22148647b2adb2a7.png",
+      "type" : "image/png",
+      "size" : 38060
+    }, {
+      "uid" : "413f9f1481639756",
+      "name" : "Screenshot",
+      "source" : "413f9f1481639756.png",
+      "type" : "image/png",
+      "size" : 55642
+    }, {
+      "uid" : "48e448eba4dc52e",
+      "name" : "Screenshot",
+      "source" : "48e448eba4dc52e.png",
+      "type" : "image/png",
+      "size" : 56310
+    }, {
+      "uid" : "fccf65a3a9968f77",
+      "name" : "Screenshot",
+      "source" : "fccf65a3a9968f77.png",
+      "type" : "image/png",
+      "size" : 54691
+    }, {
+      "uid" : "48ec48061803da42",
+      "name" : "Screenshot",
+      "source" : "48ec48061803da42.png",
+      "type" : "image/png",
+      "size" : 56007
+    }, {
+      "uid" : "b2d59225115a3f80",
+      "name" : "Screenshot",
+      "source" : "b2d59225115a3f80.png",
+      "type" : "image/png",
+      "size" : 57081
+    }, {
+      "uid" : "d923d60fe0e77a7b",
+      "name" : "Screenshot",
+      "source" : "d923d60fe0e77a7b.png",
+      "type" : "image/png",
+      "size" : 63931
+    }, {
+      "uid" : "4a5ef5b9dd61a8b8",
+      "name" : "Screenshot",
+      "source" : "4a5ef5b9dd61a8b8.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "562a659888fea9f9",
+      "name" : "Screenshot",
+      "source" : "562a659888fea9f9.png",
+      "type" : "image/png",
+      "size" : 64430
+    }, {
+      "uid" : "816255ce877d7878",
+      "name" : "Screenshot",
+      "source" : "816255ce877d7878.png",
+      "type" : "image/png",
+      "size" : 49551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 19,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testClass",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input displayed in reserve form."
+  }, {
+    "name" : "package",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f54b0103ccaccbd4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

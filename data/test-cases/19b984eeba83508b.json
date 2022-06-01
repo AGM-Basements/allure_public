@@ -1,0 +1,261 @@
+{
+  "uid" : "19b984eeba83508b",
+  "name" : "Should try to delete created configuration with project.",
+  "fullName" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week.Should try to delete created configuration with project.",
+  "historyId" : "1f77d6f5c9adc9319b21381f94f1df1f",
+  "time" : {
+    "start" : 1654087007532,
+    "stop" : 1654087051594,
+    "duration" : 44062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "321b03c6580437a2",
+      "name" : "Screenshot",
+      "source" : "321b03c6580437a2.png",
+      "type" : "image/png",
+      "size" : 32783
+    }, {
+      "uid" : "2be5f405fcf8364f",
+      "name" : "Screenshot",
+      "source" : "2be5f405fcf8364f.png",
+      "type" : "image/png",
+      "size" : 57468
+    }, {
+      "uid" : "dc4be6198ed2ce05",
+      "name" : "Screenshot",
+      "source" : "dc4be6198ed2ce05.png",
+      "type" : "image/png",
+      "size" : 59508
+    }, {
+      "uid" : "b5d5b85e84039624",
+      "name" : "Screenshot",
+      "source" : "b5d5b85e84039624.png",
+      "type" : "image/png",
+      "size" : 56976
+    }, {
+      "uid" : "32c70a025569f742",
+      "name" : "Screenshot",
+      "source" : "32c70a025569f742.png",
+      "type" : "image/png",
+      "size" : 59409
+    }, {
+      "uid" : "70f84f605a2822a5",
+      "name" : "Screenshot",
+      "source" : "70f84f605a2822a5.png",
+      "type" : "image/png",
+      "size" : 60568
+    }, {
+      "uid" : "447bdb2b19109e09",
+      "name" : "Screenshot",
+      "source" : "447bdb2b19109e09.png",
+      "type" : "image/png",
+      "size" : 67432
+    }, {
+      "uid" : "bf03ed31e2363c18",
+      "name" : "Screenshot",
+      "source" : "bf03ed31e2363c18.png",
+      "type" : "image/png",
+      "size" : 25959
+    }, {
+      "uid" : "5d487bc4ec2c1c06",
+      "name" : "Screenshot",
+      "source" : "5d487bc4ec2c1c06.png",
+      "type" : "image/png",
+      "size" : 64430
+    }, {
+      "uid" : "4ef206196ce0c9ad",
+      "name" : "Screenshot",
+      "source" : "4ef206196ce0c9ad.png",
+      "type" : "image/png",
+      "size" : 49551
+    }, {
+      "uid" : "7d609c31b77ebcc7",
+      "name" : "Screenshot",
+      "source" : "7d609c31b77ebcc7.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "6036b721b15fb433",
+      "name" : "Screenshot",
+      "source" : "6036b721b15fb433.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "f0f295b6c26719b",
+      "name" : "Screenshot",
+      "source" : "f0f295b6c26719b.png",
+      "type" : "image/png",
+      "size" : 67598
+    }, {
+      "uid" : "a425c696f41554e0",
+      "name" : "Screenshot",
+      "source" : "a425c696f41554e0.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "8d8df8d3d4757cc",
+      "name" : "Screenshot",
+      "source" : "8d8df8d3d4757cc.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "eddc834553126261",
+      "name" : "Screenshot",
+      "source" : "eddc834553126261.png",
+      "type" : "image/png",
+      "size" : 69270
+    }, {
+      "uid" : "8581d5f5c7e7ee34",
+      "name" : "Screenshot",
+      "source" : "8581d5f5c7e7ee34.png",
+      "type" : "image/png",
+      "size" : 78025
+    }, {
+      "uid" : "2cc91819fea9fb59",
+      "name" : "Screenshot",
+      "source" : "2cc91819fea9fb59.png",
+      "type" : "image/png",
+      "size" : 35256
+    }, {
+      "uid" : "22968a9ddc9a0393",
+      "name" : "Screenshot",
+      "source" : "22968a9ddc9a0393.png",
+      "type" : "image/png",
+      "size" : 60995
+    }, {
+      "uid" : "89337c21e604a39",
+      "name" : "Screenshot",
+      "source" : "89337c21e604a39.png",
+      "type" : "image/png",
+      "size" : 53689
+    }, {
+      "uid" : "380d93996e46864",
+      "name" : "Screenshot",
+      "source" : "380d93996e46864.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "5885a0d113f46c76",
+      "name" : "Screenshot",
+      "source" : "5885a0d113f46c76.png",
+      "type" : "image/png",
+      "size" : 48443
+    }, {
+      "uid" : "2166dc3891574274",
+      "name" : "Screenshot",
+      "source" : "2166dc3891574274.png",
+      "type" : "image/png",
+      "size" : 53995
+    }, {
+      "uid" : "5d0443caee338377",
+      "name" : "Screenshot",
+      "source" : "5d0443caee338377.png",
+      "type" : "image/png",
+      "size" : 55778
+    }, {
+      "uid" : "8b0d9e965178b53b",
+      "name" : "Screenshot",
+      "source" : "8b0d9e965178b53b.png",
+      "type" : "image/png",
+      "size" : 54702
+    }, {
+      "uid" : "38485c050366e7cc",
+      "name" : "Screenshot",
+      "source" : "38485c050366e7cc.png",
+      "type" : "image/png",
+      "size" : 55937
+    }, {
+      "uid" : "3d6bf17516cf029",
+      "name" : "Screenshot",
+      "source" : "3d6bf17516cf029.png",
+      "type" : "image/png",
+      "size" : 57080
+    }, {
+      "uid" : "1df161a1bdded128",
+      "name" : "Screenshot",
+      "source" : "1df161a1bdded128.png",
+      "type" : "image/png",
+      "size" : 63267
+    }, {
+      "uid" : "2d0de8ec852a7519",
+      "name" : "Screenshot",
+      "source" : "2d0de8ec852a7519.png",
+      "type" : "image/png",
+      "size" : 24946
+    }, {
+      "uid" : "4cbb490b2ef44efb",
+      "name" : "Screenshot",
+      "source" : "4cbb490b2ef44efb.png",
+      "type" : "image/png",
+      "size" : 58102
+    }, {
+      "uid" : "22f2f1c473827e68",
+      "name" : "Screenshot",
+      "source" : "22f2f1c473827e68.png",
+      "type" : "image/png",
+      "size" : 49551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 31,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-41"
+  }, {
+    "name" : "suite",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testClass",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to delete created configuration with project."
+  }, {
+    "name" : "package",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19b984eeba83508b.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

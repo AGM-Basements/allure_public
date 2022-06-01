@@ -1,0 +1,141 @@
+{
+  "uid" : "7c426f13b15b691b",
+  "name" : "Should create input.",
+  "fullName" : "C15: The scheduler can add a new column.Should create input.",
+  "historyId" : "bbe88fec16170c4b7a3c6b3d3cfbcc89",
+  "time" : {
+    "start" : 1654086488800,
+    "stop" : 1654086496674,
+    "duration" : 7874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "84f478ebe183345e",
+      "name" : "Screenshot",
+      "source" : "84f478ebe183345e.png",
+      "type" : "image/png",
+      "size" : 25051
+    }, {
+      "uid" : "43024eccd2de9bb8",
+      "name" : "Screenshot",
+      "source" : "43024eccd2de9bb8.png",
+      "type" : "image/png",
+      "size" : 27873
+    }, {
+      "uid" : "efcc398884eab73e",
+      "name" : "Screenshot",
+      "source" : "efcc398884eab73e.png",
+      "type" : "image/png",
+      "size" : 27442
+    }, {
+      "uid" : "2f61e04d82d9a3e4",
+      "name" : "Screenshot",
+      "source" : "2f61e04d82d9a3e4.png",
+      "type" : "image/png",
+      "size" : 47318
+    }, {
+      "uid" : "406579b3012effd6",
+      "name" : "Screenshot",
+      "source" : "406579b3012effd6.png",
+      "type" : "image/png",
+      "size" : 52286
+    }, {
+      "uid" : "bc6665a6371361f0",
+      "name" : "Screenshot",
+      "source" : "bc6665a6371361f0.png",
+      "type" : "image/png",
+      "size" : 59874
+    }, {
+      "uid" : "42451622a13a1fc2",
+      "name" : "Screenshot",
+      "source" : "42451622a13a1fc2.png",
+      "type" : "image/png",
+      "size" : 48028
+    }, {
+      "uid" : "4fb3ad881436cde",
+      "name" : "Screenshot",
+      "source" : "4fb3ad881436cde.png",
+      "type" : "image/png",
+      "size" : 49513
+    }, {
+      "uid" : "8c55388952933ff",
+      "name" : "Screenshot",
+      "source" : "8c55388952933ff.png",
+      "type" : "image/png",
+      "size" : 39047
+    }, {
+      "uid" : "fb3b7d0d40da98ac",
+      "name" : "Screenshot",
+      "source" : "fb3b7d0d40da98ac.png",
+      "type" : "image/png",
+      "size" : 39045
+    }, {
+      "uid" : "3755cfc42ef861ff",
+      "name" : "Screenshot",
+      "source" : "3755cfc42ef861ff.png",
+      "type" : "image/png",
+      "size" : 38508
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testClass",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should create input."
+  }, {
+    "name" : "package",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c426f13b15b691b.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

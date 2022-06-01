@@ -1,0 +1,189 @@
+{
+  "uid" : "dcad2ba5a0f991b",
+  "name" : "Should verify that input is deleted in reserve form",
+  "fullName" : "C17: The scheduler can edit an existing input field..Should verify that input is deleted in reserve form",
+  "historyId" : "b4aaf74cb2b3d33cdf8433d33153d2b2",
+  "time" : {
+    "start" : 1654086579818,
+    "stop" : 1654086593198,
+    "duration" : 13380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6b69f39a94d8ca73",
+      "name" : "Screenshot",
+      "source" : "6b69f39a94d8ca73.png",
+      "type" : "image/png",
+      "size" : 42270
+    }, {
+      "uid" : "502ff1fdc6001663",
+      "name" : "Screenshot",
+      "source" : "502ff1fdc6001663.png",
+      "type" : "image/png",
+      "size" : 44770
+    }, {
+      "uid" : "74495a3f4fa1054f",
+      "name" : "Screenshot",
+      "source" : "74495a3f4fa1054f.png",
+      "type" : "image/png",
+      "size" : 42413
+    }, {
+      "uid" : "ee29c7eff907d6e2",
+      "name" : "Screenshot",
+      "source" : "ee29c7eff907d6e2.png",
+      "type" : "image/png",
+      "size" : 46545
+    }, {
+      "uid" : "d070f1260c6af0a7",
+      "name" : "Screenshot",
+      "source" : "d070f1260c6af0a7.png",
+      "type" : "image/png",
+      "size" : 46877
+    }, {
+      "uid" : "1e42dc27a86634f0",
+      "name" : "Screenshot",
+      "source" : "1e42dc27a86634f0.png",
+      "type" : "image/png",
+      "size" : 55612
+    }, {
+      "uid" : "18256158e6b66f8b",
+      "name" : "Screenshot",
+      "source" : "18256158e6b66f8b.png",
+      "type" : "image/png",
+      "size" : 41349
+    }, {
+      "uid" : "f5a14484cbfb98ea",
+      "name" : "Screenshot",
+      "source" : "f5a14484cbfb98ea.png",
+      "type" : "image/png",
+      "size" : 50383
+    }, {
+      "uid" : "ef8842749b5c64ad",
+      "name" : "Screenshot",
+      "source" : "ef8842749b5c64ad.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "76930ade58b18280",
+      "name" : "Screenshot",
+      "source" : "76930ade58b18280.png",
+      "type" : "image/png",
+      "size" : 29356
+    }, {
+      "uid" : "c0f11d077037926f",
+      "name" : "Screenshot",
+      "source" : "c0f11d077037926f.png",
+      "type" : "image/png",
+      "size" : 55644
+    }, {
+      "uid" : "2d3de6fa15db9391",
+      "name" : "Screenshot",
+      "source" : "2d3de6fa15db9391.png",
+      "type" : "image/png",
+      "size" : 56030
+    }, {
+      "uid" : "355cd5986ecd0fc1",
+      "name" : "Screenshot",
+      "source" : "355cd5986ecd0fc1.png",
+      "type" : "image/png",
+      "size" : 54710
+    }, {
+      "uid" : "c3cfdd7ae0f915e0",
+      "name" : "Screenshot",
+      "source" : "c3cfdd7ae0f915e0.png",
+      "type" : "image/png",
+      "size" : 56018
+    }, {
+      "uid" : "1085420aca938ccd",
+      "name" : "Screenshot",
+      "source" : "1085420aca938ccd.png",
+      "type" : "image/png",
+      "size" : 57081
+    }, {
+      "uid" : "4b582306478ac3a5",
+      "name" : "Screenshot",
+      "source" : "4b582306478ac3a5.png",
+      "type" : "image/png",
+      "size" : 63931
+    }, {
+      "uid" : "a69b1ca433d03260",
+      "name" : "Screenshot",
+      "source" : "a69b1ca433d03260.png",
+      "type" : "image/png",
+      "size" : 50089
+    }, {
+      "uid" : "183a77651c35d86b",
+      "name" : "Screenshot",
+      "source" : "183a77651c35d86b.png",
+      "type" : "image/png",
+      "size" : 58101
+    }, {
+      "uid" : "b323f3357f2b11f9",
+      "name" : "Screenshot",
+      "source" : "b323f3357f2b11f9.png",
+      "type" : "image/png",
+      "size" : 49550
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 19,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input is deleted in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcad2ba5a0f991b.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

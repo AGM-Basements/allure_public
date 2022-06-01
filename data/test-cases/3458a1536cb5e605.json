@@ -1,0 +1,81 @@
+{
+  "uid" : "3458a1536cb5e605",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C19: The scheduler can delete input field for an existing column..Should click the \"Update Form Structure\" button.",
+  "historyId" : "b6e66b0d506b4c8c93c74f9ad96da82a",
+  "time" : {
+    "start" : 1654086640731,
+    "stop" : 1654086662178,
+    "duration" : 21447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "38e3c1006e797fea",
+      "name" : "Screenshot",
+      "source" : "38e3c1006e797fea.png",
+      "type" : "image/png",
+      "size" : 18608
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-27"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3458a1536cb5e605.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

@@ -1,0 +1,285 @@
+{
+  "uid" : "a76be7f2dd85c165",
+  "name" : "Should edit existing project name to fab4rproject",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to fab4rproject",
+  "historyId" : "481677888edfe49813c76974984ab0a2",
+  "time" : {
+    "start" : 1654086378443,
+    "stop" : 1654086430020,
+    "duration" : 51577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5299aee7709d282e",
+      "name" : "Screenshot",
+      "source" : "5299aee7709d282e.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "828a56c69e2d94b9",
+      "name" : "Screenshot",
+      "source" : "828a56c69e2d94b9.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "da2ed44666961529",
+      "name" : "Screenshot",
+      "source" : "da2ed44666961529.png",
+      "type" : "image/png",
+      "size" : 67598
+    }, {
+      "uid" : "9ae9fbfe9e2e9a55",
+      "name" : "Screenshot",
+      "source" : "9ae9fbfe9e2e9a55.png",
+      "type" : "image/png",
+      "size" : 64461
+    }, {
+      "uid" : "c9b7d1efa9ff45a8",
+      "name" : "Screenshot",
+      "source" : "c9b7d1efa9ff45a8.png",
+      "type" : "image/png",
+      "size" : 68912
+    }, {
+      "uid" : "55c3b78d9db16b28",
+      "name" : "Screenshot",
+      "source" : "55c3b78d9db16b28.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "e925d53c40850d56",
+      "name" : "Screenshot",
+      "source" : "e925d53c40850d56.png",
+      "type" : "image/png",
+      "size" : 75870
+    }, {
+      "uid" : "bfaef77acb0898a",
+      "name" : "Screenshot",
+      "source" : "bfaef77acb0898a.png",
+      "type" : "image/png",
+      "size" : 35256
+    }, {
+      "uid" : "5d4b3034709f846a",
+      "name" : "Screenshot",
+      "source" : "5d4b3034709f846a.png",
+      "type" : "image/png",
+      "size" : 49114
+    }, {
+      "uid" : "64e1ed31795a650f",
+      "name" : "Screenshot",
+      "source" : "64e1ed31795a650f.png",
+      "type" : "image/png",
+      "size" : 53964
+    }, {
+      "uid" : "d1ab58b4cecc8155",
+      "name" : "Screenshot",
+      "source" : "d1ab58b4cecc8155.png",
+      "type" : "image/png",
+      "size" : 53964
+    }, {
+      "uid" : "db79b7e27943efe4",
+      "name" : "Screenshot",
+      "source" : "db79b7e27943efe4.png",
+      "type" : "image/png",
+      "size" : 51858
+    }, {
+      "uid" : "d68da315075ad01a",
+      "name" : "Screenshot",
+      "source" : "d68da315075ad01a.png",
+      "type" : "image/png",
+      "size" : 51826
+    }, {
+      "uid" : "e4353a3204db5f5e",
+      "name" : "Screenshot",
+      "source" : "e4353a3204db5f5e.png",
+      "type" : "image/png",
+      "size" : 53998
+    }, {
+      "uid" : "38dcc4c561f9f54d",
+      "name" : "Screenshot",
+      "source" : "38dcc4c561f9f54d.png",
+      "type" : "image/png",
+      "size" : 53753
+    }, {
+      "uid" : "e27051997791f3a7",
+      "name" : "Screenshot",
+      "source" : "e27051997791f3a7.png",
+      "type" : "image/png",
+      "size" : 34949
+    }, {
+      "uid" : "512accf7200245c5",
+      "name" : "Screenshot",
+      "source" : "512accf7200245c5.png",
+      "type" : "image/png",
+      "size" : 64843
+    }, {
+      "uid" : "21232878f5d653e9",
+      "name" : "Screenshot",
+      "source" : "21232878f5d653e9.png",
+      "type" : "image/png",
+      "size" : 68978
+    }, {
+      "uid" : "aa9c8904d69a3728",
+      "name" : "Screenshot",
+      "source" : "aa9c8904d69a3728.png",
+      "type" : "image/png",
+      "size" : 65607
+    }, {
+      "uid" : "632c40ade12a43b7",
+      "name" : "Screenshot",
+      "source" : "632c40ade12a43b7.png",
+      "type" : "image/png",
+      "size" : 68938
+    }, {
+      "uid" : "98ed28ea384c62c3",
+      "name" : "Screenshot",
+      "source" : "98ed28ea384c62c3.png",
+      "type" : "image/png",
+      "size" : 66377
+    }, {
+      "uid" : "ee5772b1e5a471b1",
+      "name" : "Screenshot",
+      "source" : "ee5772b1e5a471b1.png",
+      "type" : "image/png",
+      "size" : 75698
+    }, {
+      "uid" : "6d3d1f146c029694",
+      "name" : "Screenshot",
+      "source" : "6d3d1f146c029694.png",
+      "type" : "image/png",
+      "size" : 35240
+    }, {
+      "uid" : "65e8b0b5a04d5fbe",
+      "name" : "Screenshot",
+      "source" : "65e8b0b5a04d5fbe.png",
+      "type" : "image/png",
+      "size" : 59164
+    }, {
+      "uid" : "36212468f39ae7fe",
+      "name" : "Screenshot",
+      "source" : "36212468f39ae7fe.png",
+      "type" : "image/png",
+      "size" : 51549
+    }, {
+      "uid" : "12efdebfbaa0aa7",
+      "name" : "Screenshot",
+      "source" : "12efdebfbaa0aa7.png",
+      "type" : "image/png",
+      "size" : 37675
+    }, {
+      "uid" : "125d13f69e6c2620",
+      "name" : "Screenshot",
+      "source" : "125d13f69e6c2620.png",
+      "type" : "image/png",
+      "size" : 60173
+    }, {
+      "uid" : "21aa6940c103988c",
+      "name" : "Screenshot",
+      "source" : "21aa6940c103988c.png",
+      "type" : "image/png",
+      "size" : 62402
+    }, {
+      "uid" : "ae0edf57eb0c47c",
+      "name" : "Screenshot",
+      "source" : "ae0edf57eb0c47c.png",
+      "type" : "image/png",
+      "size" : 60800
+    }, {
+      "uid" : "2a166595caa36785",
+      "name" : "Screenshot",
+      "source" : "2a166595caa36785.png",
+      "type" : "image/png",
+      "size" : 62094
+    }, {
+      "uid" : "1e93288fffaa2e27",
+      "name" : "Screenshot",
+      "source" : "1e93288fffaa2e27.png",
+      "type" : "image/png",
+      "size" : 63300
+    }, {
+      "uid" : "6428705ec45e206a",
+      "name" : "Screenshot",
+      "source" : "6428705ec45e206a.png",
+      "type" : "image/png",
+      "size" : 70196
+    }, {
+      "uid" : "792380dbdc4b6de8",
+      "name" : "Screenshot",
+      "source" : "792380dbdc4b6de8.png",
+      "type" : "image/png",
+      "size" : 31226
+    }, {
+      "uid" : "b8f43768be2cd691",
+      "name" : "Screenshot",
+      "source" : "b8f43768be2cd691.png",
+      "type" : "image/png",
+      "size" : 63025
+    }, {
+      "uid" : "237423c2cfa36f8f",
+      "name" : "Screenshot",
+      "source" : "237423c2cfa36f8f.png",
+      "type" : "image/png",
+      "size" : 49550
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 35,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-21"
+  }, {
+    "name" : "suite",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to fab4rproject"
+  }, {
+    "name" : "package",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a76be7f2dd85c165.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

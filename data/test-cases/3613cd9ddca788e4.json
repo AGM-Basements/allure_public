@@ -1,0 +1,81 @@
+{
+  "uid" : "3613cd9ddca788e4",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C30: Verify that a scheduler can't add empty \"area name\"..Should click the \"Update Schedule\" button.",
+  "historyId" : "150aa1d24327d842852e6bab335484a9",
+  "time" : {
+    "start" : 1654086861152,
+    "stop" : 1654086863815,
+    "duration" : 2663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a9582c36b680238",
+      "name" : "Screenshot",
+      "source" : "6a9582c36b680238.png",
+      "type" : "image/png",
+      "size" : 15782
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-34"
+  }, {
+    "name" : "suite",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C30: Verify that a scheduler can't add empty \"area name\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3613cd9ddca788e4.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

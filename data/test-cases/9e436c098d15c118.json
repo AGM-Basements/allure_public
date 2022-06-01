@@ -1,0 +1,117 @@
+{
+  "uid" : "9e436c098d15c118",
+  "name" : "Should delete created input from form structure",
+  "fullName" : "C19: The scheduler can delete input field for an existing column..Should delete created input from form structure",
+  "historyId" : "7a1e1472b4ce48fa98535a151be11af8",
+  "time" : {
+    "start" : 1654086662179,
+    "stop" : 1654086666522,
+    "duration" : 4343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "524c7d593730d6c0",
+      "name" : "Screenshot",
+      "source" : "524c7d593730d6c0.png",
+      "type" : "image/png",
+      "size" : 26274
+    }, {
+      "uid" : "d9fcac68ebb5f89e",
+      "name" : "Screenshot",
+      "source" : "d9fcac68ebb5f89e.png",
+      "type" : "image/png",
+      "size" : 27874
+    }, {
+      "uid" : "43a5767943868652",
+      "name" : "Screenshot",
+      "source" : "43a5767943868652.png",
+      "type" : "image/png",
+      "size" : 35938
+    }, {
+      "uid" : "bbd049541734518a",
+      "name" : "Screenshot",
+      "source" : "bbd049541734518a.png",
+      "type" : "image/png",
+      "size" : 46714
+    }, {
+      "uid" : "bff32eab58e4d927",
+      "name" : "Screenshot",
+      "source" : "bff32eab58e4d927.png",
+      "type" : "image/png",
+      "size" : 45610
+    }, {
+      "uid" : "fa1ac209adb1701d",
+      "name" : "Screenshot",
+      "source" : "fa1ac209adb1701d.png",
+      "type" : "image/png",
+      "size" : 45611
+    }, {
+      "uid" : "d374268ba635918d",
+      "name" : "Screenshot",
+      "source" : "d374268ba635918d.png",
+      "type" : "image/png",
+      "size" : 44455
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-27"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e436c098d15c118.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

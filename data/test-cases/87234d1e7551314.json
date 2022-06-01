@@ -1,0 +1,117 @@
+{
+  "uid" : "87234d1e7551314",
+  "name" : "Should search for created project: project3qd751",
+  "fullName" : "C26: Searching with empty request.Should search for created project: project3qd751",
+  "historyId" : "6068a38489adb93d8e40bde9be27d0a",
+  "time" : {
+    "start" : 1654085827260,
+    "stop" : 1654085859797,
+    "duration" : 32537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "feacdaa615fe6025",
+      "name" : "Screenshot",
+      "source" : "feacdaa615fe6025.png",
+      "type" : "image/png",
+      "size" : 69723
+    }, {
+      "uid" : "f0e6bf98326ada49",
+      "name" : "Screenshot",
+      "source" : "f0e6bf98326ada49.png",
+      "type" : "image/png",
+      "size" : 78685
+    }, {
+      "uid" : "3e9a7a6e1333bc35",
+      "name" : "Screenshot",
+      "source" : "3e9a7a6e1333bc35.png",
+      "type" : "image/png",
+      "size" : 65802
+    }, {
+      "uid" : "5a6fd61afa127fda",
+      "name" : "Screenshot",
+      "source" : "5a6fd61afa127fda.png",
+      "type" : "image/png",
+      "size" : 65802
+    }, {
+      "uid" : "c0ee6b5c8f08548b",
+      "name" : "Screenshot",
+      "source" : "c0ee6b5c8f08548b.png",
+      "type" : "image/png",
+      "size" : 66691
+    }, {
+      "uid" : "c5568ddf4efebab0",
+      "name" : "Screenshot",
+      "source" : "c5568ddf4efebab0.png",
+      "type" : "image/png",
+      "size" : 68252
+    }, {
+      "uid" : "5900de3e5ac30985",
+      "name" : "Screenshot",
+      "source" : "5900de3e5ac30985.png",
+      "type" : "image/png",
+      "size" : 49022
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testClass",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search for created project: project3qd751"
+  }, {
+    "name" : "package",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87234d1e7551314.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

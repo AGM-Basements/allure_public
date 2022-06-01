@@ -1,0 +1,177 @@
+{
+  "uid" : "9b513abff9e4cfda",
+  "name" : "Should try to add new configuration with two areas same names.",
+  "fullName" : "C53: Inability to create configurations with area same names..Should try to add new configuration with two areas same names.",
+  "historyId" : "bccb0f5e1d85df784ac1352d82731b74",
+  "time" : {
+    "start" : 1654086908515,
+    "stop" : 1654086919123,
+    "duration" : 10608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3e89ba20995835ba",
+      "name" : "Screenshot",
+      "source" : "3e89ba20995835ba.png",
+      "type" : "image/png",
+      "size" : 33336
+    }, {
+      "uid" : "f84748d9fc08bf22",
+      "name" : "Screenshot",
+      "source" : "f84748d9fc08bf22.png",
+      "type" : "image/png",
+      "size" : 37887
+    }, {
+      "uid" : "2d0fe55feb3fb371",
+      "name" : "Screenshot",
+      "source" : "2d0fe55feb3fb371.png",
+      "type" : "image/png",
+      "size" : 35170
+    }, {
+      "uid" : "ad22f3f5d9959b8e",
+      "name" : "Screenshot",
+      "source" : "ad22f3f5d9959b8e.png",
+      "type" : "image/png",
+      "size" : 37501
+    }, {
+      "uid" : "35f5594eb4a76f03",
+      "name" : "Screenshot",
+      "source" : "35f5594eb4a76f03.png",
+      "type" : "image/png",
+      "size" : 41765
+    }, {
+      "uid" : "d1756ab66f061874",
+      "name" : "Screenshot",
+      "source" : "d1756ab66f061874.png",
+      "type" : "image/png",
+      "size" : 47004
+    }, {
+      "uid" : "7382a54d0677ce27",
+      "name" : "Screenshot",
+      "source" : "7382a54d0677ce27.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "8bb69d5263f17928",
+      "name" : "Screenshot",
+      "source" : "8bb69d5263f17928.png",
+      "type" : "image/png",
+      "size" : 45566
+    }, {
+      "uid" : "5a65cb8142f654b9",
+      "name" : "Screenshot",
+      "source" : "5a65cb8142f654b9.png",
+      "type" : "image/png",
+      "size" : 47390
+    }, {
+      "uid" : "6f6ba21e60571d6",
+      "name" : "Screenshot",
+      "source" : "6f6ba21e60571d6.png",
+      "type" : "image/png",
+      "size" : 50619
+    }, {
+      "uid" : "49922a7569d49b04",
+      "name" : "Screenshot",
+      "source" : "49922a7569d49b04.png",
+      "type" : "image/png",
+      "size" : 50496
+    }, {
+      "uid" : "c7a73c427fb76bf6",
+      "name" : "Screenshot",
+      "source" : "c7a73c427fb76bf6.png",
+      "type" : "image/png",
+      "size" : 51603
+    }, {
+      "uid" : "26d7abbb0b2c1d23",
+      "name" : "Screenshot",
+      "source" : "26d7abbb0b2c1d23.png",
+      "type" : "image/png",
+      "size" : 55130
+    }, {
+      "uid" : "40db3a9aee5a303d",
+      "name" : "Screenshot",
+      "source" : "40db3a9aee5a303d.png",
+      "type" : "image/png",
+      "size" : 55229
+    }, {
+      "uid" : "487812be5519ec99",
+      "name" : "Screenshot",
+      "source" : "487812be5519ec99.png",
+      "type" : "image/png",
+      "size" : 56404
+    }, {
+      "uid" : "85a17f89a6d0ab09",
+      "name" : "Screenshot",
+      "source" : "85a17f89a6d0ab09.png",
+      "type" : "image/png",
+      "size" : 60010
+    }, {
+      "uid" : "f4da40e2b3255931",
+      "name" : "Screenshot",
+      "source" : "f4da40e2b3255931.png",
+      "type" : "image/png",
+      "size" : 59701
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 17,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-37"
+  }, {
+    "name" : "suite",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "testClass",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add new configuration with two areas same names."
+  }, {
+    "name" : "package",
+    "value" : "C53: Inability to create configurations with area same names."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b513abff9e4cfda.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}

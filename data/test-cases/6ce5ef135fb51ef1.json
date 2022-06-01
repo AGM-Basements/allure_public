@@ -1,0 +1,189 @@
+{
+  "uid" : "6ce5ef135fb51ef1",
+  "name" : "Should verify that input is deleted in reserve form",
+  "fullName" : "C16: The scheduler can delete an existing column..Should verify that input is deleted in reserve form",
+  "historyId" : "fd98937e5099ef6138ee99f8896c85f4",
+  "time" : {
+    "start" : 1654086538014,
+    "stop" : 1654086550467,
+    "duration" : 12453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d65d602cca77dc53",
+      "name" : "Screenshot",
+      "source" : "d65d602cca77dc53.png",
+      "type" : "image/png",
+      "size" : 42270
+    }, {
+      "uid" : "3bf7d3b6feb4cd7d",
+      "name" : "Screenshot",
+      "source" : "3bf7d3b6feb4cd7d.png",
+      "type" : "image/png",
+      "size" : 45717
+    }, {
+      "uid" : "db4c5432da29482a",
+      "name" : "Screenshot",
+      "source" : "db4c5432da29482a.png",
+      "type" : "image/png",
+      "size" : 42413
+    }, {
+      "uid" : "e7f5c60e6686b242",
+      "name" : "Screenshot",
+      "source" : "e7f5c60e6686b242.png",
+      "type" : "image/png",
+      "size" : 46545
+    }, {
+      "uid" : "f4597a9550230b3b",
+      "name" : "Screenshot",
+      "source" : "f4597a9550230b3b.png",
+      "type" : "image/png",
+      "size" : 46932
+    }, {
+      "uid" : "6057a41b25cfab53",
+      "name" : "Screenshot",
+      "source" : "6057a41b25cfab53.png",
+      "type" : "image/png",
+      "size" : 55727
+    }, {
+      "uid" : "3889af914eb5ff8d",
+      "name" : "Screenshot",
+      "source" : "3889af914eb5ff8d.png",
+      "type" : "image/png",
+      "size" : 41319
+    }, {
+      "uid" : "ec5f0698546d7db4",
+      "name" : "Screenshot",
+      "source" : "ec5f0698546d7db4.png",
+      "type" : "image/png",
+      "size" : 43959
+    }, {
+      "uid" : "b7d21f1b7ea5b80",
+      "name" : "Screenshot",
+      "source" : "b7d21f1b7ea5b80.png",
+      "type" : "image/png",
+      "size" : 14693
+    }, {
+      "uid" : "cd40033d6df36a68",
+      "name" : "Screenshot",
+      "source" : "cd40033d6df36a68.png",
+      "type" : "image/png",
+      "size" : 38060
+    }, {
+      "uid" : "1a9881fd55300394",
+      "name" : "Screenshot",
+      "source" : "1a9881fd55300394.png",
+      "type" : "image/png",
+      "size" : 55644
+    }, {
+      "uid" : "3071a583bc14ae08",
+      "name" : "Screenshot",
+      "source" : "3071a583bc14ae08.png",
+      "type" : "image/png",
+      "size" : 56030
+    }, {
+      "uid" : "150ef99119bd90a1",
+      "name" : "Screenshot",
+      "source" : "150ef99119bd90a1.png",
+      "type" : "image/png",
+      "size" : 53506
+    }, {
+      "uid" : "405c05a606ca90bf",
+      "name" : "Screenshot",
+      "source" : "405c05a606ca90bf.png",
+      "type" : "image/png",
+      "size" : 55996
+    }, {
+      "uid" : "9142afd0563fb864",
+      "name" : "Screenshot",
+      "source" : "9142afd0563fb864.png",
+      "type" : "image/png",
+      "size" : 60389
+    }, {
+      "uid" : "e257ebcacc3913b6",
+      "name" : "Screenshot",
+      "source" : "e257ebcacc3913b6.png",
+      "type" : "image/png",
+      "size" : 63949
+    }, {
+      "uid" : "37f5b3e9eed3e079",
+      "name" : "Screenshot",
+      "source" : "37f5b3e9eed3e079.png",
+      "type" : "image/png",
+      "size" : 24907
+    }, {
+      "uid" : "d25e91f156faed08",
+      "name" : "Screenshot",
+      "source" : "d25e91f156faed08.png",
+      "type" : "image/png",
+      "size" : 61595
+    }, {
+      "uid" : "fd06213d8188d478",
+      "name" : "Screenshot",
+      "source" : "fd06213d8188d478.png",
+      "type" : "image/png",
+      "size" : 49551
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 19,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-24"
+  }, {
+    "name" : "suite",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input is deleted in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C16: The scheduler can delete an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  }, {
+    "name" : "browserVersion",
+    "value" : "101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ce5ef135fb51ef1.json",
+  "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
+}
