@@ -1,0 +1,62 @@
+{
+  "uid" : "9b5088e3c691aaf1",
+  "name" : "Should edit existing project name to zcyu6project",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to zcyu6project",
+  "historyId" : "b554cfffd021b0aa343d47e4e312c3ae",
+  "time" : {
+    "start" : 1654152475409,
+    "stop" : 1654152524327,
+    "duration" : 48918
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-21"
+  }, {
+    "name" : "suite",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to zcyu6project"
+  }, {
+    "name" : "package",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b5088e3c691aaf1.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

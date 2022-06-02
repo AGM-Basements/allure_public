@@ -1,0 +1,62 @@
+{
+  "uid" : "18ef17bb00864821",
+  "name" : "Should search with invalid project name",
+  "fullName" : "C38: Searching with invalid project name.Should search with invalid project name",
+  "historyId" : "4c51b186b9f75c8bc086896414c99d6f",
+  "time" : {
+    "start" : 1654152051480,
+    "stop" : 1654152068251,
+    "duration" : 16771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-11"
+  }, {
+    "name" : "suite",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "testClass",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search with invalid project name"
+  }, {
+    "name" : "package",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18ef17bb00864821.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

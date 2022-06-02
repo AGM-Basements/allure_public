@@ -1,0 +1,62 @@
+{
+  "uid" : "8ed654752cc4d8fb",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C17: The scheduler can edit an existing input field..Should click the \"Update Form Structure\" button.",
+  "historyId" : "49edbe512d5b87941d839ab3b4ae6955",
+  "time" : {
+    "start" : 1654152633587,
+    "stop" : 1654152653719,
+    "duration" : 20132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ed654752cc4d8fb.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
