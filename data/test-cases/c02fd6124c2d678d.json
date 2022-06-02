@@ -1,0 +1,62 @@
+{
+  "uid" : "c02fd6124c2d678d",
+  "name" : "Should reserve project as \"Sales Manager\" for 2022-08-29 configuration with test5gf1l1 slot name.",
+  "fullName" : "C27: Creating a new project in an available slot by \"Sales Manager\".Should reserve project as \"Sales Manager\" for 2022-08-29 configuration with test5gf1l1 slot name.",
+  "historyId" : "9651c5821d58274ec74c8d91f69c335c",
+  "time" : {
+    "start" : 1654173374664,
+    "stop" : 1654173397324,
+    "duration" : 22660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should reserve project as \"Sales Manager\" for 2022-08-29 configuration with test5gf1l1 slot name."
+  }, {
+    "name" : "package",
+    "value" : "C27: Creating a new project in an available slot by \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c02fd6124c2d678d.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

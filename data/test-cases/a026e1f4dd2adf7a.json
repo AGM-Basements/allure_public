@@ -1,0 +1,62 @@
+{
+  "uid" : "a026e1f4dd2adf7a",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C15: The scheduler can add a new column.Should click the \"Update Schedule\" button.",
+  "historyId" : "98465b59c124caa7f3d2855f34dca1d5",
+  "time" : {
+    "start" : 1654173848852,
+    "stop" : 1654173861649,
+    "duration" : 12797
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testClass",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a026e1f4dd2adf7a.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
