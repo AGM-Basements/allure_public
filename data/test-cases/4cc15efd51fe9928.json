@@ -1,0 +1,62 @@
+{
+  "uid" : "4cc15efd51fe9928",
+  "name" : "Should reserve project for 2022-08-29 configuration with testhq0nl1 slot name.",
+  "fullName" : "C35: Creating a new project in an available slot by \"Scheduler\".Should reserve project for 2022-08-29 configuration with testhq0nl1 slot name.",
+  "historyId" : "35949ba48ccfcc14816486e31ec5b8da",
+  "time" : {
+    "start" : 1654166304326,
+    "stop" : 1654166339040,
+    "duration" : 34714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-16"
+  }, {
+    "name" : "suite",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "testClass",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should reserve project for 2022-08-29 configuration with testhq0nl1 slot name."
+  }, {
+    "name" : "package",
+    "value" : "C35: Creating a new project in an available slot by \"Scheduler\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cc15efd51fe9928.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
