@@ -1,0 +1,62 @@
+{
+  "uid" : "5f377bb1ec7902b4",
+  "name" : "Should verify that input without type cannot be created.",
+  "fullName" : "C29: Verify that scheduler can't create empty \"input type\"..Should verify that input without type cannot be created.",
+  "historyId" : "751f18ec23b3c463462ca8c47da9c246",
+  "time" : {
+    "start" : 1654262001998,
+    "stop" : 1654262006553,
+    "duration" : 4555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-29"
+  }, {
+    "name" : "suite",
+    "value" : "C29: Verify that scheduler can't create empty \"input type\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C29: Verify that scheduler can't create empty \"input type\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input without type cannot be created."
+  }, {
+    "name" : "package",
+    "value" : "C29: Verify that scheduler can't create empty \"input type\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f377bb1ec7902b4.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

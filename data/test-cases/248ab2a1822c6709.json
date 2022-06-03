@@ -1,0 +1,62 @@
+{
+  "uid" : "248ab2a1822c6709",
+  "name" : "Should edit created project projectlmzgv",
+  "fullName" : "C36: The sales manager can move the project to the next week.Should edit created project projectlmzgv",
+  "historyId" : "51c9453e9b8690f87cf75e7613804e43",
+  "time" : {
+    "start" : 1654261490895,
+    "stop" : 1654261535779,
+    "duration" : 44884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-17"
+  }, {
+    "name" : "suite",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "testClass",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created project projectlmzgv"
+  }, {
+    "name" : "package",
+    "value" : "C36: The sales manager can move the project to the next week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "248ab2a1822c6709.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
