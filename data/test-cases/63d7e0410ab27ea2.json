@@ -1,0 +1,62 @@
+{
+  "uid" : "63d7e0410ab27ea2",
+  "name" : "Should verify that \"Sales Manager\" can't delete created project project4q2b4",
+  "fullName" : "C41: The sales manager can't delete an existing project\".Should verify that \"Sales Manager\" can't delete created project project4q2b4",
+  "historyId" : "c37891716b6b159c553d9f93c8393608",
+  "time" : {
+    "start" : 1654246140290,
+    "stop" : 1654246179313,
+    "duration" : 39023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-20"
+  }, {
+    "name" : "suite",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testClass",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that \"Sales Manager\" can't delete created project project4q2b4"
+  }, {
+    "name" : "package",
+    "value" : "C41: The sales manager can't delete an existing project\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63d7e0410ab27ea2.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
