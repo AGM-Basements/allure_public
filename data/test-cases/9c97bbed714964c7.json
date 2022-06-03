@@ -1,0 +1,62 @@
+{
+  "uid" : "9c97bbed714964c7",
+  "name" : "Should delete created project projectcvxin",
+  "fullName" : "C40: The scheduler can delete an existing project.Should delete created project projectcvxin",
+  "historyId" : "d71544f972c76a965307f5e8efda1abd",
+  "time" : {
+    "start" : 1654234775543,
+    "stop" : 1654234813376,
+    "duration" : 37833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C40: The scheduler can delete an existing project"
+  }, {
+    "name" : "testClass",
+    "value" : "C40: The scheduler can delete an existing project"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created project projectcvxin"
+  }, {
+    "name" : "package",
+    "value" : "C40: The scheduler can delete an existing project"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c97bbed714964c7.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
