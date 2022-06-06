@@ -1,17 +1,6 @@
 {
   "total" : 44,
   "items" : [ {
-    "uid" : "bbb5e247dfa0881bc143c6e041797f83",
-    "name" : "C10: The scheduler can edit an existing configuration.",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 2,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
     "uid" : "daa70a43b342a6843b94bfee27c4ff05",
     "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "statistic" : {
@@ -102,6 +91,17 @@
   }, {
     "uid" : "4e595816aec1890200354df51df33b46",
     "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "cda7c0dae36a07bd3db34063997cfec9",
+    "name" : "C56: Creating configurations for subsequent years.",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

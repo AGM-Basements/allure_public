@@ -1,0 +1,62 @@
+{
+  "uid" : "1bad5790d167c01f",
+  "name" : "Should verify that input is deleted in reserve form",
+  "fullName" : "C17: The scheduler can edit an existing input field..Should verify that input is deleted in reserve form",
+  "historyId" : "2ec6c2c1ffbddba5a07f995d999c28d4",
+  "time" : {
+    "start" : 1654502072186,
+    "stop" : 1654502084017,
+    "duration" : 11831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that input is deleted in reserve form"
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bad5790d167c01f.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
