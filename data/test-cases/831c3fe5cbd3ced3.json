@@ -1,0 +1,62 @@
+{
+  "uid" : "831c3fe5cbd3ced3",
+  "name" : "Should edit newly created configuration.",
+  "fullName" : "C10: The scheduler can edit an existing configuration..Should edit newly created configuration.",
+  "historyId" : "7e7aade3964d9a446d488544a8af7379",
+  "time" : {
+    "start" : 1654511594335,
+    "stop" : 1654511607396,
+    "duration" : 13061
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-31"
+  }, {
+    "name" : "suite",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created configuration."
+  }, {
+    "name" : "package",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "831c3fe5cbd3ced3.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

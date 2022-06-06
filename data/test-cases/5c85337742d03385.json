@@ -1,0 +1,62 @@
+{
+  "uid" : "5c85337742d03385",
+  "name" : "Should search for created project: project2x60y1",
+  "fullName" : "C23: Searching existing project by name.Should search for created project: project2x60y1",
+  "historyId" : "ee6864df3631778ead5174fda42486de",
+  "time" : {
+    "start" : 1654510666194,
+    "stop" : 1654510712826,
+    "duration" : 46632
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testClass",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search for created project: project2x60y1"
+  }, {
+    "name" : "package",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c85337742d03385.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

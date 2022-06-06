@@ -1,0 +1,62 @@
+{
+  "uid" : "31d51967b469f56",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C14: The scheduler can add a configuration with certain date for the United States of America country..Should click the \"Update Schedule\" button.",
+  "historyId" : "fe2fb06aad63a6a38fa636ed47435837",
+  "time" : {
+    "start" : 1654511648106,
+    "stop" : 1654511649691,
+    "duration" : 1585
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-33"
+  }, {
+    "name" : "suite",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testClass",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C14: The scheduler can add a configuration with certain date for the United States of America country."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31d51967b469f56.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
