@@ -1,0 +1,62 @@
+{
+  "uid" : "d3b3a93af3aa824c",
+  "name" : "Should delete created input from form structure",
+  "fullName" : "C19: The scheduler can delete input field for an existing column..Should delete created input from form structure",
+  "historyId" : "55599a1e165c248281c8e3db650e8b65",
+  "time" : {
+    "start" : 1654500141211,
+    "stop" : 1654500144899,
+    "duration" : 3688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-27"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete input field for an existing column."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3b3a93af3aa824c.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "318aafb72395bd93",
+  "name" : "Should edit newly created configuration.",
+  "fullName" : "C10: The scheduler can edit an existing configuration..Should edit newly created configuration.",
+  "historyId" : "7e7aade3964d9a446d488544a8af7379",
+  "time" : {
+    "start" : 1654500229314,
+    "stop" : 1654500251844,
+    "duration" : 22530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//button[contains(@class,\"Day\")][contains(.,'04')]\") still not clickable after 10000ms",
+  "statusTrace" : "Error: element (\"//button[contains(@class,\"Day\")][contains(.,'04')]\") still not clickable after 10000ms\n                    at async SchedulePage.waitForElementClickableByText (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:95:9)\n                    at async SchedulePage.clickByText (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:147:9)\n                    at async SchedulePage.setCalendarDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:108:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-31"
+  }, {
+    "name" : "suite",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created configuration."
+  }, {
+    "name" : "package",
+    "value" : "C10: The scheduler can edit an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "318aafb72395bd93.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
