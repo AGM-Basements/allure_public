@@ -1,0 +1,62 @@
+{
+  "uid" : "9550190edf8f2123",
+  "name" : "Should verify that can't move project project0ulaq1 to date without empty slots",
+  "fullName" : "C34: The scheduler can't exceed the slot reservation limit.Should verify that can't move project project0ulaq1 to date without empty slots",
+  "historyId" : "efe80d19dfdf49a6cd8b9871196937fb",
+  "time" : {
+    "start" : 1654524878023,
+    "stop" : 1654524934964,
+    "duration" : 56941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-15"
+  }, {
+    "name" : "suite",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "testClass",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that can't move project project0ulaq1 to date without empty slots"
+  }, {
+    "name" : "package",
+    "value" : "C34: The scheduler can't exceed the slot reservation limit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9550190edf8f2123.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
