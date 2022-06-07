@@ -1,0 +1,62 @@
+{
+  "uid" : "7bda507c23faa50a",
+  "name" : "Should verify that can't move project projectign911 to date without empty slots",
+  "fullName" : "C33: The sales manager can't exceed the slot reservation limit.Should verify that can't move project projectign911 to date without empty slots",
+  "historyId" : "2751cd57ebeb30218c563bed7e3c04ba",
+  "time" : {
+    "start" : 1654600344180,
+    "stop" : 1654600400592,
+    "duration" : 56412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-14"
+  }, {
+    "name" : "suite",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "testClass",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that can't move project projectign911 to date without empty slots"
+  }, {
+    "name" : "package",
+    "value" : "C33: The sales manager can't exceed the slot reservation limit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bda507c23faa50a.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

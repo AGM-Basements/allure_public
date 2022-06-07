@@ -1,0 +1,62 @@
+{
+  "uid" : "3a99b22f7fa30086",
+  "name" : "Should delete created configuration.",
+  "fullName" : "C9: The scheduler can delete an existing configuration..Should delete created configuration.",
+  "historyId" : "ebbf9fcc2f191482861751ba55936fb1",
+  "time" : {
+    "start" : 1654601288497,
+    "stop" : 1654601305330,
+    "duration" : 16833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-43"
+  }, {
+    "name" : "suite",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created configuration."
+  }, {
+    "name" : "package",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a99b22f7fa30086.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
