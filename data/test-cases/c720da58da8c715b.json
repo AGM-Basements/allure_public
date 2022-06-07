@@ -1,0 +1,62 @@
+{
+  "uid" : "c720da58da8c715b",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year..Should click the \"Update Schedule\" button.",
+  "historyId" : "1fc36a1f3a9561e63ae086230d4c6086",
+  "time" : {
+    "start" : 1654610953021,
+    "stop" : 1654610955340,
+    "duration" : 2319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-36"
+  }, {
+    "name" : "suite",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testClass",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c720da58da8c715b.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "def048f1a84f8e8",
+  "name" : "Should edit existing project name to 084z2project",
+  "fullName" : "C28: Editing an existing project name by a \"Scheduler\".Should edit existing project name to 084z2project",
+  "historyId" : "d49b5ff32f2be37cbd291799c6170dac",
+  "time" : {
+    "start" : 1654610099349,
+    "stop" : 1654610147213,
+    "duration" : 47864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testClass",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to 084z2project"
+  }, {
+    "name" : "package",
+    "value" : "C28: Editing an existing project name by a \"Scheduler\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "def048f1a84f8e8.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
