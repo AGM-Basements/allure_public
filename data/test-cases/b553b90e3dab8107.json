@@ -1,0 +1,62 @@
+{
+  "uid" : "b553b90e3dab8107",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C31: The sales manager can't add a new configuration..Should click the \"Update Schedule\" button.",
+  "historyId" : "4a7930d7a892969ea879a1351734b956",
+  "time" : {
+    "start" : 1654607742089,
+    "stop" : 1654607744467,
+    "duration" : 2378
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-35"
+  }, {
+    "name" : "suite",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C31: The sales manager can't add a new configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b553b90e3dab8107.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

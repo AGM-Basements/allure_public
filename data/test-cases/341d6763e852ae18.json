@@ -1,0 +1,62 @@
+{
+  "uid" : "341d6763e852ae18",
+  "name" : "Should edit existing project name to yuk5yproject",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to yuk5yproject",
+  "historyId" : "77c2cbf88a1532c6650d508e1464a788",
+  "time" : {
+    "start" : 1654607281109,
+    "stop" : 1654607332305,
+    "duration" : 51196
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-21"
+  }, {
+    "name" : "suite",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to yuk5yproject"
+  }, {
+    "name" : "package",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "341d6763e852ae18.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

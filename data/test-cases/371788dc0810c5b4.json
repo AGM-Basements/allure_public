@@ -1,0 +1,86 @@
+{
+  "uid" : "371788dc0810c5b4",
+  "name" : "\"after all\" hook for C26: Searching with empty request",
+  "fullName" : "C26: Searching with empty request.\"after all\" hook for C26: Searching with empty request",
+  "historyId" : "20e035268b671460e56079e7c7ed57c6",
+  "time" : {
+    "start" : 1654606800943,
+    "stop" : 1654606812689,
+    "duration" : 11746
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C26.spec.ts:131:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C26.spec.ts:131:57)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "100541c44dc409dd",
+      "name" : "Screenshot",
+      "source" : "100541c44dc409dd.png",
+      "type" : "image/png",
+      "size" : 56622
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testClass",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C26: Searching with empty request"
+  }, {
+    "name" : "package",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "371788dc0810c5b4.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

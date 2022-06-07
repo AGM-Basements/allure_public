@@ -1,0 +1,86 @@
+{
+  "uid" : "8274ccc3512ad421",
+  "name" : "\"after all\" hook for C38: Searching with invalid project name",
+  "fullName" : "C38: Searching with invalid project name.\"after all\" hook for C38: Searching with invalid project name",
+  "historyId" : "8b415923b59881f0a16177afe2e2a0c1",
+  "time" : {
+    "start" : 1654606831869,
+    "stop" : 1654606844139,
+    "duration" : 12270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C38.spec.ts:125:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C38.spec.ts:125:57)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a96027fd3877cc87",
+      "name" : "Screenshot",
+      "source" : "a96027fd3877cc87.png",
+      "type" : "image/png",
+      "size" : 56588
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-11"
+  }, {
+    "name" : "suite",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "testClass",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C38: Searching with invalid project name"
+  }, {
+    "name" : "package",
+    "value" : "C38: Searching with invalid project name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8274ccc3512ad421.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

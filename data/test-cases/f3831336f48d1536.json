@@ -1,0 +1,86 @@
+{
+  "uid" : "f3831336f48d1536",
+  "name" : "\"after all\" hook for C23: Searching existing project by name",
+  "fullName" : "C23: Searching existing project by name.\"after all\" hook for C23: Searching existing project by name",
+  "historyId" : "c88a277153fc4f5c2f84d0338ec8aa00",
+  "time" : {
+    "start" : 1654606738034,
+    "stop" : 1654606751491,
+    "duration" : 13457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C23.spec.ts:129:57)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C23.spec.ts:129:57)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "492408ced76330ba",
+      "name" : "Screenshot",
+      "source" : "492408ced76330ba.png",
+      "type" : "image/png",
+      "size" : 60125
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testClass",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C23: Searching existing project by name"
+  }, {
+    "name" : "package",
+    "value" : "C23: Searching existing project by name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f3831336f48d1536.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

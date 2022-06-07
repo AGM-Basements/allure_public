@@ -1,0 +1,62 @@
+{
+  "uid" : "ff5d2bfe67258151",
+  "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "fullName" : "C13: Verify that added date applied only to the selected \"project type\"..Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "historyId" : "cc0e4d023ed615a55fe37b92c675157d",
+  "time" : {
+    "start" : 1654607677989,
+    "stop" : 1654607707590,
+    "duration" : 29601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-32"
+  }, {
+    "name" : "suite",
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
+  }, {
+    "name" : "testClass",
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "C13: Verify that added date applied only to the selected \"project type\"."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff5d2bfe67258151.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

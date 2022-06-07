@@ -1,0 +1,86 @@
+{
+  "uid" : "e16a0b0319ebc910",
+  "name" : "\"before all\" hook for C26: Searching with empty request",
+  "fullName" : "C26: Searching with empty request.\"before all\" hook for C26: Searching with empty request",
+  "historyId" : "9eb36303dc175415416c05c811d789c8",
+  "time" : {
+    "start" : 1654606783850,
+    "stop" : 1654606800943,
+    "duration" : 17093
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call scrollIntoView on element with selector \"//button[text()=\"Save\"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call scrollIntoView on element with selector \"//button[text()=\"Save\"]\" because element wasn't found\n                    at async FormStructurePage.scrollElementIntoViewTop (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:265:9)\n                    at async FormStructurePage.clickBtnSave (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:43:9)\n                    at async FormStructurePage.cleanForm (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:116:9)\n                    at async Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C26.spec.ts:55:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call scrollIntoView on element with selector \"//button[text()=\"Save\"]\" because element wasn't found",
+    "statusTrace" : "Error: Can't call scrollIntoView on element with selector \"//button[text()=\"Save\"]\" because element wasn't found\n                    at async FormStructurePage.scrollElementIntoViewTop (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:265:9)\n                    at async FormStructurePage.clickBtnSave (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:43:9)\n                    at async FormStructurePage.cleanForm (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:116:9)\n                    at async Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/ProjectSearch/C26.spec.ts:55:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "32d2a91d59a64bc0",
+      "name" : "Screenshot",
+      "source" : "32d2a91d59a64bc0.png",
+      "type" : "image/png",
+      "size" : 15571
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testClass",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C26: Searching with empty request"
+  }, {
+    "name" : "package",
+    "value" : "C26: Searching with empty request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e16a0b0319ebc910.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

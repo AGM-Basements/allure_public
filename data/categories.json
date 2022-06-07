@@ -1,5 +1,157 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't call scrollIntoView on element with selector \"//button[text()=\"Save\"]\" because element wasn't found",
+      "children" : [ {
+        "name" : "\"before all\" hook for C23: Searching existing project by name",
+        "uid" : "434e9ce13f57fe2e",
+        "parentUid" : "d857e0fae1f074d158e750625d366c7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654606721054,
+          "stop" : 1654606738034,
+          "duration" : 16980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"before all\" hook for C25: Searching existing project by part of the name",
+        "uid" : "f1ec10fde0e1e016",
+        "parentUid" : "d857e0fae1f074d158e750625d366c7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654606753640,
+          "stop" : 1654606770080,
+          "duration" : 16440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"before all\" hook for C26: Searching with empty request",
+        "uid" : "e16a0b0319ebc910",
+        "parentUid" : "d857e0fae1f074d158e750625d366c7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654606783850,
+          "stop" : 1654606800943,
+          "duration" : 17093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"before all\" hook for C38: Searching with invalid project name",
+        "uid" : "ced9f75f7e12d9cc",
+        "parentUid" : "d857e0fae1f074d158e750625d366c7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654606814845,
+          "stop" : 1654606831869,
+          "duration" : 17024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      } ],
+      "uid" : "d857e0fae1f074d158e750625d366c7a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"There are already projects attached to this working week\"",
+      "children" : [ {
+        "name" : "\"after all\" hook for C23: Searching existing project by name",
+        "uid" : "f3831336f48d1536",
+        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654606738034,
+          "stop" : 1654606751491,
+          "duration" : 13457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"after all\" hook for C25: Searching existing project by part of the name",
+        "uid" : "8b7932e9ebed25d6",
+        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654606770081,
+          "stop" : 1654606781684,
+          "duration" : 11603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"after all\" hook for C26: Searching with empty request",
+        "uid" : "371788dc0810c5b4",
+        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654606800943,
+          "stop" : 1654606812689,
+          "duration" : 11746
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      }, {
+        "name" : "\"after all\" hook for C38: Searching with invalid project name",
+        "uid" : "8274ccc3512ad421",
+        "parentUid" : "821a397e0bb0ee55dd8ab52e5d349a68",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654606831869,
+          "stop" : 1654606844139,
+          "duration" : 12270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.61" ]
+      } ],
+      "uid" : "821a397e0bb0ee55dd8ab52e5d349a68"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
   "name" : "categories"
 }

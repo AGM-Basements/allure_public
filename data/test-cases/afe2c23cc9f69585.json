@@ -1,0 +1,62 @@
+{
+  "uid" : "afe2c23cc9f69585",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "C56: Creating configurations for subsequent years..Should set filters as you set for scheduling date.",
+  "historyId" : "10af5a136186367d68ad40545c1a74c5",
+  "time" : {
+    "start" : 1654607847324,
+    "stop" : 1654607858700,
+    "duration" : 11376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testClass",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters as you set for scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afe2c23cc9f69585.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

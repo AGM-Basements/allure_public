@@ -1,0 +1,62 @@
+{
+  "uid" : "beeede57c9effe48",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C56: Creating configurations for subsequent years..Should click the \"Update Schedule\" button.",
+  "historyId" : "c5940804f3fc5ec5380fdea9fda8b9b2",
+  "time" : {
+    "start" : 1654607839261,
+    "stop" : 1654607841693,
+    "duration" : 2432
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testClass",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C56: Creating configurations for subsequent years."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "beeede57c9effe48.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
