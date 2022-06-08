@@ -1,0 +1,86 @@
+{
+  "uid" : "bd6a94a3effec93",
+  "name" : "\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+  "fullName" : "C9: The scheduler can delete an existing configuration..\"before all\" hook for C9: The scheduler can delete an existing configuration.",
+  "historyId" : "f70d1030d7e50591bccd831f655aba2d",
+  "time" : {
+    "start" : 1654667730745,
+    "stop" : 1654667744313,
+    "duration" : 13568
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/UpdateSchedule/C9.spec.ts:63:69)\n                    at runMicrotasks (<anonymous>)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/UpdateSchedule/C9.spec.ts:63:69)\n                    at runMicrotasks (<anonymous>)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4b2464e536236a15",
+      "name" : "Screenshot",
+      "source" : "4b2464e536236a15.png",
+      "type" : "image/png",
+      "size" : 46544
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-43"
+  }, {
+    "name" : "suite",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testClass",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "package",
+    "value" : "C9: The scheduler can delete an existing configuration."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bd6a94a3effec93.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
