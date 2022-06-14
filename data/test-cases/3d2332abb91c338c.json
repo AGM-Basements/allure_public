@@ -1,0 +1,62 @@
+{
+  "uid" : "3d2332abb91c338c",
+  "name" : "Should verify that inputs are created in reserve form.",
+  "fullName" : "C24: The scheduler can create input field for and existing column with any type.Should verify that inputs are created in reserve form.",
+  "historyId" : "8c4eb46296df6795940f3705e1dd4a4e",
+  "time" : {
+    "start" : 1655226218704,
+    "stop" : 1655226226690,
+    "duration" : 7986
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-24"
+  }, {
+    "name" : "suite",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "testClass",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that inputs are created in reserve form."
+  }, {
+    "name" : "package",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d2332abb91c338c.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

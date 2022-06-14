@@ -1,0 +1,62 @@
+{
+  "uid" : "c3be77c67e01160",
+  "name" : "Should verify that configuration can't be deleted with reserved project.",
+  "fullName" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week.Should verify that configuration can't be deleted with reserved project.",
+  "historyId" : "c7290344fd53b150ca0d9671ca8e9bb1",
+  "time" : {
+    "start" : 1655226497449,
+    "stop" : 1655226533652,
+    "duration" : 36203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-37"
+  }, {
+    "name" : "suite",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testClass",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that configuration can't be deleted with reserved project."
+  }, {
+    "name" : "package",
+    "value" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3be77c67e01160.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

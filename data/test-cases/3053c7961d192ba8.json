@@ -1,0 +1,62 @@
+{
+  "uid" : "3053c7961d192ba8",
+  "name" : "C6: Login with invalid short password at Staging server.",
+  "fullName" : "C3,C4,C5,C6,C12: Login.C6: Login with invalid short password at Staging server.",
+  "historyId" : "b6e361682d2e46e64799412d3a643706",
+  "time" : {
+    "start" : 1655225292489,
+    "stop" : 1655225294742,
+    "duration" : 2253
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "testClass",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "C6: Login with invalid short password at Staging server."
+  }, {
+    "name" : "package",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3053c7961d192ba8.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

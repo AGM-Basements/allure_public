@@ -1,0 +1,62 @@
+{
+  "uid" : "8df72aa049b88411",
+  "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "fullName" : "С13: The scheduler can edit date at existing configuration.Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
+  "historyId" : "d4462e406d783b4a87d760e45e7fb40b",
+  "time" : {
+    "start" : 1655226292438,
+    "stop" : 1655226315086,
+    "duration" : 22648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-28"
+  }, {
+    "name" : "suite",
+    "value" : "С13: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "testClass",
+    "value" : "С13: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "С13: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8df72aa049b88411.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

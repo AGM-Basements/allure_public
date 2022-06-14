@@ -1,0 +1,62 @@
+{
+  "uid" : "f15c877dabd19b5",
+  "name" : "Should edit created project testProject1",
+  "fullName" : "C37: The \"Scheduler\" can move the project to the next week.Should edit created project testProject1",
+  "historyId" : "e70a7c367fe85dd30cf4ab8df6f19fdc",
+  "time" : {
+    "start" : 1655225652351,
+    "stop" : 1655225692439,
+    "duration" : 40088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "C37: The \"Scheduler\" can move the project to the next week"
+  }, {
+    "name" : "testClass",
+    "value" : "C37: The \"Scheduler\" can move the project to the next week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created project testProject1"
+  }, {
+    "name" : "package",
+    "value" : "C37: The \"Scheduler\" can move the project to the next week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f15c877dabd19b5.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

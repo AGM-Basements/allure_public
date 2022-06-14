@@ -1,0 +1,78 @@
+{
+  "uid" : "5fbe251ad56ba92b",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "С8: The scheduler can add a configuration with certain date for Canada country.Should click the \"Update Schedule\" button.",
+  "historyId" : "9f20a10e61d6d3a57808ea6e17daa535",
+  "time" : {
+    "start" : 1655226537449,
+    "stop" : 1655226539637,
+    "duration" : 2188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-38"
+  }, {
+    "name" : "suite",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testClass",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d9c18af3310faf69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655226477440,
+        "stop" : 1655226479706,
+        "duration" : 2266
+      }
+    }, {
+      "uid" : "f9534d271b73d971",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655226342431,
+        "stop" : 1655226344662,
+        "duration" : 2231
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fbe251ad56ba92b.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
