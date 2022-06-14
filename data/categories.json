@@ -1,30 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
-      "children" : [ {
-        "name" : "\"before all\" hook for C9: The scheduler can delete an existing configuration.",
-        "uid" : "bd6a94a3effec93",
-        "parentUid" : "7d22550bcc2853ce14c87084cc359937",
-        "status" : "failed",
-        "time" : {
-          "start" : 1654667730745,
-          "stop" : 1654667744313,
-          "duration" : 13568
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-102.0.5005.61" ]
-      } ],
-      "uid" : "7d22550bcc2853ce14c87084cc359937"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
