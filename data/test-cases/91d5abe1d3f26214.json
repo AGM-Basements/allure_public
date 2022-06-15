@@ -1,0 +1,62 @@
+{
+  "uid" : "91d5abe1d3f26214",
+  "name" : "Should try to reserve project without project name.",
+  "fullName" : "C52: Creating a new project in an available slot without any name and any start date.Should try to reserve project without project name.",
+  "historyId" : "2bb8f817247fa84fec15aff7f7a815ec",
+  "time" : {
+    "start" : 1655279378544,
+    "stop" : 1655279390116,
+    "duration" : 11572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testClass",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to reserve project without project name."
+  }, {
+    "name" : "package",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91d5abe1d3f26214.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

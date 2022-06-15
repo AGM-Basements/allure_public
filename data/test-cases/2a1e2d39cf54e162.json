@@ -1,0 +1,62 @@
+{
+  "uid" : "2a1e2d39cf54e162",
+  "name" : "C21: Should verify that created configuration is displayed after filtering by its country.",
+  "fullName" : "C21,C22: Filters..C21: Should verify that created configuration is displayed after filtering by its country.",
+  "historyId" : "e57940d4f1517e6dd3a1b3f025ce8724",
+  "time" : {
+    "start" : 1655278777853,
+    "stop" : 1655278825098,
+    "duration" : 47245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "testClass",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "testMethod",
+    "value" : "C21: Should verify that created configuration is displayed after filtering by its country."
+  }, {
+    "name" : "package",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a1e2d39cf54e162.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "14e72535d53bff88",
+  "name" : "Should edit existing project name to newTestProject1",
+  "fullName" : "C49: Editing an existing project name by a \"Sales Manager\".Should edit existing project name to newTestProject1",
+  "historyId" : "f40b2ddc776f22945ee65067d5febd5c",
+  "time" : {
+    "start" : 1655279317087,
+    "stop" : 1655279353404,
+    "duration" : 36317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testClass",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit existing project name to newTestProject1"
+  }, {
+    "name" : "package",
+    "value" : "C49: Editing an existing project name by a \"Sales Manager\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14e72535d53bff88.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}
