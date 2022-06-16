@@ -1,5 +1,5 @@
 {
-  "total" : 33,
+  "total" : 34,
   "items" : [ {
     "uid" : "4a637abfaeb750d754ba0ba97149ede3",
     "name" : "С8: The scheduler can add a configuration with certain date for Canada country",
@@ -10,6 +10,17 @@
       "passed" : 7,
       "unknown" : 0,
       "total" : 7
+    }
+  }, {
+    "uid" : "594ccb856544571de294f60bbbc951aa",
+    "name" : "C124: Use an existing template for a form structure",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
     }
   }, {
     "uid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
@@ -91,17 +102,6 @@
   }, {
     "uid" : "a7ab58e4f19bc3e3b58f2f4cd0ed600d",
     "name" : "C19: The scheduler can delete an input field for an existing column",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "98661ac31df2cfcc8f49715decb8bd69",
-    "name" : "C24: The scheduler can create input field for and existing column with any type",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

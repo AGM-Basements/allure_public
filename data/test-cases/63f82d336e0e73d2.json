@@ -1,0 +1,62 @@
+{
+  "uid" : "63f82d336e0e73d2",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C24: The scheduler can create input field for and existing column with any type.Should click the \"Update Form Structure\" button.",
+  "historyId" : "aab3d9c8bcf2a7df1c5a65eff08b6321",
+  "time" : {
+    "start" : 1655371301789,
+    "stop" : 1655371316349,
+    "duration" : 14560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "testClass",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C24: The scheduler can create input field for and existing column with any type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63f82d336e0e73d2.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

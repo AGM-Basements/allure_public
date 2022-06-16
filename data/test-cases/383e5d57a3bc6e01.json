@@ -1,0 +1,62 @@
+{
+  "uid" : "383e5d57a3bc6e01",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C121: Inability to save a template with empty name.Should click the \"Update Schedule\" button.",
+  "historyId" : "f8a329f97f91c8a1195ef51f768f9a02",
+  "time" : {
+    "start" : 1655370906725,
+    "stop" : 1655370908357,
+    "duration" : 1632
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-15"
+  }, {
+    "name" : "suite",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "testClass",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "383e5d57a3bc6e01.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

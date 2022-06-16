@@ -1,0 +1,62 @@
+{
+  "uid" : "4d2e3c2dcf74d54a",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C124: Use an existing template for a form structure.Should click the \"Update Schedule\" button.",
+  "historyId" : "1761b964473fa8d645e553b076e47d8",
+  "time" : {
+    "start" : 1655371056730,
+    "stop" : 1655371076124,
+    "duration" : 19394
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testClass",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d2e3c2dcf74d54a.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

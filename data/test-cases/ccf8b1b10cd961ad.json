@@ -1,0 +1,62 @@
+{
+  "uid" : "ccf8b1b10cd961ad",
+  "name" : "Should edit created project testProject1",
+  "fullName" : "C36: The \"Sales Manager\" can move the project to the next week.Should edit created project testProject1",
+  "historyId" : "2f45faef902718888c1956354bbba6f2",
+  "time" : {
+    "start" : 1655370626717,
+    "stop" : 1655370667332,
+    "duration" : 40615
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "C36: The \"Sales Manager\" can move the project to the next week"
+  }, {
+    "name" : "testClass",
+    "value" : "C36: The \"Sales Manager\" can move the project to the next week"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created project testProject1"
+  }, {
+    "name" : "package",
+    "value" : "C36: The \"Sales Manager\" can move the project to the next week"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccf8b1b10cd961ad.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

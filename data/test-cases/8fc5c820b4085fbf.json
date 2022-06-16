@@ -1,0 +1,70 @@
+{
+  "uid" : "8fc5c820b4085fbf",
+  "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+  "fullName" : "С8: The scheduler can add a configuration with certain date for Canada country.Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+  "historyId" : "5fe33ed0436e5593edfa258e09d567cc",
+  "time" : {
+    "start" : 1655371643440,
+    "stop" : 1655371649292,
+    "duration" : 5852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-39"
+  }, {
+    "name" : "suite",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testClass",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn."
+  }, {
+    "name" : "package",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f23430a068222d89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655371583497,
+        "stop" : 1655371589055,
+        "duration" : 5558
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fc5c820b4085fbf.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}
