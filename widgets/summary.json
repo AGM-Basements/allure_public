@@ -5,16 +5,16 @@
     "failed" : 0,
     "broken" : 0,
     "skipped" : 0,
-    "passed" : 79,
+    "passed" : 82,
     "unknown" : 0,
-    "total" : 79
+    "total" : 82
   },
   "time" : {
-    "start" : 1655392114025,
-    "stop" : 1655393572628,
-    "duration" : 1458603,
-    "minDuration" : 137,
-    "maxDuration" : 55062,
-    "sumDuration" : 1233769
+    "start" : 1655397049255,
+    "stop" : 1655398546247,
+    "duration" : 1496992,
+    "minDuration" : 149,
+    "maxDuration" : 55387,
+    "sumDuration" : 1291049
   }
 }

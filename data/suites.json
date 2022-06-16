@@ -1,16 +1,17 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
   "children" : [ {
     "name" : "C21,C22: Filters.",
     "children" : [ {
       "name" : "C21: Should verify that created configuration is displayed after filtering by its country.",
-      "uid" : "eb67d6a0e16ab677",
+      "uid" : "46f3877d2b1621ee",
       "parentUid" : "43aff6891b2cd68bdab9fb0091e01036",
       "status" : "passed",
       "time" : {
-        "start" : 1655392114025,
-        "stop" : 1655392164699,
-        "duration" : 50674
+        "start" : 1655397049255,
+        "stop" : 1655397084761,
+        "duration" : 35506
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +22,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C22: Should verify that only projects with chosen type are displayed.",
-      "uid" : "710fe91830d1fd32",
+      "uid" : "97aed8e16e916497",
       "parentUid" : "43aff6891b2cd68bdab9fb0091e01036",
       "status" : "passed",
       "time" : {
-        "start" : 1655392164700,
-        "stop" : 1655392186386,
-        "duration" : 21686
+        "start" : 1655397084761,
+        "stop" : 1655397119050,
+        "duration" : 34289
       },
       "flaky" : false,
       "newFailed" : false,
@@ -42,13 +43,13 @@
     "name" : "C3,C4,C5,C6,C12: Login",
     "children" : [ {
       "name" : "C3: Login as \"Scheduler\" role with valid credentials.",
-      "uid" : "137ca194d0b737f7",
+      "uid" : "c05929cdb157fed0",
       "parentUid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
       "status" : "passed",
       "time" : {
-        "start" : 1655392188870,
-        "stop" : 1655392191224,
-        "duration" : 2354
+        "start" : 1655397124184,
+        "stop" : 1655397125760,
+        "duration" : 1576
       },
       "flaky" : false,
       "newFailed" : false,
@@ -59,13 +60,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C4: Login without any credentials.",
-      "uid" : "976b5feac6e6529d",
+      "uid" : "1f79f948a4def95b",
       "parentUid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
       "status" : "passed",
       "time" : {
-        "start" : 1655392191224,
-        "stop" : 1655392191961,
-        "duration" : 737
+        "start" : 1655397125761,
+        "stop" : 1655397126088,
+        "duration" : 327
       },
       "flaky" : false,
       "newFailed" : false,
@@ -76,13 +77,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C5: Login with invalid password at Staging server.",
-      "uid" : "769b6b7ed560d7d",
+      "uid" : "22c841d6373912ee",
       "parentUid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
       "status" : "passed",
       "time" : {
-        "start" : 1655392191961,
-        "stop" : 1655392193986,
-        "duration" : 2025
+        "start" : 1655397126088,
+        "stop" : 1655397128261,
+        "duration" : 2173
       },
       "flaky" : false,
       "newFailed" : false,
@@ -93,13 +94,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C6: Login with invalid short password at Staging server.",
-      "uid" : "6c47174b4e8d6ba5",
+      "uid" : "a6aac15c934d9e5",
       "parentUid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
       "status" : "passed",
       "time" : {
-        "start" : 1655392193986,
-        "stop" : 1655392196384,
-        "duration" : 2398
+        "start" : 1655397128261,
+        "stop" : 1655397130430,
+        "duration" : 2169
       },
       "flaky" : false,
       "newFailed" : false,
@@ -110,13 +111,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C12: Login as \"Sales Manager\" role with valid credentials.",
-      "uid" : "4b9dc81a0fa8696a",
+      "uid" : "d19329a3397e912",
       "parentUid" : "805b51b049bf4299f1b2e2e1cb26c6ea",
       "status" : "passed",
       "time" : {
-        "start" : 1655392196385,
-        "stop" : 1655392198289,
-        "duration" : 1904
+        "start" : 1655397130430,
+        "stop" : 1655397131561,
+        "duration" : 1131
       },
       "flaky" : false,
       "newFailed" : false,
@@ -131,13 +132,13 @@
     "name" : "C20,C23,C25,C26,C38: Project search",
     "children" : [ {
       "name" : "C20: Should search by working week: June 13, 2022",
-      "uid" : "ae0af10481d42dab",
+      "uid" : "54df115c6617b7c4",
       "parentUid" : "62cbc9ea2f02a8fbd02bb020296409df",
       "status" : "passed",
       "time" : {
-        "start" : 1655392203878,
-        "stop" : 1655392240985,
-        "duration" : 37107
+        "start" : 1655397134138,
+        "stop" : 1655397163958,
+        "duration" : 29820
       },
       "flaky" : false,
       "newFailed" : false,
@@ -148,13 +149,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C23: Should search for created project: testProject1",
-      "uid" : "b44077eb05929880",
+      "uid" : "db603a443e0d63fc",
       "parentUid" : "62cbc9ea2f02a8fbd02bb020296409df",
       "status" : "passed",
       "time" : {
-        "start" : 1655392240985,
-        "stop" : 1655392242737,
-        "duration" : 1752
+        "start" : 1655397163958,
+        "stop" : 1655397165609,
+        "duration" : 1651
       },
       "flaky" : false,
       "newFailed" : false,
@@ -165,13 +166,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C25: Should search for created projects by part of the name: testPr",
-      "uid" : "febca3beaec678e7",
+      "uid" : "7c97412f0c8a76c7",
       "parentUid" : "62cbc9ea2f02a8fbd02bb020296409df",
       "status" : "passed",
       "time" : {
-        "start" : 1655392242737,
-        "stop" : 1655392244552,
-        "duration" : 1815
+        "start" : 1655397165609,
+        "stop" : 1655397167261,
+        "duration" : 1652
       },
       "flaky" : false,
       "newFailed" : false,
@@ -182,13 +183,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C26: Should search with empty fields",
-      "uid" : "e1ebff437a449009",
+      "uid" : "46ea66fb2f7e179d",
       "parentUid" : "62cbc9ea2f02a8fbd02bb020296409df",
       "status" : "passed",
       "time" : {
-        "start" : 1655392244552,
-        "stop" : 1655392246704,
-        "duration" : 2152
+        "start" : 1655397167261,
+        "stop" : 1655397169833,
+        "duration" : 2572
       },
       "flaky" : false,
       "newFailed" : false,
@@ -199,13 +200,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "C38: Should search with unexisting project name",
-      "uid" : "2920ef6241960aa3",
+      "uid" : "5828e708e9b26865",
       "parentUid" : "62cbc9ea2f02a8fbd02bb020296409df",
       "status" : "passed",
       "time" : {
-        "start" : 1655392246704,
-        "stop" : 1655392267111,
-        "duration" : 20407
+        "start" : 1655397169833,
+        "stop" : 1655397196104,
+        "duration" : 26271
       },
       "flaky" : false,
       "newFailed" : false,
@@ -220,13 +221,13 @@
     "name" : "C27: Creating a new project in an available slot by \"Sales Manager\"",
     "children" : [ {
       "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
-      "uid" : "b06dcfda677169cf",
+      "uid" : "b7ada233e01f00d3",
       "parentUid" : "daa70a43b342a6843b94bfee27c4ff05",
       "status" : "passed",
       "time" : {
-        "start" : 1655392273894,
-        "stop" : 1655392309021,
-        "duration" : 35127
+        "start" : 1655397199196,
+        "stop" : 1655397235466,
+        "duration" : 36270
       },
       "flaky" : false,
       "newFailed" : false,
@@ -241,13 +242,13 @@
     "name" : "C28: Editing an existing project name by a \"Scheduler\"",
     "children" : [ {
       "name" : "Should edit existing project name to newTestProject1",
-      "uid" : "2aeb745fa5ec8468",
+      "uid" : "2bec1211f24d6100",
       "parentUid" : "6556b21563954c5c0bc9279ffb7bfbcc",
       "status" : "passed",
       "time" : {
-        "start" : 1655392313868,
-        "stop" : 1655392350763,
-        "duration" : 36895
+        "start" : 1655397239164,
+        "stop" : 1655397276932,
+        "duration" : 37768
       },
       "flaky" : false,
       "newFailed" : false,
@@ -262,13 +263,13 @@
     "name" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit.",
     "children" : [ {
       "name" : "Should verify that can't move project testProject1 to date without empty slots",
-      "uid" : "6524a49c67c85e0f",
+      "uid" : "5d72c6925294a270",
       "parentUid" : "31579d4763e78f774112a41ccb1a501a",
       "status" : "passed",
       "time" : {
-        "start" : 1655392353882,
-        "stop" : 1655392408944,
-        "duration" : 55062
+        "start" : 1655397279162,
+        "stop" : 1655397334549,
+        "duration" : 55387
       },
       "flaky" : false,
       "newFailed" : false,
@@ -283,13 +284,13 @@
     "name" : "C34: The \"Scheduler\" can't exceed the slot reservation limit",
     "children" : [ {
       "name" : "Should verify that can't move project testProject1 to date without empty slots",
-      "uid" : "c46afbe6733e318f",
+      "uid" : "132794369b0f9038",
       "parentUid" : "a2874d5c0579663709994d285e6eeddd",
       "status" : "passed",
       "time" : {
-        "start" : 1655392413930,
-        "stop" : 1655392466821,
-        "duration" : 52891
+        "start" : 1655397339159,
+        "stop" : 1655397393120,
+        "duration" : 53961
       },
       "flaky" : false,
       "newFailed" : false,
@@ -304,13 +305,13 @@
     "name" : "C35: Creating a new project in an available slot by \"Scheduler\"",
     "children" : [ {
       "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
-      "uid" : "4d48c14cc3e924c8",
+      "uid" : "e9c475a8e5a24228",
       "parentUid" : "529b98f35bab76ec269e77fab4256f83",
       "status" : "passed",
       "time" : {
-        "start" : 1655392468883,
-        "stop" : 1655392501879,
-        "duration" : 32996
+        "start" : 1655397399172,
+        "stop" : 1655397432508,
+        "duration" : 33336
       },
       "flaky" : false,
       "newFailed" : false,
@@ -325,13 +326,13 @@
     "name" : "C36: The \"Sales Manager\" can move the project to the next week",
     "children" : [ {
       "name" : "Should edit created project testProject1",
-      "uid" : "d3459fb27a452270",
+      "uid" : "cbe891f43afe37d3",
       "parentUid" : "4cf6da6a42edbc1c12d32b625dfb3b38",
       "status" : "passed",
       "time" : {
-        "start" : 1655392503902,
-        "stop" : 1655392546779,
-        "duration" : 42877
+        "start" : 1655397439169,
+        "stop" : 1655397480794,
+        "duration" : 41625
       },
       "flaky" : false,
       "newFailed" : false,
@@ -346,13 +347,13 @@
     "name" : "C37: The \"Scheduler\" can move the project to the next week",
     "children" : [ {
       "name" : "Should edit created project testProject1",
-      "uid" : "ea40a80fa0bdd795",
+      "uid" : "51318683a7c2a2a",
       "parentUid" : "3fb190441184390152ad4bf329fb633a",
       "status" : "passed",
       "time" : {
-        "start" : 1655392548888,
-        "stop" : 1655392588938,
-        "duration" : 40050
+        "start" : 1655397484165,
+        "stop" : 1655397524995,
+        "duration" : 40830
       },
       "flaky" : false,
       "newFailed" : false,
@@ -367,13 +368,13 @@
     "name" : "The \"Scheduler\" can delete an existing project",
     "children" : [ {
       "name" : "Should delete created project testProject1",
-      "uid" : "7f2ac94979c2b1dd",
+      "uid" : "3d694e35e92d3c46",
       "parentUid" : "fcb6f4649e1a4af90fd7b23586ead603",
       "status" : "passed",
       "time" : {
-        "start" : 1655392593890,
-        "stop" : 1655392626634,
-        "duration" : 32744
+        "start" : 1655397529175,
+        "stop" : 1655397563807,
+        "duration" : 34632
       },
       "flaky" : false,
       "newFailed" : false,
@@ -388,13 +389,13 @@
     "name" : "The \"Sales Manager\" can't delete an existing project",
     "children" : [ {
       "name" : "Should verify that \"Sales Manager\" can't delete created project testProject1",
-      "uid" : "125b92e78e1270da",
+      "uid" : "7516968081334b9d",
       "parentUid" : "f17adc95ffecbdf32e700b6c16b11144",
       "status" : "passed",
       "time" : {
-        "start" : 1655392628898,
-        "stop" : 1655392669334,
-        "duration" : 40436
+        "start" : 1655397569179,
+        "stop" : 1655397609526,
+        "duration" : 40347
       },
       "flaky" : false,
       "newFailed" : false,
@@ -409,13 +410,13 @@
     "name" : "C49: Editing an existing project name by a \"Sales Manager\"",
     "children" : [ {
       "name" : "Should edit existing project name to newTestProject1",
-      "uid" : "f4cfcdca9a78a7dd",
+      "uid" : "34cc72f55c656770",
       "parentUid" : "6a82ac8183dca38117cb155fb1096a21",
       "status" : "passed",
       "time" : {
-        "start" : 1655392673891,
-        "stop" : 1655392712912,
-        "duration" : 39021
+        "start" : 1655397614170,
+        "stop" : 1655397653734,
+        "duration" : 39564
       },
       "flaky" : false,
       "newFailed" : false,
@@ -430,13 +431,13 @@
     "name" : "C52: Creating a new project in an available slot without any name and any start date",
     "children" : [ {
       "name" : "Should try to reserve project without date.",
-      "uid" : "75e047fbbad9377d",
+      "uid" : "9b22eb8c2b8215c2",
       "parentUid" : "a219d75a3d94e2e61b7d9af8d70ac973",
       "status" : "passed",
       "time" : {
-        "start" : 1655392718895,
-        "stop" : 1655392741767,
-        "duration" : 22872
+        "start" : 1655397659178,
+        "stop" : 1655397676855,
+        "duration" : 17677
       },
       "flaky" : false,
       "newFailed" : false,
@@ -447,13 +448,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should try to reserve project without project name.",
-      "uid" : "32c2baadfab9fbc7",
+      "uid" : "5159348667546e4f",
       "parentUid" : "a219d75a3d94e2e61b7d9af8d70ac973",
       "status" : "passed",
       "time" : {
-        "start" : 1655392741767,
-        "stop" : 1655392750535,
-        "duration" : 8768
+        "start" : 1655397676855,
+        "stop" : 1655397692303,
+        "duration" : 15448
       },
       "flaky" : false,
       "newFailed" : false,
@@ -468,13 +469,13 @@
     "name" : "C120: Save a form structure as a new template for other structures",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "df0ce4eebee63627",
+      "uid" : "9bac46b9963e6751",
       "parentUid" : "28c339b329316969d62bdd537b4ea3a3",
       "status" : "passed",
       "time" : {
-        "start" : 1655392753910,
-        "stop" : 1655392756141,
-        "duration" : 2231
+        "start" : 1655397699179,
+        "stop" : 1655397702924,
+        "duration" : 3745
       },
       "flaky" : false,
       "newFailed" : false,
@@ -485,13 +486,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should create template.",
-      "uid" : "583539ee2b10f257",
+      "uid" : "ad7d6f4ff2b3fce7",
       "parentUid" : "28c339b329316969d62bdd537b4ea3a3",
       "status" : "passed",
       "time" : {
-        "start" : 1655392756141,
-        "stop" : 1655392772456,
-        "duration" : 16315
+        "start" : 1655397702924,
+        "stop" : 1655397719347,
+        "duration" : 16423
       },
       "flaky" : false,
       "newFailed" : false,
@@ -502,13 +503,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should delete created template.",
-      "uid" : "65155c999645f887",
+      "uid" : "378fb3632b8ee08f",
       "parentUid" : "28c339b329316969d62bdd537b4ea3a3",
       "status" : "passed",
       "time" : {
-        "start" : 1655392793921,
-        "stop" : 1655392813889,
-        "duration" : 19968
+        "start" : 1655397739180,
+        "stop" : 1655397757655,
+        "duration" : 18475
       },
       "flaky" : false,
       "newFailed" : false,
@@ -523,13 +524,13 @@
     "name" : "C121: Inability to save a template with empty name",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "f430bc706b60a6f3",
+      "uid" : "cadb9a060389c3c4",
       "parentUid" : "91fcbf2f54a95d1e87fb417497ef0090",
       "status" : "passed",
       "time" : {
-        "start" : 1655392778907,
-        "stop" : 1655392781121,
-        "duration" : 2214
+        "start" : 1655397724179,
+        "stop" : 1655397725806,
+        "duration" : 1627
       },
       "flaky" : false,
       "newFailed" : false,
@@ -540,13 +541,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that template without name can't be created.",
-      "uid" : "e36bfb05751fbbc2",
+      "uid" : "642d1833b254f8eb",
       "parentUid" : "91fcbf2f54a95d1e87fb417497ef0090",
       "status" : "passed",
       "time" : {
-        "start" : 1655392781121,
-        "stop" : 1655392791159,
-        "duration" : 10038
+        "start" : 1655397725806,
+        "stop" : 1655397735683,
+        "duration" : 9877
       },
       "flaky" : false,
       "newFailed" : false,
@@ -558,16 +559,16 @@
     } ],
     "uid" : "91fcbf2f54a95d1e87fb417497ef0090"
   }, {
-    "name" : "C124: Use an existing template for a form structure",
+    "name" : "C123: Edit an existing template",
     "children" : [ {
       "name" : "Should add new inputs for existing template.",
-      "uid" : "22c5d80876f171c7",
-      "parentUid" : "594ccb856544571de294f60bbbc951aa",
+      "uid" : "3667597d622a65da",
+      "parentUid" : "beba112357bc85ded6b1d0c65fdec528",
       "status" : "passed",
       "time" : {
-        "start" : 1655392818905,
-        "stop" : 1655392849508,
-        "duration" : 30603
+        "start" : 1655397764181,
+        "stop" : 1655397795108,
+        "duration" : 30927
       },
       "flaky" : false,
       "newFailed" : false,
@@ -577,14 +578,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
-      "name" : "Should apply edited template for project type",
-      "uid" : "e2d507074568d606",
-      "parentUid" : "594ccb856544571de294f60bbbc951aa",
+      "name" : "Should apply edited template for project type.",
+      "uid" : "8e62014a5fd81290",
+      "parentUid" : "beba112357bc85ded6b1d0c65fdec528",
       "status" : "passed",
       "time" : {
-        "start" : 1655392849508,
-        "stop" : 1655392852814,
-        "duration" : 3306
+        "start" : 1655397795109,
+        "stop" : 1655397798695,
+        "duration" : 3586
       },
       "flaky" : false,
       "newFailed" : false,
@@ -594,14 +595,35 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
+      "name" : "Should verify that inputs are displayed in reservation form.",
+      "uid" : "68cecf54e3015558",
+      "parentUid" : "beba112357bc85ded6b1d0c65fdec528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655397798695,
+        "stop" : 1655397820552,
+        "duration" : 21857
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "beba112357bc85ded6b1d0c65fdec528"
+  }, {
+    "name" : "C124: Use an existing template for a form structure",
+    "children" : [ {
       "name" : "Should choose it for project and save.",
-      "uid" : "8aa5a1a477c0034d",
+      "uid" : "bb7054253fa6dec",
       "parentUid" : "594ccb856544571de294f60bbbc951aa",
       "status" : "passed",
       "time" : {
-        "start" : 1655392878914,
-        "stop" : 1655392903834,
-        "duration" : 24920
+        "start" : 1655397824183,
+        "stop" : 1655397850102,
+        "duration" : 25919
       },
       "flaky" : false,
       "newFailed" : false,
@@ -612,47 +634,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that inputs are displayed in reservation form",
-      "uid" : "dc0a913de219ec",
+      "uid" : "3f78b26b1f330ee6",
       "parentUid" : "594ccb856544571de294f60bbbc951aa",
       "status" : "passed",
       "time" : {
-        "start" : 1655392903834,
-        "stop" : 1655392924404,
-        "duration" : 20570
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "a1e17c9480274e0e",
-      "parentUid" : "594ccb856544571de294f60bbbc951aa",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655392928927,
-        "stop" : 1655392948640,
-        "duration" : 19713
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that template with existing name cannot be created.",
-      "uid" : "1bc5648ab6fdda21",
-      "parentUid" : "594ccb856544571de294f60bbbc951aa",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655392948641,
-        "stop" : 1655392974289,
-        "duration" : 25648
+        "start" : 1655397850102,
+        "stop" : 1655397871317,
+        "duration" : 21215
       },
       "flaky" : false,
       "newFailed" : false,
@@ -664,16 +652,92 @@
     } ],
     "uid" : "594ccb856544571de294f60bbbc951aa"
   }, {
+    "name" : "C125: Inability to save a template with an existing template name",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "4bed0bd601e87616",
+      "parentUid" : "b921f715f8dff1e49323980dcadc0ecc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655397874194,
+        "stop" : 1655397894069,
+        "duration" : 19875
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that template with existing name cannot be created.",
+      "uid" : "a9635462d4dd997c",
+      "parentUid" : "b921f715f8dff1e49323980dcadc0ecc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655397894069,
+        "stop" : 1655397918196,
+        "duration" : 24127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "b921f715f8dff1e49323980dcadc0ecc"
+  }, {
+    "name" : "C126: Select \"non template\" from the drop-down menu",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "83aa7a797944b1e0",
+      "parentUid" : "c86c1224e6386363d617078352390bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655397924207,
+        "stop" : 1655397944230,
+        "duration" : 20023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should apply edited template for project type.",
+      "uid" : "f776e1e7a8fae556",
+      "parentUid" : "c86c1224e6386363d617078352390bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655397944231,
+        "stop" : 1655397966928,
+        "duration" : 22697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "c86c1224e6386363d617078352390bb2"
+  }, {
     "name" : "C15: The scheduler can add a new column",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "768908d19e7c727f",
+      "uid" : "c7ef95a87d980493",
       "parentUid" : "8c79d6b2648cafa012d2b389cfc1b727",
       "status" : "passed",
       "time" : {
-        "start" : 1655392978924,
-        "stop" : 1655392986752,
-        "duration" : 7828
+        "start" : 1655397969199,
+        "stop" : 1655397978260,
+        "duration" : 9061
       },
       "flaky" : false,
       "newFailed" : false,
@@ -684,13 +748,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should create input.",
-      "uid" : "6a8b87f320a300ca",
+      "uid" : "ab18c27df1ebcb8f",
       "parentUid" : "8c79d6b2648cafa012d2b389cfc1b727",
       "status" : "passed",
       "time" : {
-        "start" : 1655392986753,
-        "stop" : 1655392993686,
-        "duration" : 6933
+        "start" : 1655397978260,
+        "stop" : 1655397985178,
+        "duration" : 6918
       },
       "flaky" : false,
       "newFailed" : false,
@@ -701,13 +765,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that input displayed in reserve form.",
-      "uid" : "430cee6ec0244397",
+      "uid" : "4291f91d02ad5b41",
       "parentUid" : "8c79d6b2648cafa012d2b389cfc1b727",
       "status" : "passed",
       "time" : {
-        "start" : 1655392993686,
-        "stop" : 1655393009055,
-        "duration" : 15369
+        "start" : 1655397985178,
+        "stop" : 1655398001436,
+        "duration" : 16258
       },
       "flaky" : false,
       "newFailed" : false,
@@ -722,13 +786,13 @@
     "name" : "C16: The scheduler can delete an existing column",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "4bddea56a72002d8",
+      "uid" : "91501db5cc4b78ce",
       "parentUid" : "f346661d5aab31c60864375d10bd514b",
       "status" : "passed",
       "time" : {
-        "start" : 1655393013928,
-        "stop" : 1655393029300,
-        "duration" : 15372
+        "start" : 1655398004206,
+        "stop" : 1655398020461,
+        "duration" : 16255
       },
       "flaky" : false,
       "newFailed" : false,
@@ -739,13 +803,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should delete created input from form structure",
-      "uid" : "bbc82df2ba0d07ee",
+      "uid" : "c7d11d9ef447b18d",
       "parentUid" : "f346661d5aab31c60864375d10bd514b",
       "status" : "passed",
       "time" : {
-        "start" : 1655393029300,
-        "stop" : 1655393033198,
-        "duration" : 3898
+        "start" : 1655398020462,
+        "stop" : 1655398024843,
+        "duration" : 4381
       },
       "flaky" : false,
       "newFailed" : false,
@@ -756,13 +820,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "12a8d5609ee4e404",
+      "uid" : "876745bbc6f1cef1",
       "parentUid" : "f346661d5aab31c60864375d10bd514b",
       "status" : "passed",
       "time" : {
-        "start" : 1655393033198,
-        "stop" : 1655393050239,
-        "duration" : 17041
+        "start" : 1655398024843,
+        "stop" : 1655398041094,
+        "duration" : 16251
       },
       "flaky" : false,
       "newFailed" : false,
@@ -777,13 +841,13 @@
     "name" : "C17: The scheduler can edit an existing input field.",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "eb342f667d62fe43",
+      "uid" : "add3d778d2d57cbf",
       "parentUid" : "29586c611f6d3968bddaec8e4e629c66",
       "status" : "passed",
       "time" : {
-        "start" : 1655393053924,
-        "stop" : 1655393069413,
-        "duration" : 15489
+        "start" : 1655398044199,
+        "stop" : 1655398060264,
+        "duration" : 16065
       },
       "flaky" : false,
       "newFailed" : false,
@@ -794,13 +858,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should edit created input from form structure",
-      "uid" : "ed54450d6d6546cc",
+      "uid" : "e53638e66e0b6f38",
       "parentUid" : "29586c611f6d3968bddaec8e4e629c66",
       "status" : "passed",
       "time" : {
-        "start" : 1655393069413,
-        "stop" : 1655393073855,
-        "duration" : 4442
+        "start" : 1655398060264,
+        "stop" : 1655398065082,
+        "duration" : 4818
       },
       "flaky" : false,
       "newFailed" : false,
@@ -811,13 +875,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "8b3f0adec8d733a",
+      "uid" : "990671de1c77c4da",
       "parentUid" : "29586c611f6d3968bddaec8e4e629c66",
       "status" : "passed",
       "time" : {
-        "start" : 1655393073855,
-        "stop" : 1655393089623,
-        "duration" : 15768
+        "start" : 1655398065082,
+        "stop" : 1655398081065,
+        "duration" : 15983
       },
       "flaky" : false,
       "newFailed" : false,
@@ -832,13 +896,13 @@
     "name" : "C18: The scheduler can create input field for an existing column with \"text\" type",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "685b5b622189c26e",
+      "uid" : "84f741724cdfd58d",
       "parentUid" : "c94459d5f69cc4224e61638759bb9b3d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393093923,
-        "stop" : 1655393109207,
-        "duration" : 15284
+        "start" : 1655398084202,
+        "stop" : 1655398100352,
+        "duration" : 16150
       },
       "flaky" : false,
       "newFailed" : false,
@@ -849,13 +913,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should add new input for created culumn.",
-      "uid" : "48ce585d6e8c5b19",
+      "uid" : "df01d239d4834de",
       "parentUid" : "c94459d5f69cc4224e61638759bb9b3d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393109207,
-        "stop" : 1655393116359,
-        "duration" : 7152
+        "start" : 1655398100352,
+        "stop" : 1655398106986,
+        "duration" : 6634
       },
       "flaky" : false,
       "newFailed" : false,
@@ -866,13 +930,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that inputs are created in reserve form",
-      "uid" : "1626518f2dd97760",
+      "uid" : "6f258e1812d56889",
       "parentUid" : "c94459d5f69cc4224e61638759bb9b3d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393116359,
-        "stop" : 1655393133425,
-        "duration" : 17066
+        "start" : 1655398106986,
+        "stop" : 1655398123083,
+        "duration" : 16097
       },
       "flaky" : false,
       "newFailed" : false,
@@ -887,13 +951,13 @@
     "name" : "C19: The scheduler can delete an input field for an existing column",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "f8b704543750bdac",
+      "uid" : "d8317f4e2aa583b",
       "parentUid" : "a7ab58e4f19bc3e3b58f2f4cd0ed600d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393138932,
-        "stop" : 1655393157331,
-        "duration" : 18399
+        "start" : 1655398129211,
+        "stop" : 1655398148170,
+        "duration" : 18959
       },
       "flaky" : false,
       "newFailed" : false,
@@ -904,13 +968,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should delete created input from created column form structure",
-      "uid" : "c72eff877db70128",
+      "uid" : "b71d134c578b42d2",
       "parentUid" : "a7ab58e4f19bc3e3b58f2f4cd0ed600d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393157332,
-        "stop" : 1655393161829,
-        "duration" : 4497
+        "start" : 1655398148170,
+        "stop" : 1655398152545,
+        "duration" : 4375
       },
       "flaky" : false,
       "newFailed" : false,
@@ -921,13 +985,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "72b0b57b2d307752",
+      "uid" : "52086f75e0665e9c",
       "parentUid" : "a7ab58e4f19bc3e3b58f2f4cd0ed600d",
       "status" : "passed",
       "time" : {
-        "start" : 1655393161829,
-        "stop" : 1655393178579,
-        "duration" : 16750
+        "start" : 1655398152545,
+        "stop" : 1655398168097,
+        "duration" : 15552
       },
       "flaky" : false,
       "newFailed" : false,
@@ -942,13 +1006,13 @@
     "name" : "C24: The scheduler can create input field for and existing column with any type",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "6c85475619d52e62",
+      "uid" : "38d663cd1483bbb0",
       "parentUid" : "98661ac31df2cfcc8f49715decb8bd69",
       "status" : "passed",
       "time" : {
-        "start" : 1655393183938,
-        "stop" : 1655393199374,
-        "duration" : 15436
+        "start" : 1655398174211,
+        "stop" : 1655398190762,
+        "duration" : 16551
       },
       "flaky" : false,
       "newFailed" : false,
@@ -959,13 +1023,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should add new inputs for created culumn.",
-      "uid" : "9cb3e48d5824a4bc",
+      "uid" : "aee3cec6a08fe968",
       "parentUid" : "98661ac31df2cfcc8f49715decb8bd69",
       "status" : "passed",
       "time" : {
-        "start" : 1655393199375,
-        "stop" : 1655393218877,
-        "duration" : 19502
+        "start" : 1655398190763,
+        "stop" : 1655398210499,
+        "duration" : 19736
       },
       "flaky" : false,
       "newFailed" : false,
@@ -976,13 +1040,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that inputs are created in reserve form.",
-      "uid" : "a65e2812c8c8ce17",
+      "uid" : "ee11c4c4d26a21e7",
       "parentUid" : "98661ac31df2cfcc8f49715decb8bd69",
       "status" : "passed",
       "time" : {
-        "start" : 1655393218877,
-        "stop" : 1655393237328,
-        "duration" : 18451
+        "start" : 1655398210500,
+        "stop" : 1655398227811,
+        "duration" : 17311
       },
       "flaky" : false,
       "newFailed" : false,
@@ -997,13 +1061,13 @@
     "name" : "C29: Verify that scheduler can't create empty \"input type\".",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "ab8f657ddbb088f2",
+      "uid" : "88f6a5ef4b2e3223",
       "parentUid" : "615e5be76bc5ce123402279ebb1da6c2",
       "status" : "passed",
       "time" : {
-        "start" : 1655393243939,
-        "stop" : 1655393246269,
-        "duration" : 2330
+        "start" : 1655398234203,
+        "stop" : 1655398237777,
+        "duration" : 3574
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1014,13 +1078,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that input without type cannot be created.",
-      "uid" : "940ba20a2261e972",
+      "uid" : "df801874ec435600",
       "parentUid" : "615e5be76bc5ce123402279ebb1da6c2",
       "status" : "passed",
       "time" : {
-        "start" : 1655393246269,
-        "stop" : 1655393250663,
-        "duration" : 4394
+        "start" : 1655398237777,
+        "stop" : 1655398242045,
+        "duration" : 4268
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1035,13 +1099,13 @@
     "name" : "C32: The sales manager can't edit the scructure form.",
     "children" : [ {
       "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "d0fce7a6fd0e2d8f",
+      "uid" : "f391293c4a26512a",
       "parentUid" : "bf6a3645445b3594f56eef411ec5244a",
       "status" : "passed",
       "time" : {
-        "start" : 1655393253931,
-        "stop" : 1655393256178,
-        "duration" : 2247
+        "start" : 1655398244216,
+        "stop" : 1655398245840,
+        "duration" : 1624
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1052,13 +1116,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
-      "uid" : "a0abef7dccd86c8d",
+      "uid" : "37dcdabc090fd32c",
       "parentUid" : "bf6a3645445b3594f56eef411ec5244a",
       "status" : "passed",
       "time" : {
-        "start" : 1655393256178,
-        "stop" : 1655393260371,
-        "duration" : 4193
+        "start" : 1655398245840,
+        "stop" : 1655398250473,
+        "duration" : 4633
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1073,13 +1137,13 @@
     "name" : "С10: The scheduler can edit date at existing configuration",
     "children" : [ {
       "name" : "Should edit newly created configuration.",
-      "uid" : "6448de3684cc37ee",
+      "uid" : "56793ed938b02c6f",
       "parentUid" : "71f01868904a87d9e71c68861d3069f6",
       "status" : "passed",
       "time" : {
-        "start" : 1655393263942,
-        "stop" : 1655393279510,
-        "duration" : 15568
+        "start" : 1655398254209,
+        "stop" : 1655398267724,
+        "duration" : 13515
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1090,13 +1154,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should set filters for edited configuration and verify editing.",
-      "uid" : "47ed4629759d4ec8",
+      "uid" : "c8c6dd8bec099980",
       "parentUid" : "71f01868904a87d9e71c68861d3069f6",
       "status" : "passed",
       "time" : {
-        "start" : 1655393279510,
-        "stop" : 1655393288711,
-        "duration" : 9201
+        "start" : 1655398267724,
+        "stop" : 1655398277205,
+        "duration" : 9481
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1111,13 +1175,13 @@
     "name" : "С13: The scheduler can edit date at existing configuration",
     "children" : [ {
       "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
-      "uid" : "163845444ca19313",
+      "uid" : "b7effc6d2a921497",
       "parentUid" : "8dea58e86b6d4c20511fd3cfe8559e89",
       "status" : "passed",
       "time" : {
-        "start" : 1655393293941,
-        "stop" : 1655393318252,
-        "duration" : 24311
+        "start" : 1655398279212,
+        "stop" : 1655398301476,
+        "duration" : 22264
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1132,13 +1196,13 @@
     "name" : "C14: The scheduler can add a configuration with certain date for the United States of America country",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "49c8fbf946296f0a",
+      "uid" : "de74fd03de1cb6b0",
       "parentUid" : "2a7311105a0cb72ee0562b9f2000e9ed",
       "status" : "passed",
       "time" : {
-        "start" : 1655393323941,
-        "stop" : 1655393326235,
-        "duration" : 2294
+        "start" : 1655398304231,
+        "stop" : 1655398305841,
+        "duration" : 1610
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1149,13 +1213,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
-      "uid" : "d893876faa7743bc",
+      "uid" : "cc8565abf17b770b",
       "parentUid" : "2a7311105a0cb72ee0562b9f2000e9ed",
       "status" : "passed",
       "time" : {
-        "start" : 1655393326236,
-        "stop" : 1655393332311,
-        "duration" : 6075
+        "start" : 1655398305841,
+        "stop" : 1655398311332,
+        "duration" : 5491
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1166,13 +1230,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should set filters as you set for scheduling date.",
-      "uid" : "f4eb1044e434ceef",
+      "uid" : "b4aae9e752412d92",
       "parentUid" : "2a7311105a0cb72ee0562b9f2000e9ed",
       "status" : "passed",
       "time" : {
-        "start" : 1655393332312,
-        "stop" : 1655393342882,
-        "duration" : 10570
+        "start" : 1655398311333,
+        "stop" : 1655398320682,
+        "duration" : 9349
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1187,13 +1251,13 @@
     "name" : "С8: The scheduler can add a configuration with certain date for Canada country",
     "children" : [ {
       "name" : "Should try to add configuration with empty area name field.",
-      "uid" : "f5c485852150b58d",
+      "uid" : "e24b6134dc1ac1ef",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393351342,
-        "stop" : 1655393356878,
-        "duration" : 5536
+        "start" : 1655398325844,
+        "stop" : 1655398330872,
+        "duration" : 5028
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1204,13 +1268,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that configurations for subsequent year is displayed.",
-      "uid" : "7060fe6cdf11f826",
+      "uid" : "e36f56a049773586",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393487141,
-        "stop" : 1655393495956,
-        "duration" : 8815
+        "start" : 1655398461254,
+        "stop" : 1655398471058,
+        "duration" : 9804
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1221,13 +1285,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "bb9e4360393c8396",
+      "uid" : "a3dac988ef562447",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393538951,
-        "stop" : 1655393541360,
-        "duration" : 2409
+        "start" : 1655398514238,
+        "stop" : 1655398515851,
+        "duration" : 1613
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1238,13 +1302,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
-      "uid" : "e2bc563cb65628a0",
+      "uid" : "c370986bd60d2541",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393541360,
-        "stop" : 1655393547262,
-        "duration" : 5902
+        "start" : 1655398515851,
+        "stop" : 1655398521854,
+        "duration" : 6003
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1255,13 +1319,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should set filters as you set for scheduling date.",
-      "uid" : "9a7a956942c10deb",
+      "uid" : "528ed1d27eda7afa",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393547263,
-        "stop" : 1655393556271,
-        "duration" : 9008
+        "start" : 1655398521854,
+        "stop" : 1655398531755,
+        "duration" : 9901
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1272,13 +1336,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should delete created configuration.",
-      "uid" : "60627a2b7bea6b39",
+      "uid" : "a9cfc024a1ae1d45",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393558943,
-        "stop" : 1655393572491,
-        "duration" : 13548
+        "start" : 1655398534235,
+        "stop" : 1655398546098,
+        "duration" : 11863
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1289,13 +1353,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should set filters as you set for scheduling date and verify deleting.",
-      "uid" : "771b3a39c27d4612",
+      "uid" : "f3986587256aa56e",
       "parentUid" : "4a637abfaeb750d754ba0ba97149ede3",
       "status" : "passed",
       "time" : {
-        "start" : 1655393572491,
-        "stop" : 1655393572628,
-        "duration" : 137
+        "start" : 1655398546098,
+        "stop" : 1655398546247,
+        "duration" : 149
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1310,13 +1374,13 @@
     "name" : "C31: The sales manager can't add a new configuration",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "d07ca85e194ce6f9",
+      "uid" : "7b4f6b5c3033baca",
       "parentUid" : "85607e41eb958f272b2a13c0bdf92970",
       "status" : "passed",
       "time" : {
-        "start" : 1655393358934,
-        "stop" : 1655393361291,
-        "duration" : 2357
+        "start" : 1655398334220,
+        "stop" : 1655398335824,
+        "duration" : 1604
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1327,13 +1391,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that \"Sales Manager\" can't add configuration.",
-      "uid" : "2022e23f6ef081c4",
+      "uid" : "d1c248eb1b422dbb",
       "parentUid" : "85607e41eb958f272b2a13c0bdf92970",
       "status" : "passed",
       "time" : {
-        "start" : 1655393361291,
-        "stop" : 1655393368861,
-        "duration" : 7570
+        "start" : 1655398335824,
+        "stop" : 1655398342945,
+        "duration" : 7121
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1348,13 +1412,13 @@
     "name" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year",
     "children" : [ {
       "name" : "Should verify that configuration added until the end of this year.",
-      "uid" : "87f8cad0486a0c72",
+      "uid" : "37230639edc232dc",
       "parentUid" : "79db8ce1af3547c7d7cb9c21c320892a",
       "status" : "passed",
       "time" : {
-        "start" : 1655393373945,
-        "stop" : 1655393391162,
-        "duration" : 17217
+        "start" : 1655398349226,
+        "stop" : 1655398365605,
+        "duration" : 16379
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1369,13 +1433,13 @@
     "name" : "C53: Inability to create configurations with area same names",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "ee355844a39d2e1c",
+      "uid" : "36ec0d89de5aa78f",
       "parentUid" : "30ef9850e56469e52a9d2aff89984024",
       "status" : "passed",
       "time" : {
-        "start" : 1655393393940,
-        "stop" : 1655393396274,
-        "duration" : 2334
+        "start" : 1655398369256,
+        "stop" : 1655398370897,
+        "duration" : 1641
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1386,13 +1450,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should try to add new configuration with two areas same names.",
-      "uid" : "c64328ab8f7ef971",
+      "uid" : "642fee19c50d4c5e",
       "parentUid" : "30ef9850e56469e52a9d2aff89984024",
       "status" : "passed",
       "time" : {
-        "start" : 1655393396274,
-        "stop" : 1655393403734,
-        "duration" : 7460
+        "start" : 1655398370897,
+        "stop" : 1655398377894,
+        "duration" : 6997
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1407,13 +1471,13 @@
     "name" : "C54: The scheduler can delete areas at existing configuration",
     "children" : [ {
       "name" : "Should set filters for edited configuration and verify deleting of area.",
-      "uid" : "e3bde2a697bb439a",
+      "uid" : "370787eecd9c92d8",
       "parentUid" : "34d7590165d4b0372d11b53e01780e44",
       "status" : "passed",
       "time" : {
-        "start" : 1655393429015,
-        "stop" : 1655393438118,
-        "duration" : 9103
+        "start" : 1655398402411,
+        "stop" : 1655398412696,
+        "duration" : 10285
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1424,13 +1488,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should edit newly created configuration and delete one area.",
-      "uid" : "9497d11ad464827",
+      "uid" : "e3fc6b14b694d8e7",
       "parentUid" : "34d7590165d4b0372d11b53e01780e44",
       "status" : "passed",
       "time" : {
-        "start" : 1655393443934,
-        "stop" : 1655393463688,
-        "duration" : 19754
+        "start" : 1655398419240,
+        "stop" : 1655398437893,
+        "duration" : 18653
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1441,13 +1505,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should set filters for edited configuration and verify editing.",
-      "uid" : "b076442b6eeff095",
+      "uid" : "4f7fe38b4d043a57",
       "parentUid" : "34d7590165d4b0372d11b53e01780e44",
       "status" : "passed",
       "time" : {
-        "start" : 1655393463688,
-        "stop" : 1655393473435,
-        "duration" : 9747
+        "start" : 1655398437893,
+        "stop" : 1655398447564,
+        "duration" : 9671
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1462,13 +1526,13 @@
     "name" : "C58: The scheduler can't delete a configuration if there are already projects attached to this working week",
     "children" : [ {
       "name" : "Should verify that configuration can't be deleted with reserved project.",
-      "uid" : "260aa78bc2c1cd2",
+      "uid" : "f9b608c3cd362848",
       "parentUid" : "5de6313b6b11de87473b3f47e78739ed",
       "status" : "passed",
       "time" : {
-        "start" : 1655393498940,
-        "stop" : 1655393535676,
-        "duration" : 36736
+        "start" : 1655398474235,
+        "stop" : 1655398509053,
+        "duration" : 34818
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1479,6 +1543,5 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
     "uid" : "5de6313b6b11de87473b3f47e78739ed"
-  } ],
-  "name" : "suites"
+  } ]
 }
