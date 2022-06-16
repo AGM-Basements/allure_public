@@ -1,0 +1,70 @@
+{
+  "uid" : "dc0a913de219ec",
+  "name" : "Should verify that inputs are displayed in reservation form",
+  "fullName" : "C124: Use an existing template for a form structure.Should verify that inputs are displayed in reservation form",
+  "historyId" : "2be11ae5bea992e0a35e89e7c19032b",
+  "time" : {
+    "start" : 1655392903834,
+    "stop" : 1655392924404,
+    "duration" : 20570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testClass",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that inputs are displayed in reservation form"
+  }, {
+    "name" : "package",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71238bb486a1b2f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655392852814,
+        "stop" : 1655392874355,
+        "duration" : 21541
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc0a913de219ec.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

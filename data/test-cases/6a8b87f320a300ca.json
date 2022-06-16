@@ -1,0 +1,62 @@
+{
+  "uid" : "6a8b87f320a300ca",
+  "name" : "Should create input.",
+  "fullName" : "C15: The scheduler can add a new column.Should create input.",
+  "historyId" : "5bda9f6d575aefb5520cc626c23ac3a7",
+  "time" : {
+    "start" : 1655392986753,
+    "stop" : 1655392993686,
+    "duration" : 6933
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-20"
+  }, {
+    "name" : "suite",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testClass",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should create input."
+  }, {
+    "name" : "package",
+    "value" : "C15: The scheduler can add a new column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a8b87f320a300ca.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

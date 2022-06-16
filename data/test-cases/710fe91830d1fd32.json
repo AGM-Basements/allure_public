@@ -1,0 +1,62 @@
+{
+  "uid" : "710fe91830d1fd32",
+  "name" : "C22: Should verify that only projects with chosen type are displayed.",
+  "fullName" : "C21,C22: Filters..C22: Should verify that only projects with chosen type are displayed.",
+  "historyId" : "c59bcb1bb887f215077408fdebe65c27",
+  "time" : {
+    "start" : 1655392164700,
+    "stop" : 1655392186386,
+    "duration" : 21686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "testClass",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "testMethod",
+    "value" : "C22: Should verify that only projects with chosen type are displayed."
+  }, {
+    "name" : "package",
+    "value" : "C21,C22: Filters."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "710fe91830d1fd32.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

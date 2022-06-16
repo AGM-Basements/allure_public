@@ -1,0 +1,62 @@
+{
+  "uid" : "1bc5648ab6fdda21",
+  "name" : "Should verify that template with existing name cannot be created.",
+  "fullName" : "C124: Use an existing template for a form structure.Should verify that template with existing name cannot be created.",
+  "historyId" : "5c34f9edba7afb7f924b44689d21ccd0",
+  "time" : {
+    "start" : 1655392948641,
+    "stop" : 1655392974289,
+    "duration" : 25648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testClass",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that template with existing name cannot be created."
+  }, {
+    "name" : "package",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bc5648ab6fdda21.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

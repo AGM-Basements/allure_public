@@ -1,0 +1,62 @@
+{
+  "uid" : "d0fce7a6fd0e2d8f",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C32: The sales manager can't edit the scructure form..Should click the \"Update Form Structure\" button.",
+  "historyId" : "accced03bfc9c69bf728a2bdff444cf3",
+  "time" : {
+    "start" : 1655393253931,
+    "stop" : 1655393256178,
+    "duration" : 2247
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-27"
+  }, {
+    "name" : "suite",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "testClass",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C32: The sales manager can't edit the scructure form."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0fce7a6fd0e2d8f.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}
