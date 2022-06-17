@@ -1,0 +1,62 @@
+{
+  "uid" : "880bf373bbc680f3",
+  "name" : "Should verify that \"Sales Manager\" can't add configuration.",
+  "fullName" : "C31: The sales manager can't add a new configuration.Should verify that \"Sales Manager\" can't add configuration.",
+  "historyId" : "5667f61eb9aa27a302fff698eebd1944",
+  "time" : {
+    "start" : 1655474727072,
+    "stop" : 1655474735031,
+    "duration" : 7959
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-36"
+  }, {
+    "name" : "suite",
+    "value" : "C31: The sales manager can't add a new configuration"
+  }, {
+    "name" : "testClass",
+    "value" : "C31: The sales manager can't add a new configuration"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that \"Sales Manager\" can't add configuration."
+  }, {
+    "name" : "package",
+    "value" : "C31: The sales manager can't add a new configuration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "880bf373bbc680f3.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

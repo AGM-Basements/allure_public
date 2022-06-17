@@ -1,0 +1,62 @@
+{
+  "uid" : "95f72dd7dac0346",
+  "name" : "Should do some changes to the project №1 and save it",
+  "fullName" : "C129: *Check current projects and form structure for stability after changing/deleting template.Should do some changes to the project №1 and save it",
+  "historyId" : "8218223870d8363837857f740fe77104",
+  "time" : {
+    "start" : 1655474229774,
+    "stop" : 1655474235933,
+    "duration" : 6159
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testClass",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should do some changes to the project №1 and save it"
+  }, {
+    "name" : "package",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95f72dd7dac0346.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

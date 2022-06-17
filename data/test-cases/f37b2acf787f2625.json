@@ -1,0 +1,62 @@
+{
+  "uid" : "f37b2acf787f2625",
+  "name" : "Should save it as template.",
+  "fullName" : "C120: Save a form structure as a new template for other structures.Should save it as template.",
+  "historyId" : "e0ef5857a176560458105d11dfb6d345",
+  "time" : {
+    "start" : 1655473842708,
+    "stop" : 1655473851353,
+    "duration" : 8645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-15"
+  }, {
+    "name" : "suite",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "testClass",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should save it as template."
+  }, {
+    "name" : "package",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f37b2acf787f2625.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

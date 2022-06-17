@@ -1,0 +1,62 @@
+{
+  "uid" : "bdb46aa4f74d2db4",
+  "name" : "Should click the \"Update Form Structure\" button.",
+  "fullName" : "C19: The scheduler can delete an input field for an existing column.Should click the \"Update Form Structure\" button.",
+  "historyId" : "de9b5934fb00c464fab4e7e337003048",
+  "time" : {
+    "start" : 1655474484349,
+    "stop" : 1655474507127,
+    "duration" : 22778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-28"
+  }, {
+    "name" : "suite",
+    "value" : "C19: The scheduler can delete an input field for an existing column"
+  }, {
+    "name" : "testClass",
+    "value" : "C19: The scheduler can delete an input field for an existing column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Form Structure\" button."
+  }, {
+    "name" : "package",
+    "value" : "C19: The scheduler can delete an input field for an existing column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdb46aa4f74d2db4.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

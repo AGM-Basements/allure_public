@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655473854309' stop='1655473870251'>
+    <name>C121: Inability to save a template with empty name</name>
+    <title>C121: Inability to save a template with empty name</title>
+    <test-cases>
+        <test-case start='1655473854309' status='passed' stop='1655473859483'>
+            <name>Should click the "Update Schedule" button.</name>
+            <title>Should click the "Update Schedule" button.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-16'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-16'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1655473859484' status='passed' stop='1655473861538'>
+            <name>Should select a project type and click the "Edit" icon rightward.</name>
+            <title>Should select a project type and click the "Edit" icon rightward.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-16'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1655473861539' status='passed' stop='1655473870250'>
+            <name>Should verify that template without name can't be created.</name>
+            <title>Should verify that template without name can't be created.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-16'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,70 @@
+{
+  "uid" : "ba605a0173dc989f",
+  "name" : "Should edit newly created configuration and delete one area.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration.Should edit newly created configuration and delete one area.",
+  "historyId" : "b9842d8e7965dd09fdeb4b8a4adc537d",
+  "time" : {
+    "start" : 1655474814415,
+    "stop" : 1655474836246,
+    "duration" : 21831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit newly created configuration and delete one area."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f803a23a5c1e2848",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655474779393,
+        "stop" : 1655474801524,
+        "duration" : 22131
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba605a0173dc989f.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

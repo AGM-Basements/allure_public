@@ -1,0 +1,60 @@
+{
+  "uid" : "ec909ad1f79ddc32",
+  "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+  "fullName" : "С8: The scheduler can add a configuration with certain date for Canada country.Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+  "historyId" : "5fe33ed0436e5593edfa258e09d567cc",
+  "time" : {
+    "start" : 1655474852478,
+    "stop" : 1655474858884,
+    "duration" : 6406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-41"
+  }, {
+    "name" : "suite",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testClass",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn."
+  }, {
+    "name" : "package",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec909ad1f79ddc32.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

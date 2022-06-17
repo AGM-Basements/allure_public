@@ -1,0 +1,62 @@
+{
+  "uid" : "4d7947d5d54f1227",
+  "name" : "Should verify that inputs are displayed in reservation form.",
+  "fullName" : "C123: Edit an existing template.Should verify that inputs are displayed in reservation form.",
+  "historyId" : "c1170156202b742ecfd15b1db64d2035",
+  "time" : {
+    "start" : 1655473944041,
+    "stop" : 1655473967037,
+    "duration" : 22996
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "testClass",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that inputs are displayed in reservation form."
+  }, {
+    "name" : "package",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d7947d5d54f1227.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

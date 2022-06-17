@@ -1,92 +1,15 @@
 {
   "total" : 41,
   "items" : [ {
-    "uid" : "a219d75a3d94e2e61b7d9af8d70ac973",
-    "name" : "C52: Creating a new project in an available slot without any name and any start date",
-    "statistic" : {
-      "failed" : 2,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "31579d4763e78f774112a41ccb1a501a",
-    "name" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit.",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
     "uid" : "c4490836ca6aa77dc8a64fc69f1643c7",
     "name" : "C129: *Check current projects and form structure for stability after changing/deleting template",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "6556b21563954c5c0bc9279ffb7bfbcc",
-    "name" : "C28: Editing an existing project name by a \"Scheduler\"",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "a2874d5c0579663709994d285e6eeddd",
-    "name" : "C34: The \"Scheduler\" can't exceed the slot reservation limit",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "4cf6da6a42edbc1c12d32b625dfb3b38",
-    "name" : "C36: The \"Sales Manager\" can move the project to the next week",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "3fb190441184390152ad4bf329fb633a",
-    "name" : "C37: The \"Scheduler\" can move the project to the next week",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "6a82ac8183dca38117cb155fb1096a21",
-    "name" : "C49: Editing an existing project name by a \"Sales Manager\"",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
+      "total" : 11
     }
   }, {
     "uid" : "4a637abfaeb750d754ba0ba97149ede3",
@@ -109,6 +32,83 @@
       "passed" : 5,
       "unknown" : 0,
       "total" : 5
+    }
+  }, {
+    "uid" : "62cbc9ea2f02a8fbd02bb020296409df",
+    "name" : "C20,C23,C25,C26,C38: Project search",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "28c339b329316969d62bdd537b4ea3a3",
+    "name" : "C120: Save a form structure as a new template for other structures",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "91fcbf2f54a95d1e87fb417497ef0090",
+    "name" : "C121: Inability to save a template with empty name",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "beba112357bc85ded6b1d0c65fdec528",
+    "name" : "C123: Edit an existing template",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "5fe05b866da65f2fafbd6c303bd88e5f",
+    "name" : "C127: Create a form structure with required field (text)",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "8c79d6b2648cafa012d2b389cfc1b727",
+    "name" : "C15: The scheduler can add a new column",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "f346661d5aab31c60864375d10bd514b",
+    "name" : "C16: The scheduler can delete an existing column",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
     }
   } ]
 }
