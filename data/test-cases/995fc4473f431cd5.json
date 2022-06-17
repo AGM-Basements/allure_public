@@ -1,0 +1,62 @@
+{
+  "uid" : "995fc4473f431cd5",
+  "name" : "Should verify that template without name can't be created.",
+  "fullName" : "C121: Inability to save a template with empty name.Should verify that template without name can't be created.",
+  "historyId" : "2798f623f9e3eee2bcad1ba02e3162fb",
+  "time" : {
+    "start" : 1655471288315,
+    "stop" : 1655471297069,
+    "duration" : 8754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-16"
+  }, {
+    "name" : "suite",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "testClass",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that template without name can't be created."
+  }, {
+    "name" : "package",
+    "value" : "C121: Inability to save a template with empty name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "995fc4473f431cd5.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

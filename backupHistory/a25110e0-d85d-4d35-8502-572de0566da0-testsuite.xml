@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655471616666' stop='1655471645656'>
+    <name>C129: *Check current projects and form structure for stability after changing/deleting template</name>
+    <title>C129: *Check current projects and form structure for stability after changing/deleting template</title>
+    <test-cases>
+        <test-case start='1655471616666' status='failed' stop='1655471627513'>
+            <name>"before all" hook for C129: *Check current projects and form structure for stability after changing/deleting template</name>
+            <title>"before all" hook for C129: *Check current projects and form structure for stability after changing/deleting template</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-23'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "Configuration already exists"</message>
+                <stack-trace>Error: expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "Configuration already exists"
+                    at Helper.createScheduleConfiguration (/home/runner/work/tests_master_schedule/tests_master_schedule/test/utilities/helper.ts:246:59)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Context.&lt;anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/UpdateFormStructure/C129.spec.ts:43:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1655471627513' status='passed' stop='1655471645656'>
+            <name>Should check the project №1 - it isn't changed after applying the template.</name>
+            <title>Should check the project №1 - it isn't changed after applying the template.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-23'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

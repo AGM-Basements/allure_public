@@ -1,0 +1,62 @@
+{
+  "uid" : "e435186a9f9ad4f9",
+  "name" : "Should add new inputs for existing template.",
+  "fullName" : "C123: Edit an existing template.Should add new inputs for existing template.",
+  "historyId" : "fafdf497a5a990e4b7d0fa20409e6846",
+  "time" : {
+    "start" : 1655471331655,
+    "stop" : 1655471367529,
+    "duration" : 35874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-18"
+  }, {
+    "name" : "suite",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "testClass",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add new inputs for existing template."
+  }, {
+    "name" : "package",
+    "value" : "C123: Edit an existing template"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e435186a9f9ad4f9.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "75521ed9302b6412",
+  "name" : "\"after all\" hook for C33: The \"Sales Manager\" can't exceed the slot reservation limit.",
+  "fullName" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit..\"after all\" hook for C33: The \"Sales Manager\" can't exceed the slot reservation limit.",
+  "historyId" : "fd54cb4b223e083a91ba3aed04ba962f",
+  "time" : {
+    "start" : 1655470862532,
+    "stop" : 1655470890687,
+    "duration" : 28155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//div[contains(@class,\"slotInfo\")][contains(.,\"June 19, 2023\")]//*[@data-testid=\"DeleteForeverIcon\"]\") still not clickable after 15000ms",
+  "statusTrace" : "Error: element (\"//div[contains(@class,\"slotInfo\")][contains(.,\"June 19, 2023\")]//*[@data-testid=\"DeleteForeverIcon\"]\") still not clickable after 15000ms\n                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)\n                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)\n                    at async SchedulePage.deleteConfigurationByDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:187:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit."
+  }, {
+    "name" : "testClass",
+    "value" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit."
+  }, {
+    "name" : "testMethod",
+    "value" : "\"after all\" hook for C33: The \"Sales Manager\" can't exceed the slot reservation limit."
+  }, {
+    "name" : "package",
+    "value" : "C33: The \"Sales Manager\" can't exceed the slot reservation limit."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "75521ed9302b6412.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

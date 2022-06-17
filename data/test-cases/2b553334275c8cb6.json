@@ -1,0 +1,68 @@
+{
+  "uid" : "2b553334275c8cb6",
+  "name" : "\"before all\" hook for C52: Creating a new project in an available slot without any name and any start date",
+  "fullName" : "C52: Creating a new project in an available slot without any name and any start date.\"before all\" hook for C52: Creating a new project in an available slot without any name and any start date",
+  "historyId" : "346fb9bf092e5a8ea4bfee40fa383263",
+  "time" : {
+    "start" : 1655471226634,
+    "stop" : 1655471237824,
+    "duration" : 11190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"Success\"\n                Received: \"Configuration already exists\"\n                    at Helper.createScheduleConfiguration (/home/runner/work/tests_master_schedule/tests_master_schedule/test/utilities/helper.ts:246:59)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Context.<anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/SlotReservation/C52.spec.ts:26:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-14"
+  }, {
+    "name" : "suite",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testClass",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook for C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "package",
+    "value" : "C52: Creating a new project in an available slot without any name and any start date"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2b553334275c8cb6.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

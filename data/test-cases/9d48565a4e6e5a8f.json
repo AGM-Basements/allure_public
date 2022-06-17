@@ -1,0 +1,62 @@
+{
+  "uid" : "9d48565a4e6e5a8f",
+  "name" : "Should choose it for project and save.",
+  "fullName" : "C124: Use an existing template for a form structure.Should choose it for project and save.",
+  "historyId" : "e402ef19f1e38bcdb08369681b9bef79",
+  "time" : {
+    "start" : 1655471401648,
+    "stop" : 1655471431163,
+    "duration" : 29515
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-19"
+  }, {
+    "name" : "suite",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testClass",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should choose it for project and save."
+  }, {
+    "name" : "package",
+    "value" : "C124: Use an existing template for a form structure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d48565a4e6e5a8f.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

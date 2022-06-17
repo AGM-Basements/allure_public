@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655470851609' stop='1655470890688'>
+    <name>C33: The "Sales Manager" can't exceed the slot reservation limit.</name>
+    <title>C33: The "Sales Manager" can't exceed the slot reservation limit.</title>
+    <test-cases>
+        <test-case start='1655470851609' status='failed' stop='1655470862531'>
+            <name>"before all" hook for C33: The "Sales Manager" can't exceed the slot reservation limit.</name>
+            <title>"before all" hook for C33: The "Sales Manager" can't exceed the slot reservation limit.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "Configuration already exists"</message>
+                <stack-trace>Error: expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "Configuration already exists"
+                    at Helper.createScheduleConfiguration (/home/runner/work/tests_master_schedule/tests_master_schedule/test/utilities/helper.ts:246:59)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Context.&lt;anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/SlotReservation/C33.spec.ts:34:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1655470862532' status='broken' stop='1655470890687'>
+            <name>"after all" hook for C33: The "Sales Manager" can't exceed the slot reservation limit.</name>
+            <title>"after all" hook for C33: The "Sales Manager" can't exceed the slot reservation limit.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element ("//div[contains(@class,"slotInfo")][contains(.,"June 19, 2023")]//*[@data-testid="DeleteForeverIcon"]") still not clickable after 15000ms</message>
+                <stack-trace>Error: element ("//div[contains(@class,"slotInfo")][contains(.,"June 19, 2023")]//*[@data-testid="DeleteForeverIcon"]") still not clickable after 15000ms
+                    at async SchedulePage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)
+                    at async SchedulePage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)
+                    at async SchedulePage.deleteConfigurationByDate (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/schedule.page.ts:187:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

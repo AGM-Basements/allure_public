@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655470821595' stop='1655470848636'>
+    <name>C28: Editing an existing project name by a "Scheduler"</name>
+    <title>C28: Editing an existing project name by a "Scheduler"</title>
+    <test-cases>
+        <test-case start='1655470821595' status='broken' stop='1655470848635'>
+            <name>"after all" hook for C28: Editing an existing project name by a "Scheduler"</name>
+            <title>"after all" hook for C28: Editing an existing project name by a "Scheduler"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5c75ef22-ec5e-4553-84e9-2c4b443ad6a4-attachment.png' type='image/png' size='53657'/>
+            </attachments>
+            <failure>
+                <message>expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "There are already projects attached to this working week"</message>
+                <stack-trace>Error: expect(received).toBe(expected) // Object.is equality
+                
+                Expected: "Success"
+                Received: "There are already projects attached to this working week"
+                    at Helper.deleteScheduleConfiguration (/home/runner/work/tests_master_schedule/tests_master_schedule/test/utilities/helper.ts:262:55)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Context.&lt;anonymous> (/home/runner/work/tests_master_schedule/tests_master_schedule/test/specs/SlotReservation/C28.spec.ts:60:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
