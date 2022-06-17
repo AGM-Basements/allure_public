@@ -1,0 +1,62 @@
+{
+  "uid" : "6d18685c5964a95a",
+  "name" : "Should verify that template with existing name cannot be created.",
+  "fullName" : "C125: Inability to save a template with an existing template name.Should verify that template with existing name cannot be created.",
+  "historyId" : "84bdb29c7c6a0485d9920c3b6f76a741",
+  "time" : {
+    "start" : 1655476786765,
+    "stop" : 1655476811554,
+    "duration" : 24789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-20"
+  }, {
+    "name" : "suite",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "testClass",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that template with existing name cannot be created."
+  }, {
+    "name" : "package",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d18685c5964a95a.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

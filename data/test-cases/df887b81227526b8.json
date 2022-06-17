@@ -1,0 +1,62 @@
+{
+  "uid" : "df887b81227526b8",
+  "name" : "Should delete created input from form structure",
+  "fullName" : "C16: The scheduler can delete an existing column.Should delete created input from form structure",
+  "historyId" : "5e3d72993695c92db03a1109efbce8ad",
+  "time" : {
+    "start" : 1655477082806,
+    "stop" : 1655477086731,
+    "duration" : 3925
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-25"
+  }, {
+    "name" : "suite",
+    "value" : "C16: The scheduler can delete an existing column"
+  }, {
+    "name" : "testClass",
+    "value" : "C16: The scheduler can delete an existing column"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C16: The scheduler can delete an existing column"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df887b81227526b8.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

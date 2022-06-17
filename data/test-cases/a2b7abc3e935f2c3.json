@@ -1,0 +1,62 @@
+{
+  "uid" : "a2b7abc3e935f2c3",
+  "name" : "Should set filters as you set for scheduling date.",
+  "fullName" : "С8: The scheduler can add a configuration with certain date for Canada country.Should set filters as you set for scheduling date.",
+  "historyId" : "e1c9a024a785655fffd68592254448bd",
+  "time" : {
+    "start" : 1655477643944,
+    "stop" : 1655477653685,
+    "duration" : 9741
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-43"
+  }, {
+    "name" : "suite",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testClass",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters as you set for scheduling date."
+  }, {
+    "name" : "package",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2b7abc3e935f2c3.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "5701fc8128146186",
+  "name" : "Should add some new field to some column.",
+  "fullName" : "C120: Save a form structure as a new template for other structures.Should add some new field to some column.",
+  "historyId" : "49709e82f2deeee236ce2de3d4cafba2",
+  "time" : {
+    "start" : 1655476581678,
+    "stop" : 1655476587937,
+    "duration" : 6259
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-15"
+  }, {
+    "name" : "suite",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "testClass",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should add some new field to some column."
+  }, {
+    "name" : "package",
+    "value" : "C120: Save a form structure as a new template for other structures"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5701fc8128146186.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,1108 +1,16 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
-    "name" : "0-2",
-    "children" : [ {
-      "name" : "C20: Should search by working week: June 13, 2022",
-      "uid" : "458147904e310e7d",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473154379,
-        "stop" : 1655473189257,
-        "duration" : 34878
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C26: Should search with empty fields",
-      "uid" : "71e5301055f1f037",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473193119,
-        "stop" : 1655473194997,
-        "duration" : 1878
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C38: Should search with unexisting project name",
-      "uid" : "fb908e84b268cace",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473194997,
-        "stop" : 1655473222935,
-        "duration" : 27938
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C25: Should search for created projects by part of the name: testPr",
-      "uid" : "afc17da64f4a3f",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473191206,
-        "stop" : 1655473193119,
-        "duration" : 1913
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C23: Should search for created project: testProject1",
-      "uid" : "a1f7c7aa5d69097",
-      "parentUid" : "880a094af3dffab161e2023284569d6f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473189258,
-        "stop" : 1655473191206,
-        "duration" : 1948
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "880a094af3dffab161e2023284569d6f"
-  }, {
-    "name" : "0-3",
-    "children" : [ {
-      "name" : "Should verify that project without required field value cannot be created",
-      "uid" : "293dc7e7e942f822",
-      "parentUid" : "b755a79e149728f67460aea38b0710e0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473229320,
-        "stop" : 1655473262168,
-        "duration" : 32848
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that after value is added project successfully saved",
-      "uid" : "7a092c4a12c28ee8",
-      "parentUid" : "b755a79e149728f67460aea38b0710e0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473262168,
-        "stop" : 1655473283560,
-        "duration" : 21392
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "b755a79e149728f67460aea38b0710e0"
-  }, {
-    "name" : "0-29",
-    "children" : [ {
-      "name" : "Should verify that inputs are created in reserve form.",
-      "uid" : "c6348881c57c7d61",
-      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474574523,
-        "stop" : 1655474592853,
-        "duration" : 18330
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "c97c36f1852da58a",
-      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474534403,
-        "stop" : 1655474553470,
-        "duration" : 19067
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should add new inputs for created culumn.",
-      "uid" : "b8524b373be66611",
-      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474553470,
-        "stop" : 1655474574523,
-        "duration" : 21053
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "d41a7b423c3df87e724e8715b1e22270"
-  }, {
-    "name" : "0-34",
-    "children" : [ {
-      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
-      "uid" : "90dbb983b965faa",
-      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474687027,
-        "stop" : 1655474693762,
-        "duration" : 6735
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "11a191d45ebb163",
-      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474684381,
-        "stop" : 1655474687027,
-        "duration" : 2646
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters as you set for scheduling date.",
-      "uid" : "2873ce49b5508a10",
-      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474693762,
-        "stop" : 1655474704127,
-        "duration" : 10365
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "2c287c1efae0d989b49bfb311c53b98c"
-  }, {
-    "name" : "0-43",
-    "children" : [ {
-      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
-      "uid" : "5d43d14074edb6f4",
-      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474921960,
-        "stop" : 1655474928071,
-        "duration" : 6111
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters as you set for scheduling date.",
-      "uid" : "59ed63bb09dd6789",
-      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474928071,
-        "stop" : 1655474937703,
-        "duration" : 9632
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "c93323bad94fcb6e",
-      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474919412,
-        "stop" : 1655474921960,
-        "duration" : 2548
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "d472a143ee50000302c9121c3d9cfd00"
-  }, {
-    "name" : "0-23",
-    "children" : [ {
-      "name" : "Should check the project №1 - it isn't changed after applying the template.",
-      "uid" : "17ca9a330a990cd",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474280884,
-        "stop" : 1655474300407,
-        "duration" : 19523
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should check the project №2 - it isn't changed after applying the template.",
-      "uid" : "25828481e4e6a871",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474280464,
-        "stop" : 1655474280872,
-        "duration" : 408
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should create a project №2.",
-      "uid" : "89ef64b5f81162e4",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474246562,
-        "stop" : 1655474252984,
-        "duration" : 6422
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should delete the template.",
-      "uid" : "d3271b465fd6c216",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474272831,
-        "stop" : 1655474278200,
-        "duration" : 5369
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should check the project №2 - it isn't changed after applying the template.",
-      "uid" : "75758ef82d102cdd",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474272393,
-        "stop" : 1655474272831,
-        "duration" : 438
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should select the template from the drop-down menu and save it to a form structure.",
-      "uid" : "820779f746da6b40",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474235933,
-        "stop" : 1655474246090,
-        "duration" : 10157
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should check the form structure - it isn't changed after saving the template.",
-      "uid" : "bf48e4f5c071f070",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474265974,
-        "stop" : 1655474272393,
-        "duration" : 6419
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should edit and save the template.",
-      "uid" : "5151df7c4d0c983c",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474252984,
-        "stop" : 1655474265974,
-        "duration" : 12990
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should check the project №1 - it isn't changed after applying the template.",
-      "uid" : "89c4124a3a74f630",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474246091,
-        "stop" : 1655474246562,
-        "duration" : 471
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should do some changes to the project №1 and save it",
-      "uid" : "95f72dd7dac0346",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474229774,
-        "stop" : 1655474235933,
-        "duration" : 6159
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should create a form structure and save it to a new template.",
-      "uid" : "f116898e41c05440",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474184354,
-        "stop" : 1655474207476,
-        "duration" : 23122
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should check the form structure - it isn't changed after saving the template.",
-      "uid" : "3a82542f8909160a",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474278200,
-        "stop" : 1655474280464,
-        "duration" : 2264
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should change the form structure.",
-      "uid" : "3ebedd3ed3e22e07",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474207477,
-        "stop" : 1655474217856,
-        "duration" : 10379
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should create a project №1",
-      "uid" : "84142564232c1ce4",
-      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474217857,
-        "stop" : 1655474229774,
-        "duration" : 11917
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "1e2e238bb5a5e5cd2ee9931cec7126a0"
-  }, {
-    "name" : "0-27",
-    "children" : [ {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "8ef6c8ab2acddf18",
-      "parentUid" : "50abef795a34c66713af3fd7d677449c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474434357,
-        "stop" : 1655474452859,
-        "duration" : 18502
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that inputs are created in reserve form",
-      "uid" : "260095bf15121dd2",
-      "parentUid" : "50abef795a34c66713af3fd7d677449c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474459866,
-        "stop" : 1655474477182,
-        "duration" : 17316
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should add new input for created culumn.",
-      "uid" : "8e105090d53c7605",
-      "parentUid" : "50abef795a34c66713af3fd7d677449c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474452859,
-        "stop" : 1655474459865,
-        "duration" : 7006
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "50abef795a34c66713af3fd7d677449c"
-  }, {
-    "name" : "0-44",
-    "children" : [ {
-      "name" : "Should delete created configuration.",
-      "uid" : "69ea5884433e96c3",
-      "parentUid" : "38190674fb75ff6ac7709f4341813211",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474944419,
-        "stop" : 1655474958984,
-        "duration" : 14565
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters as you set for scheduling date and verify deleting.",
-      "uid" : "9871f3dca77fe68a",
-      "parentUid" : "38190674fb75ff6ac7709f4341813211",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474958984,
-        "stop" : 1655474959195,
-        "duration" : 211
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "38190674fb75ff6ac7709f4341813211"
-  }, {
-    "name" : "0-28",
-    "children" : [ {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "bdb46aa4f74d2db4",
-      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474484349,
-        "stop" : 1655474507127,
-        "duration" : 22778
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should delete created input from created column form structure",
-      "uid" : "f585b076621eb",
-      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474507128,
-        "stop" : 1655474511417,
-        "duration" : 4289
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "36dfc28cfb2d3dbc",
-      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474511418,
-        "stop" : 1655474527933,
-        "duration" : 16515
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "0768fa9a6cc135d970061a5642d46dca"
-  }, {
-    "name" : "0-5",
-    "children" : [ {
-      "name" : "Should edit existing project name to newTestProject1",
-      "uid" : "bb3d3a86a46b966a",
-      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473334338,
-        "stop" : 1655473375811,
-        "duration" : 41473
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "6ea253441b78cd38797e932a74777a9c"
-  }, {
-    "name" : "0-32",
-    "children" : [ {
-      "name" : "Should edit newly created configuration.",
-      "uid" : "e012b74f1383a85a",
-      "parentUid" : "42fc18f6143249188e0347ce9e8547eb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474624380,
-        "stop" : 1655474640874,
-        "duration" : 16494
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters for edited configuration and verify editing.",
-      "uid" : "cd06c6643d382565",
-      "parentUid" : "42fc18f6143249188e0347ce9e8547eb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474640875,
-        "stop" : 1655474650302,
-        "duration" : 9427
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "42fc18f6143249188e0347ce9e8547eb"
-  }, {
-    "name" : "0-15",
-    "children" : [ {
-      "name" : "Should save it as template.",
-      "uid" : "f37b2acf787f2625",
-      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473842708,
-        "stop" : 1655473851353,
-        "duration" : 8645
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should add some new field to some column.",
-      "uid" : "2375be9a02e13350",
-      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473835905,
-        "stop" : 1655473842708,
-        "duration" : 6803
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should select a project type and click the \"Edit\" icon rightward.",
-      "uid" : "359952cf600ba933",
-      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473833885,
-        "stop" : 1655473835905,
-        "duration" : 2020
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "9d885444b35a00a9",
-      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473829311,
-        "stop" : 1655473833885,
-        "duration" : 4574
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "a99e6a4687f48debbea9a8cf86e03725"
-  }, {
-    "name" : "0-19",
-    "children" : [ {
-      "name" : "Should verify that inputs are displayed in reservation form",
-      "uid" : "be33afa3a6e044a1",
-      "parentUid" : "34d2eb42e7104e81c7b36005b833c005",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474003356,
-        "stop" : 1655474025809,
-        "duration" : 22453
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should choose it for project and save.",
-      "uid" : "afc336661f945fab",
-      "parentUid" : "34d2eb42e7104e81c7b36005b833c005",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473974338,
-        "stop" : 1655474003356,
-        "duration" : 29018
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "34d2eb42e7104e81c7b36005b833c005"
-  }, {
-    "name" : "0-26",
-    "children" : [ {
-      "name" : "Should edit created input from form structure",
-      "uid" : "f6ce87d0e83b80ef",
-      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474408721,
-        "stop" : 1655474413529,
-        "duration" : 4808
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "90295bfb5144abd8",
-      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474389343,
-        "stop" : 1655474408720,
-        "duration" : 19377
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "1633ab31ab159b17",
-      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474413529,
-        "stop" : 1655474430074,
-        "duration" : 16545
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "1444a8339212d7f41c39933c3dec6484"
-  }, {
-    "name" : "0-24",
-    "children" : [ {
-      "name" : "Should verify that input displayed in reserve form.",
-      "uid" : "7041eda516adbd82",
-      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474322619,
-        "stop" : 1655474338718,
-        "duration" : 16099
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "4b34b13f41c8b2f2",
-      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474304352,
-        "stop" : 1655474315055,
-        "duration" : 10703
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should create input.",
-      "uid" : "c3165f81284c5f0e",
-      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474315056,
-        "stop" : 1655474322610,
-        "duration" : 7554
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "5ce6aacfeec39238de40f5a3a5403d16"
-  }, {
-    "name" : "0-20",
-    "children" : [ {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "1160bf113c35be86",
-      "parentUid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474029341,
-        "stop" : 1655474052394,
-        "duration" : 23053
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that template with existing name cannot be created.",
-      "uid" : "a8af0dd754f0663d",
-      "parentUid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474052395,
-        "stop" : 1655474078791,
-        "duration" : 26396
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb"
-  }, {
-    "name" : "0-30",
-    "children" : [ {
-      "name" : "Should verify that input without type cannot be created.",
-      "uid" : "9bb98915b239c4ef",
-      "parentUid" : "bbb3e27f9266fe3ea8174a8ecfd70225",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474604516,
-        "stop" : 1655474609261,
-        "duration" : 4745
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "3e5ab68409dd4a57",
-      "parentUid" : "bbb3e27f9266fe3ea8174a8ecfd70225",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474599410,
-        "stop" : 1655474604515,
-        "duration" : 5105
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "bbb3e27f9266fe3ea8174a8ecfd70225"
-  }, {
-    "name" : "0-25",
-    "children" : [ {
-      "name" : "Should verify that input is deleted in reserve form",
-      "uid" : "f8c615e11cdf3d18",
-      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474367490,
-        "stop" : 1655474383708,
-        "duration" : 16218
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "2989f56101d66dbe",
-      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474344357,
-        "stop" : 1655474363352,
-        "duration" : 18995
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should delete created input from form structure",
-      "uid" : "885161a8b2baf509",
-      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474363353,
-        "stop" : 1655474367490,
-        "duration" : 4137
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "15c96e0e298bd09111feecffe83410c6"
-  }, {
     "name" : "0-14",
     "children" : [ {
       "name" : "Should try to reserve project without project name.",
-      "uid" : "68a531205fe18879",
+      "uid" : "b37273c4c269b4d9",
       "parentUid" : "72d6e018f56cce899129c6853c270d8d",
       "status" : "passed",
       "time" : {
-        "start" : 1655473808573,
-        "stop" : 1655473825533,
-        "duration" : 16960
+        "start" : 1655476553497,
+        "stop" : 1655476569868,
+        "duration" : 16371
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1113,13 +21,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should try to reserve project without date.",
-      "uid" : "2f18418d836f697e",
+      "uid" : "faa9d945b52dee9a",
       "parentUid" : "72d6e018f56cce899129c6853c270d8d",
       "status" : "passed",
       "time" : {
-        "start" : 1655473789350,
-        "stop" : 1655473808573,
-        "duration" : 19223
+        "start" : 1655476535545,
+        "stop" : 1655476553496,
+        "duration" : 17951
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1131,16 +39,33 @@
     } ],
     "uid" : "72d6e018f56cce899129c6853c270d8d"
   }, {
-    "name" : "0-37",
+    "name" : "0-3",
     "children" : [ {
-      "name" : "Should verify that configuration added until the end of this year.",
-      "uid" : "6f1f78a451537bf1",
-      "parentUid" : "247bf427085a5d2aa5f492542b86e6ff",
+      "name" : "Should verify that after value is added project successfully saved",
+      "uid" : "d1885f0ef84b5852",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
       "status" : "passed",
       "time" : {
-        "start" : 1655474739396,
-        "stop" : 1655474757446,
-        "duration" : 18050
+        "start" : 1655476025566,
+        "stop" : 1655476047450,
+        "duration" : 21884
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that project without required field value cannot be created",
+      "uid" : "d060b7c6787fcb8d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475995522,
+        "stop" : 1655476025566,
+        "duration" : 30044
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1150,18 +75,86 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "247bf427085a5d2aa5f492542b86e6ff"
+    "uid" : "b755a79e149728f67460aea38b0710e0"
   }, {
-    "name" : "0-6",
+    "name" : "0-1",
     "children" : [ {
-      "name" : "Should verify that can't move project testProject1 to date without empty slots",
-      "uid" : "bb10fdbb9a863225",
-      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "name" : "C5: Login with invalid password at Staging server.",
+      "uid" : "61fc487cf355c773",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1655473379290,
-        "stop" : 1655473441238,
-        "duration" : 61948
+        "start" : 1655475914151,
+        "stop" : 1655475916278,
+        "duration" : 2127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C4: Login without any credentials.",
+      "uid" : "d4217df54e11381e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475913534,
+        "stop" : 1655475914151,
+        "duration" : 617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C3: Login as \"Scheduler\" role with valid credentials.",
+      "uid" : "1e9e7821627fc8c3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475910544,
+        "stop" : 1655475913533,
+        "duration" : 2989
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C6: Login with invalid short password at Staging server.",
+      "uid" : "8e65557b20301b4e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475916278,
+        "stop" : 1655475918655,
+        "duration" : 2377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C12: Login as \"Sales Manager\" role with valid credentials.",
+      "uid" : "910aa672368d5859",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475918655,
+        "stop" : 1655475920496,
+        "duration" : 1841
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1171,18 +164,52 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "6d5170ae525a2fb0dfa4066ed7bef924"
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
   }, {
-    "name" : "0-17",
+    "name" : "0-26",
     "children" : [ {
-      "name" : "Should delete created template.",
-      "uid" : "c1bbfac1292c7c69",
-      "parentUid" : "755412520b2351a00766109f74fd20c9",
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "f6ca24e538ed014b",
+      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
       "status" : "passed",
       "time" : {
-        "start" : 1655473874323,
-        "stop" : 1655473897066,
-        "duration" : 22743
+        "start" : 1655477105621,
+        "stop" : 1655477123400,
+        "duration" : 17779
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should edit created input from form structure",
+      "uid" : "d654294d04bde577",
+      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
+      "status" : "broken",
+      "time" : {
+        "start" : 1655477123400,
+        "stop" : 1655477145778,
+        "duration" : 22378
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that input is deleted in reserve form",
+      "uid" : "78c7e0e7bf8f92f",
+      "parentUid" : "1444a8339212d7f41c39933c3dec6484",
+      "status" : "broken",
+      "time" : {
+        "start" : 1655477145779,
+        "stop" : 1655477174840,
+        "duration" : 29061
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1192,18 +219,239 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "755412520b2351a00766109f74fd20c9"
+    "uid" : "1444a8339212d7f41c39933c3dec6484"
   }, {
-    "name" : "0-12",
+    "name" : "0-23",
     "children" : [ {
-      "name" : "Should verify that \"Sales Manager\" can't delete created project testProject1",
-      "uid" : "2ed4f53665cb8b9b",
-      "parentUid" : "3c0b453c84aea96f308f0a9e6f2874a1",
+      "name" : "Should create a form structure and save it to a new template.",
+      "uid" : "e15f5927f88cd119",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
       "status" : "passed",
       "time" : {
-        "start" : 1655473689299,
-        "stop" : 1655473733341,
-        "duration" : 44042
+        "start" : 1655476910573,
+        "stop" : 1655476932509,
+        "duration" : 21936
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should create a project №1",
+      "uid" : "77e8b07e69f13c74",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476942164,
+        "stop" : 1655476953005,
+        "duration" : 10841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should do some changes to the project №1 and save it",
+      "uid" : "861ed3b9940f99c2",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476953005,
+        "stop" : 1655476958559,
+        "duration" : 5554
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should change the form structure.",
+      "uid" : "758148fa33de670b",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476932510,
+        "stop" : 1655476942164,
+        "duration" : 9654
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the project №2 - it isn't changed after applying the template.",
+      "uid" : "f9e909ead3c010af",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477000465,
+        "stop" : 1655477000773,
+        "duration" : 308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the form structure - it isn't changed after saving the template.",
+      "uid" : "96adcdf7f6176e13",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476998142,
+        "stop" : 1655477000465,
+        "duration" : 2323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should create a project №2.",
+      "uid" : "c9ffeea00b30f840",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476968570,
+        "stop" : 1655476974400,
+        "duration" : 5830
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should edit and save the template.",
+      "uid" : "ede46e958a75a878",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476974400,
+        "stop" : 1655476986468,
+        "duration" : 12068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the project №2 - it isn't changed after applying the template.",
+      "uid" : "e9ea299c4c651640",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476992708,
+        "stop" : 1655476993050,
+        "duration" : 342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the project №1 - it isn't changed after applying the template.",
+      "uid" : "90cd89d97cdfbe25",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476968156,
+        "stop" : 1655476968570,
+        "duration" : 414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should delete the template.",
+      "uid" : "cbc282ea016baef0",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476993051,
+        "stop" : 1655476998142,
+        "duration" : 5091
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the project №1 - it isn't changed after applying the template.",
+      "uid" : "90b27d3b82922ab8",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477000774,
+        "stop" : 1655477021109,
+        "duration" : 20335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should select the template from the drop-down menu and save it to a form structure.",
+      "uid" : "8a8ce207de2305d",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476958559,
+        "stop" : 1655476968155,
+        "duration" : 9596
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should check the form structure - it isn't changed after saving the template.",
+      "uid" : "ae0649950821a9d8",
+      "parentUid" : "1e2e238bb5a5e5cd2ee9931cec7126a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476986475,
+        "stop" : 1655476992708,
+        "duration" : 6233
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1213,18 +461,986 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "3c0b453c84aea96f308f0a9e6f2874a1"
+    "uid" : "1e2e238bb5a5e5cd2ee9931cec7126a0"
+  }, {
+    "name" : "0-11",
+    "children" : [ {
+      "name" : "Should delete created project testProject1",
+      "uid" : "e1e780ba9173c4e7",
+      "parentUid" : "5628020176bea062b297e8cab1a084d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476405539,
+        "stop" : 1655476442821,
+        "duration" : 37282
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "5628020176bea062b297e8cab1a084d9"
+  }, {
+    "name" : "0-31",
+    "children" : [ {
+      "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
+      "uid" : "da5743a90a013ab5",
+      "parentUid" : "b75f2cc197cee518dd4f56aaf3fde8d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477347910,
+        "stop" : 1655477352055,
+        "duration" : 4145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "5bcbd068e22e9136",
+      "parentUid" : "b75f2cc197cee518dd4f56aaf3fde8d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477345652,
+        "stop" : 1655477347910,
+        "duration" : 2258
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "b75f2cc197cee518dd4f56aaf3fde8d3"
+  }, {
+    "name" : "0-21",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "cf1e9bcc1ebbab97",
+      "parentUid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476815562,
+        "stop" : 1655476837355,
+        "duration" : 21793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should apply edited template for project type.",
+      "uid" : "1c1aedf25a760c33",
+      "parentUid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476837355,
+        "stop" : 1655476862751,
+        "duration" : 25396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb"
+  }, {
+    "name" : "0-9",
+    "children" : [ {
+      "name" : "Should edit created project testProject1",
+      "uid" : "cbc2af9afd3469a1",
+      "parentUid" : "8b1de0b1b289dc8ec55a123ec93534fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476305516,
+        "stop" : 1655476350911,
+        "duration" : 45395
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "8b1de0b1b289dc8ec55a123ec93534fc"
+  }, {
+    "name" : "0-43",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "80b469fbc89b0036",
+      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477635663,
+        "stop" : 1655477637899,
+        "duration" : 2236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should set filters as you set for scheduling date.",
+      "uid" : "a2b7abc3e935f2c3",
+      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477643944,
+        "stop" : 1655477653685,
+        "duration" : 9741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+      "uid" : "b897c12e6bd52b70",
+      "parentUid" : "d472a143ee50000302c9121c3d9cfd00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477637899,
+        "stop" : 1655477643944,
+        "duration" : 6045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "d472a143ee50000302c9121c3d9cfd00"
+  }, {
+    "name" : "0-22",
+    "children" : [ {
+      "name" : "Should verify that created required field is displayed in form structure.",
+      "uid" : "26be0ba5b1a1e960",
+      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476889609,
+        "stop" : 1655476905630,
+        "duration" : 16021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "a1a0a771d2f74b8b",
+      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476865576,
+        "stop" : 1655476882843,
+        "duration" : 17267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should add new required input for created culumn.",
+      "uid" : "eaf05e0ef5fd3ec5",
+      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476882844,
+        "stop" : 1655476889608,
+        "duration" : 6764
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "7fa50808ba10bbd587b9cafb1279827b"
+  }, {
+    "name" : "0-25",
+    "children" : [ {
+      "name" : "Should delete created input from form structure",
+      "uid" : "df887b81227526b8",
+      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477082806,
+        "stop" : 1655477086731,
+        "duration" : 3925
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "f3d272dfa4a3ff98",
+      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477065621,
+        "stop" : 1655477082806,
+        "duration" : 17185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that input is deleted in reserve form",
+      "uid" : "9f6ea928727a9f48",
+      "parentUid" : "15c96e0e298bd09111feecffe83410c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477086731,
+        "stop" : 1655477103011,
+        "duration" : 16280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "15c96e0e298bd09111feecffe83410c6"
+  }, {
+    "name" : "0-38",
+    "children" : [ {
+      "name" : "Should try to add new configuration with two areas same names.",
+      "uid" : "161cea152b8a5fd6",
+      "parentUid" : "9b6ae3c9dc15ef68841cd577c58bbc45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477493044,
+        "stop" : 1655477500643,
+        "duration" : 7599
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "fa887816dce42936",
+      "parentUid" : "9b6ae3c9dc15ef68841cd577c58bbc45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477490673,
+        "stop" : 1655477493044,
+        "duration" : 2371
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "9b6ae3c9dc15ef68841cd577c58bbc45"
+  }, {
+    "name" : "0-29",
+    "children" : [ {
+      "name" : "Should add new inputs for created culumn.",
+      "uid" : "eb4f53a52587a13f",
+      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477288441,
+        "stop" : 1655477308130,
+        "duration" : 19689
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that inputs are created in reserve form.",
+      "uid" : "730c0662754bd5c0",
+      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477308131,
+        "stop" : 1655477326302,
+        "duration" : 18171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "f463e86ae8283967",
+      "parentUid" : "d41a7b423c3df87e724e8715b1e22270",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477270642,
+        "stop" : 1655477288440,
+        "duration" : 17798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "d41a7b423c3df87e724e8715b1e22270"
+  }, {
+    "name" : "0-41",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "21dfccde7dfdaf4c",
+      "parentUid" : "6c363626d09465a33e872f241fd13131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477575663,
+        "stop" : 1655477578089,
+        "duration" : 2426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+      "uid" : "6bfa1dd2aa5f4024",
+      "parentUid" : "6c363626d09465a33e872f241fd13131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477578089,
+        "stop" : 1655477583404,
+        "duration" : 5315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that configurations for subsequent year is displayed.",
+      "uid" : "488593bb7c56cdf9",
+      "parentUid" : "6c363626d09465a33e872f241fd13131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477583405,
+        "stop" : 1655477593456,
+        "duration" : 10051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "6c363626d09465a33e872f241fd13131"
+  }, {
+    "name" : "0-36",
+    "children" : [ {
+      "name" : "Should verify that \"Sales Manager\" can't add configuration.",
+      "uid" : "62eb43dd79794b6e",
+      "parentUid" : "4aa28b65183985425ba6211bd62dec44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477452872,
+        "stop" : 1655477460444,
+        "duration" : 7572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "4d75fc9e2bdf0639",
+      "parentUid" : "4aa28b65183985425ba6211bd62dec44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477450665,
+        "stop" : 1655477452871,
+        "duration" : 2206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "4aa28b65183985425ba6211bd62dec44"
+  }, {
+    "name" : "0-40",
+    "children" : [ {
+      "name" : "Should set filters for edited configuration and verify editing.",
+      "uid" : "3f81592b11d20f3c",
+      "parentUid" : "4c4637066c772843c0fa981efa9a9d6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477561171,
+        "stop" : 1655477570857,
+        "duration" : 9686
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should edit newly created configuration and delete one area.",
+      "uid" : "b921c13319302b59",
+      "parentUid" : "4c4637066c772843c0fa981efa9a9d6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477540670,
+        "stop" : 1655477561171,
+        "duration" : 20501
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "4c4637066c772843c0fa981efa9a9d6d"
+  }, {
+    "name" : "0-34",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "969307a91ec6c60f",
+      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477415650,
+        "stop" : 1655477417904,
+        "duration" : 2254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should set filters as you set for scheduling date.",
+      "uid" : "80da1e4cd511fcdf",
+      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477424044,
+        "stop" : 1655477433973,
+        "duration" : 9929
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
+      "uid" : "60b982380a497ac",
+      "parentUid" : "2c287c1efae0d989b49bfb311c53b98c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477417905,
+        "stop" : 1655477424043,
+        "duration" : 6138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "2c287c1efae0d989b49bfb311c53b98c"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "C21: Should verify that created configuration is displayed after filtering by its country.",
+      "uid" : "f11c7f9f90958c03",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475831414,
+        "stop" : 1655475871781,
+        "duration" : 40367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C22: Should verify that only projects with chosen type are displayed.",
+      "uid" : "6add8d7b8b5c4b3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475871782,
+        "stop" : 1655475906005,
+        "duration" : 34223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-28",
+    "children" : [ {
+      "name" : "Should verify that input is deleted in reserve form",
+      "uid" : "c2f5d6a1d1da5c1f",
+      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477249404,
+        "stop" : 1655477266313,
+        "duration" : 16909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "b9a5f404e3b36bed",
+      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477225638,
+        "stop" : 1655477245410,
+        "duration" : 19772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should delete created input from created column form structure",
+      "uid" : "44676347f41e0889",
+      "parentUid" : "0768fa9a6cc135d970061a5642d46dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477245411,
+        "stop" : 1655477249404,
+        "duration" : 3993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "0768fa9a6cc135d970061a5642d46dca"
+  }, {
+    "name" : "0-39",
+    "children" : [ {
+      "name" : "Should set filters for edited configuration and verify deleting of area.",
+      "uid" : "abdcfffbec7fdf7d",
+      "parentUid" : "14590f4bdd0c88eff6c2dfe07b9ebd95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477525257,
+        "stop" : 1655477536058,
+        "duration" : 10801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should edit newly created configuration and delete one area.",
+      "uid" : "ec1fc130274737c4",
+      "parentUid" : "14590f4bdd0c88eff6c2dfe07b9ebd95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477505652,
+        "stop" : 1655477525257,
+        "duration" : 19605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "14590f4bdd0c88eff6c2dfe07b9ebd95"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "C25: Should search for created projects by part of the name: testPr",
+      "uid" : "8f14bb6dfc1dc1d7",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475959700,
+        "stop" : 1655475961381,
+        "duration" : 1681
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C38: Should search with unexisting project name",
+      "uid" : "f3aa68064bbfbfc",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475963573,
+        "stop" : 1655475989897,
+        "duration" : 26324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C26: Should search with empty fields",
+      "uid" : "86dfd845fd9b0a68",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475961381,
+        "stop" : 1655475963572,
+        "duration" : 2191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C20: Should search by working week: June 13, 2022",
+      "uid" : "d69b2d535bac125a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475925499,
+        "stop" : 1655475958052,
+        "duration" : 32553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "C23: Should search for created project: testProject1",
+      "uid" : "40aa1247653a3b09",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655475958052,
+        "stop" : 1655475959699,
+        "duration" : 1647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "0-30",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "b224f7f12bf18f8e",
+      "parentUid" : "bbb3e27f9266fe3ea8174a8ecfd70225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477330653,
+        "stop" : 1655477335038,
+        "duration" : 4385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that input without type cannot be created.",
+      "uid" : "39cd9bc7026228d3",
+      "parentUid" : "bbb3e27f9266fe3ea8174a8ecfd70225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477335038,
+        "stop" : 1655477339387,
+        "duration" : 4349
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "bbb3e27f9266fe3ea8174a8ecfd70225"
+  }, {
+    "name" : "0-35",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "2fd08add256305b0",
+      "parentUid" : "780096bc4e3e88b19a40e4f5af49684b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477440662,
+        "stop" : 1655477442880,
+        "duration" : 2218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should try to add configuration with empty area name field.",
+      "uid" : "2dfe2ca591d4cbfe",
+      "parentUid" : "780096bc4e3e88b19a40e4f5af49684b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477442881,
+        "stop" : 1655477448417,
+        "duration" : 5536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "780096bc4e3e88b19a40e4f5af49684b"
+  }, {
+    "name" : "0-27",
+    "children" : [ {
+      "name" : "Should click the \"Update Form Structure\" button.",
+      "uid" : "962550da8aa7fae9",
+      "parentUid" : "50abef795a34c66713af3fd7d677449c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477180640,
+        "stop" : 1655477198044,
+        "duration" : 17404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should add new input for created culumn.",
+      "uid" : "c0defa9fd514274a",
+      "parentUid" : "50abef795a34c66713af3fd7d677449c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477198044,
+        "stop" : 1655477204623,
+        "duration" : 6579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that inputs are created in reserve form",
+      "uid" : "a0fdd665ef849906",
+      "parentUid" : "50abef795a34c66713af3fd7d677449c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477204624,
+        "stop" : 1655477222446,
+        "duration" : 17822
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "50abef795a34c66713af3fd7d677449c"
+  }, {
+    "name" : "0-24",
+    "children" : [ {
+      "name" : "Should create input.",
+      "uid" : "b5c422d15e9d4812",
+      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477035933,
+        "stop" : 1655477043376,
+        "duration" : 7443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "7eb38c44f6b82f25",
+      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477025623,
+        "stop" : 1655477035933,
+        "duration" : 10310
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should verify that input displayed in reserve form.",
+      "uid" : "f7e6dba7db149def",
+      "parentUid" : "5ce6aacfeec39238de40f5a3a5403d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477043377,
+        "stop" : 1655477060476,
+        "duration" : 17099
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "5ce6aacfeec39238de40f5a3a5403d16"
   }, {
     "name" : "0-7",
     "children" : [ {
       "name" : "Should verify that can't move project testProject1 to date without empty slots",
-      "uid" : "59202f5b4d88a12a",
+      "uid" : "8248083c598dd100",
       "parentUid" : "21aceb05e3618121b78af6a48c646d54",
       "status" : "passed",
       "time" : {
-        "start" : 1655473444314,
-        "stop" : 1655473502997,
-        "duration" : 58683
+        "start" : 1655476200518,
+        "stop" : 1655476258631,
+        "duration" : 58113
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1239,13 +1455,13 @@
     "name" : "0-33",
     "children" : [ {
       "name" : "Should verify that date is displayed only in the \"Project type\" that you set for the scheduling date.",
-      "uid" : "d9157b42f174b0cf",
+      "uid" : "ced73858417ac6d8",
       "parentUid" : "f0a7011067314813e3a0696081b752f6",
       "status" : "passed",
       "time" : {
-        "start" : 1655474654411,
-        "stop" : 1655474679052,
-        "duration" : 24641
+        "start" : 1655477385654,
+        "stop" : 1655477410171,
+        "duration" : 24517
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1257,16 +1473,16 @@
     } ],
     "uid" : "f0a7011067314813e3a0696081b752f6"
   }, {
-    "name" : "0-4",
+    "name" : "0-5",
     "children" : [ {
-      "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
-      "uid" : "c5560af0c4fdf416",
-      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "name" : "Should edit existing project name to newTestProject1",
+      "uid" : "bc9acd0b4681b6b1",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
       "status" : "passed",
       "time" : {
-        "start" : 1655473289282,
-        "stop" : 1655473329046,
-        "duration" : 39764
+        "start" : 1655476090518,
+        "stop" : 1655476129104,
+        "duration" : 38586
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1276,504 +1492,18 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
-  }, {
-    "name" : "0-22",
-    "children" : [ {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "5b216516963e7916",
-      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474139353,
-        "stop" : 1655474157706,
-        "duration" : 18353
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that created required field is displayed in form structure.",
-      "uid" : "6c4717cf1860b8d3",
-      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474164999,
-        "stop" : 1655474181585,
-        "duration" : 16586
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should add new required input for created culumn.",
-      "uid" : "4e8897a0ce7c9f8",
-      "parentUid" : "7fa50808ba10bbd587b9cafb1279827b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474157707,
-        "stop" : 1655474164998,
-        "duration" : 7291
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "7fa50808ba10bbd587b9cafb1279827b"
-  }, {
-    "name" : "0-10",
-    "children" : [ {
-      "name" : "Should edit created project testProject1",
-      "uid" : "58d3e7e207b9d465",
-      "parentUid" : "3f2dd9e80d7805015ea425d74386154b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473599292,
-        "stop" : 1655473644374,
-        "duration" : 45082
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "3f2dd9e80d7805015ea425d74386154b"
-  }, {
-    "name" : "0-41",
-    "children" : [ {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "3c8534817798f747",
-      "parentUid" : "6c363626d09465a33e872f241fd13131",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474849392,
-        "stop" : 1655474852478,
-        "duration" : 3086
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that configurations for subsequent year is displayed.",
-      "uid" : "f1d94b886f5060d8",
-      "parentUid" : "6c363626d09465a33e872f241fd13131",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474858885,
-        "stop" : 1655474868537,
-        "duration" : 9652
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should select \"Country\", \"Project type\" and \"Region\" from ddl, set date, area name and click \"Save\" btn.",
-      "uid" : "ec909ad1f79ddc32",
-      "parentUid" : "6c363626d09465a33e872f241fd13131",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474852478,
-        "stop" : 1655474858884,
-        "duration" : 6406
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "6c363626d09465a33e872f241fd13131"
-  }, {
-    "name" : "0-40",
-    "children" : [ {
-      "name" : "Should edit newly created configuration and delete one area.",
-      "uid" : "ba605a0173dc989f",
-      "parentUid" : "4c4637066c772843c0fa981efa9a9d6d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474814415,
-        "stop" : 1655474836246,
-        "duration" : 21831
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters for edited configuration and verify editing.",
-      "uid" : "8fb534246f9573ee",
-      "parentUid" : "4c4637066c772843c0fa981efa9a9d6d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474836246,
-        "stop" : 1655474846146,
-        "duration" : 9900
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "4c4637066c772843c0fa981efa9a9d6d"
-  }, {
-    "name" : "0-8",
-    "children" : [ {
-      "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
-      "uid" : "f67c5bc3d332d6be",
-      "parentUid" : "81b982ad9e44014ef58d70945daa9dd8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473509306,
-        "stop" : 1655473545271,
-        "duration" : 35965
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "81b982ad9e44014ef58d70945daa9dd8"
-  }, {
-    "name" : "0-0",
-    "children" : [ {
-      "name" : "C21: Should verify that created configuration is displayed after filtering by its country.",
-      "uid" : "8820f068c00c70cb",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473055469,
-        "stop" : 1655473097171,
-        "duration" : 41702
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C22: Should verify that only projects with chosen type are displayed.",
-      "uid" : "fec462ecb6a5889f",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473097194,
-        "stop" : 1655473132332,
-        "duration" : 35138
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "516fe00eea05ad99e936fa729b55eff4"
-  }, {
-    "name" : "0-36",
-    "children" : [ {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "ef16961f3d83cef0",
-      "parentUid" : "4aa28b65183985425ba6211bd62dec44",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474724395,
-        "stop" : 1655474727071,
-        "duration" : 2676
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that \"Sales Manager\" can't add configuration.",
-      "uid" : "880bf373bbc680f3",
-      "parentUid" : "4aa28b65183985425ba6211bd62dec44",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474727072,
-        "stop" : 1655474735031,
-        "duration" : 7959
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "4aa28b65183985425ba6211bd62dec44"
-  }, {
-    "name" : "0-18",
-    "children" : [ {
-      "name" : "Should apply edited template for project type.",
-      "uid" : "d3b2a77dea836a4",
-      "parentUid" : "9b6fce0703105effa30684446694b52a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473939185,
-        "stop" : 1655473944040,
-        "duration" : 4855
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should add new inputs for existing template.",
-      "uid" : "e101913e4d02e786",
-      "parentUid" : "9b6fce0703105effa30684446694b52a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473904305,
-        "stop" : 1655473939184,
-        "duration" : 34879
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that inputs are displayed in reservation form.",
-      "uid" : "4d7947d5d54f1227",
-      "parentUid" : "9b6fce0703105effa30684446694b52a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473944041,
-        "stop" : 1655473967037,
-        "duration" : 22996
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "9b6fce0703105effa30684446694b52a"
-  }, {
-    "name" : "0-39",
-    "children" : [ {
-      "name" : "Should edit newly created configuration and delete one area.",
-      "uid" : "f803a23a5c1e2848",
-      "parentUid" : "14590f4bdd0c88eff6c2dfe07b9ebd95",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474779393,
-        "stop" : 1655474801524,
-        "duration" : 22131
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should set filters for edited configuration and verify deleting of area.",
-      "uid" : "58bcb818ef1fe1fc",
-      "parentUid" : "14590f4bdd0c88eff6c2dfe07b9ebd95",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474801525,
-        "stop" : 1655474811232,
-        "duration" : 9707
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "14590f4bdd0c88eff6c2dfe07b9ebd95"
-  }, {
-    "name" : "0-1",
-    "children" : [ {
-      "name" : "C12: Login as \"Sales Manager\" role with valid credentials.",
-      "uid" : "b742963ffe072a41",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473147845,
-        "stop" : 1655473149896,
-        "duration" : 2051
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C3: Login as \"Scheduler\" role with valid credentials.",
-      "uid" : "2e31fd3464e00c0e",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473139305,
-        "stop" : 1655473142376,
-        "duration" : 3071
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C5: Login with invalid password at Staging server.",
-      "uid" : "1c520bd9bc872b41",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473143035,
-        "stop" : 1655473145287,
-        "duration" : 2252
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C4: Login without any credentials.",
-      "uid" : "5b9b0919a4ac520",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473142377,
-        "stop" : 1655473143034,
-        "duration" : 657
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "C6: Login with invalid short password at Staging server.",
-      "uid" : "527cd92693c434bf",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473145288,
-        "stop" : 1655473147844,
-        "duration" : 2556
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "27fa874cadc1574e37a07abb440963bd"
-  }, {
-    "name" : "0-31",
-    "children" : [ {
-      "name" : "Should click the \"Update Form Structure\" button.",
-      "uid" : "217bdc1f04fb857",
-      "parentUid" : "b75f2cc197cee518dd4f56aaf3fde8d3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474614391,
-        "stop" : 1655474617011,
-        "duration" : 2620
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    }, {
-      "name" : "Should verify that \"Edit Icon\" button is not displayed for every \"Project type\"",
-      "uid" : "37e0616bd4cf3090",
-      "parentUid" : "b75f2cc197cee518dd4f56aaf3fde8d3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474617011,
-        "stop" : 1655474621358,
-        "duration" : 4347
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "b75f2cc197cee518dd4f56aaf3fde8d3"
+    "uid" : "6ea253441b78cd38797e932a74777a9c"
   }, {
     "name" : "0-13",
     "children" : [ {
       "name" : "Should edit existing project name to newTestProject1",
-      "uid" : "87dc38fa1d5f2d2a",
+      "uid" : "85b37be373fb87ed",
       "parentUid" : "3d700e6329f57664ec73623f4f9693da",
       "status" : "passed",
       "time" : {
-        "start" : 1655473739333,
-        "stop" : 1655473782583,
-        "duration" : 43250
+        "start" : 1655476490539,
+        "stop" : 1655476530527,
+        "duration" : 39988
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1788,13 +1518,13 @@
     "name" : "0-16",
     "children" : [ {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "b4d6ccd8bd728b5c",
+      "uid" : "d66f99f98a31f300",
       "parentUid" : "9ea9d2b3bcba7d76a4db8e60423ca35b",
       "status" : "passed",
       "time" : {
-        "start" : 1655473854309,
-        "stop" : 1655473859483,
-        "duration" : 5174
+        "start" : 1655476600548,
+        "stop" : 1655476604831,
+        "duration" : 4283
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1805,13 +1535,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should select a project type and click the \"Edit\" icon rightward.",
-      "uid" : "9f7473ee2f5d5e0e",
+      "uid" : "8ccf6262d5d1011b",
       "parentUid" : "9ea9d2b3bcba7d76a4db8e60423ca35b",
       "status" : "passed",
       "time" : {
-        "start" : 1655473859484,
-        "stop" : 1655473861538,
-        "duration" : 2054
+        "start" : 1655476604831,
+        "stop" : 1655476606732,
+        "duration" : 1901
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1822,13 +1552,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should verify that template without name can't be created.",
-      "uid" : "77fd247452727687",
+      "uid" : "5893f100477cdaab",
       "parentUid" : "9ea9d2b3bcba7d76a4db8e60423ca35b",
       "status" : "passed",
       "time" : {
-        "start" : 1655473861539,
-        "stop" : 1655473870250,
-        "duration" : 8711
+        "start" : 1655476606732,
+        "stop" : 1655476615270,
+        "duration" : 8538
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1840,16 +1570,16 @@
     } ],
     "uid" : "9ea9d2b3bcba7d76a4db8e60423ca35b"
   }, {
-    "name" : "0-21",
+    "name" : "0-19",
     "children" : [ {
-      "name" : "Should apply edited template for project type.",
-      "uid" : "bae043d0ad13b46e",
-      "parentUid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb",
+      "name" : "Should choose it for project and save.",
+      "uid" : "49b50683c3ca1f2",
+      "parentUid" : "34d2eb42e7104e81c7b36005b833c005",
       "status" : "passed",
       "time" : {
-        "start" : 1655474107981,
-        "stop" : 1655474134587,
-        "duration" : 26606
+        "start" : 1655476710562,
+        "stop" : 1655476738416,
+        "duration" : 27854
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1859,14 +1589,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "574360fddcdc59d5",
-      "parentUid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb",
+      "name" : "Should verify that inputs are displayed in reservation form",
+      "uid" : "a7febafb14749e55",
+      "parentUid" : "34d2eb42e7104e81c7b36005b833c005",
       "status" : "passed",
       "time" : {
-        "start" : 1655474084336,
-        "stop" : 1655474107980,
-        "duration" : 23644
+        "start" : 1655476738417,
+        "stop" : 1655476759997,
+        "duration" : 21580
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1876,18 +1606,18 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "2fc8203ddd806c9ba3a4c239c0b4fbeb"
+    "uid" : "34d2eb42e7104e81c7b36005b833c005"
   }, {
-    "name" : "0-38",
+    "name" : "0-32",
     "children" : [ {
-      "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "3fcb140519f379d1",
-      "parentUid" : "9b6ae3c9dc15ef68841cd577c58bbc45",
+      "name" : "Should edit newly created configuration.",
+      "uid" : "40dbd29fe347104c",
+      "parentUid" : "42fc18f6143249188e0347ce9e8547eb",
       "status" : "passed",
       "time" : {
-        "start" : 1655474764389,
-        "stop" : 1655474766902,
-        "duration" : 2513
+        "start" : 1655477355649,
+        "stop" : 1655477371099,
+        "duration" : 15450
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1897,14 +1627,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
-      "name" : "Should try to add new configuration with two areas same names.",
-      "uid" : "cebe547925212daa",
-      "parentUid" : "9b6ae3c9dc15ef68841cd577c58bbc45",
+      "name" : "Should set filters for edited configuration and verify editing.",
+      "uid" : "fa47886d90bae9ed",
+      "parentUid" : "42fc18f6143249188e0347ce9e8547eb",
       "status" : "passed",
       "time" : {
-        "start" : 1655474766902,
-        "stop" : 1655474774726,
-        "duration" : 7824
+        "start" : 1655477371099,
+        "stop" : 1655477381189,
+        "duration" : 10090
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1914,18 +1644,111 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "9b6ae3c9dc15ef68841cd577c58bbc45"
+    "uid" : "42fc18f6143249188e0347ce9e8547eb"
+  }, {
+    "name" : "0-8",
+    "children" : [ {
+      "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
+      "uid" : "d20269632b5d6491",
+      "parentUid" : "81b982ad9e44014ef58d70945daa9dd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476265524,
+        "stop" : 1655476300821,
+        "duration" : 35297
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "81b982ad9e44014ef58d70945daa9dd8"
+  }, {
+    "name" : "0-15",
+    "children" : [ {
+      "name" : "Should click the \"Update Schedule\" button.",
+      "uid" : "b663a09992bd1058",
+      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476575539,
+        "stop" : 1655476579766,
+        "duration" : 4227
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should save it as template.",
+      "uid" : "d2ebe079b9b8db5f",
+      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476587937,
+        "stop" : 1655476596126,
+        "duration" : 8189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should add some new field to some column.",
+      "uid" : "5701fc8128146186",
+      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476581678,
+        "stop" : 1655476587937,
+        "duration" : 6259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should select a project type and click the \"Edit\" icon rightward.",
+      "uid" : "adaa4aef9f2656e3",
+      "parentUid" : "a99e6a4687f48debbea9a8cf86e03725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476579766,
+        "stop" : 1655476581678,
+        "duration" : 1912
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "a99e6a4687f48debbea9a8cf86e03725"
   }, {
     "name" : "0-42",
     "children" : [ {
       "name" : "Should verify that configuration can't be deleted with reserved project.",
-      "uid" : "f326d2e25d53800f",
+      "uid" : "c927c75372cc74fa",
       "parentUid" : "a0fd68e13928ed381647d2e57626a67a",
       "status" : "passed",
       "time" : {
-        "start" : 1655474874408,
-        "stop" : 1655474914432,
-        "duration" : 40024
+        "start" : 1655477595656,
+        "stop" : 1655477631848,
+        "duration" : 36192
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1937,58 +1760,16 @@
     } ],
     "uid" : "a0fd68e13928ed381647d2e57626a67a"
   }, {
-    "name" : "0-9",
+    "name" : "0-20",
     "children" : [ {
-      "name" : "Should edit created project testProject1",
-      "uid" : "6c7a4bbc767cd311",
-      "parentUid" : "8b1de0b1b289dc8ec55a123ec93534fc",
+      "name" : "Should verify that template with existing name cannot be created.",
+      "uid" : "6d18685c5964a95a",
+      "parentUid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb",
       "status" : "passed",
       "time" : {
-        "start" : 1655473549298,
-        "stop" : 1655473596394,
-        "duration" : 47096
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "8b1de0b1b289dc8ec55a123ec93534fc"
-  }, {
-    "name" : "0-11",
-    "children" : [ {
-      "name" : "Should delete created project testProject1",
-      "uid" : "ad799482aade1d2e",
-      "parentUid" : "5628020176bea062b297e8cab1a084d9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655473649313,
-        "stop" : 1655473686497,
-        "duration" : 37184
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.115" ]
-    } ],
-    "uid" : "5628020176bea062b297e8cab1a084d9"
-  }, {
-    "name" : "0-35",
-    "children" : [ {
-      "name" : "Should try to add configuration with empty area name field.",
-      "uid" : "b25a8bbb954b1ec",
-      "parentUid" : "780096bc4e3e88b19a40e4f5af49684b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1655474712108,
-        "stop" : 1655474717876,
-        "duration" : 5768
+        "start" : 1655476786765,
+        "stop" : 1655476811554,
+        "duration" : 24789
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1999,13 +1780,13 @@
       "parameters" : [ "chrome-102.0.5005.115" ]
     }, {
       "name" : "Should click the \"Update Schedule\" button.",
-      "uid" : "159defa73a869e66",
-      "parentUid" : "780096bc4e3e88b19a40e4f5af49684b",
+      "uid" : "dc3fb695b7f0e5b8",
+      "parentUid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb",
       "status" : "passed",
       "time" : {
-        "start" : 1655474709451,
-        "stop" : 1655474712108,
-        "duration" : 2657
+        "start" : 1655476765543,
+        "stop" : 1655476786765,
+        "duration" : 21222
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2015,7 +1796,226 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.115" ]
     } ],
-    "uid" : "780096bc4e3e88b19a40e4f5af49684b"
+    "uid" : "6c9a512fdbedd4eeca704dc1ce1ad1cb"
+  }, {
+    "name" : "0-18",
+    "children" : [ {
+      "name" : "Should verify that inputs are displayed in reservation form.",
+      "uid" : "3d50049db44f9b93",
+      "parentUid" : "9b6fce0703105effa30684446694b52a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476684026,
+        "stop" : 1655476706945,
+        "duration" : 22919
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should add new inputs for existing template.",
+      "uid" : "656732d89d4b5388",
+      "parentUid" : "9b6fce0703105effa30684446694b52a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476645552,
+        "stop" : 1655476678816,
+        "duration" : 33264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should apply edited template for project type.",
+      "uid" : "7c6f6dbcd38ec86d",
+      "parentUid" : "9b6fce0703105effa30684446694b52a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476678817,
+        "stop" : 1655476684026,
+        "duration" : 5209
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "9b6fce0703105effa30684446694b52a"
+  }, {
+    "name" : "0-12",
+    "children" : [ {
+      "name" : "Should verify that \"Sales Manager\" can't delete created project testProject1",
+      "uid" : "bc1f144310276f2d",
+      "parentUid" : "3c0b453c84aea96f308f0a9e6f2874a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476445528,
+        "stop" : 1655476487749,
+        "duration" : 42221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "3c0b453c84aea96f308f0a9e6f2874a1"
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Should reserve project as \"Sales Manager\" for 2023-06-12 configuration with testArea1 slot name.",
+      "uid" : "fb261a008560635a",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476050514,
+        "stop" : 1655476087478,
+        "duration" : 36964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "0-44",
+    "children" : [ {
+      "name" : "Should set filters as you set for scheduling date and verify deleting.",
+      "uid" : "7a29a856d4679089",
+      "parentUid" : "38190674fb75ff6ac7709f4341813211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477674345,
+        "stop" : 1655477674491,
+        "duration" : 146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    }, {
+      "name" : "Should delete created configuration.",
+      "uid" : "9c20ee8d0d579cad",
+      "parentUid" : "38190674fb75ff6ac7709f4341813211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477660699,
+        "stop" : 1655477674345,
+        "duration" : 13646
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "38190674fb75ff6ac7709f4341813211"
+  }, {
+    "name" : "0-6",
+    "children" : [ {
+      "name" : "Should verify that can't move project testProject1 to date without empty slots",
+      "uid" : "4c5e99055bcf432e",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476135501,
+        "stop" : 1655476194704,
+        "duration" : 59203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "6d5170ae525a2fb0dfa4066ed7bef924"
+  }, {
+    "name" : "0-37",
+    "children" : [ {
+      "name" : "Should verify that configuration added until the end of this year.",
+      "uid" : "e8d860ae1f39253b",
+      "parentUid" : "247bf427085a5d2aa5f492542b86e6ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655477465650,
+        "stop" : 1655477484254,
+        "duration" : 18604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "247bf427085a5d2aa5f492542b86e6ff"
+  }, {
+    "name" : "0-10",
+    "children" : [ {
+      "name" : "Should edit created project testProject1",
+      "uid" : "cc4017179757e467",
+      "parentUid" : "3f2dd9e80d7805015ea425d74386154b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476355558,
+        "stop" : 1655476398952,
+        "duration" : 43394
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "3f2dd9e80d7805015ea425d74386154b"
+  }, {
+    "name" : "0-17",
+    "children" : [ {
+      "name" : "Should delete created template.",
+      "uid" : "f1561b006e90a6ce",
+      "parentUid" : "755412520b2351a00766109f74fd20c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476620537,
+        "stop" : 1655476642517,
+        "duration" : 21980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.115" ]
+    } ],
+    "uid" : "755412520b2351a00766109f74fd20c9"
   } ],
   "name" : "timeline"
 }

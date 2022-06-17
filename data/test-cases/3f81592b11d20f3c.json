@@ -1,0 +1,62 @@
+{
+  "uid" : "3f81592b11d20f3c",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "fullName" : "C54: The scheduler can delete areas at existing configuration.Should set filters for edited configuration and verify editing.",
+  "historyId" : "19fbc2b2797427f0d0bfe8d5b98a2f1",
+  "time" : {
+    "start" : 1655477561171,
+    "stop" : 1655477570857,
+    "duration" : 9686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-40"
+  }, {
+    "name" : "suite",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "testClass",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify editing."
+  }, {
+    "name" : "package",
+    "value" : "C54: The scheduler can delete areas at existing configuration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f81592b11d20f3c.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

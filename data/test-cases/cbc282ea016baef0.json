@@ -1,0 +1,62 @@
+{
+  "uid" : "cbc282ea016baef0",
+  "name" : "Should delete the template.",
+  "fullName" : "C129: *Check current projects and form structure for stability after changing/deleting template.Should delete the template.",
+  "historyId" : "c0956be867c76f709ddbebc5da15e4ef",
+  "time" : {
+    "start" : 1655476993051,
+    "stop" : 1655476998142,
+    "duration" : 5091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testClass",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should delete the template."
+  }, {
+    "name" : "package",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbc282ea016baef0.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

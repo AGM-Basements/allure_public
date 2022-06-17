@@ -1,0 +1,62 @@
+{
+  "uid" : "fa47886d90bae9ed",
+  "name" : "Should set filters for edited configuration and verify editing.",
+  "fullName" : "С10: The scheduler can edit date at existing configuration.Should set filters for edited configuration and verify editing.",
+  "historyId" : "acf2bc7b4f5203656a3ad5078c793be1",
+  "time" : {
+    "start" : 1655477371099,
+    "stop" : 1655477381189,
+    "duration" : 10090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-32"
+  }, {
+    "name" : "suite",
+    "value" : "С10: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "testClass",
+    "value" : "С10: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should set filters for edited configuration and verify editing."
+  }, {
+    "name" : "package",
+    "value" : "С10: The scheduler can edit date at existing configuration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa47886d90bae9ed.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

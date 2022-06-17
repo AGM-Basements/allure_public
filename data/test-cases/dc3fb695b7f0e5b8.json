@@ -1,0 +1,62 @@
+{
+  "uid" : "dc3fb695b7f0e5b8",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C125: Inability to save a template with an existing template name.Should click the \"Update Schedule\" button.",
+  "historyId" : "407e7564c4856d927f18de5d4d4edd40",
+  "time" : {
+    "start" : 1655476765543,
+    "stop" : 1655476786765,
+    "duration" : 21222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-20"
+  }, {
+    "name" : "suite",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "testClass",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C125: Inability to save a template with an existing template name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc3fb695b7f0e5b8.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

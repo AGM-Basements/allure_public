@@ -1,0 +1,70 @@
+{
+  "uid" : "f9e909ead3c010af",
+  "name" : "Should check the project №2 - it isn't changed after applying the template.",
+  "fullName" : "C129: *Check current projects and form structure for stability after changing/deleting template.Should check the project №2 - it isn't changed after applying the template.",
+  "historyId" : "6f8cd878dcb1ee9fa093bf182481e38e",
+  "time" : {
+    "start" : 1655477000465,
+    "stop" : 1655477000773,
+    "duration" : 308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-23"
+  }, {
+    "name" : "suite",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testClass",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should check the project №2 - it isn't changed after applying the template."
+  }, {
+    "name" : "package",
+    "value" : "C129: *Check current projects and form structure for stability after changing/deleting template"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e9ea299c4c651640",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655476992708,
+        "stop" : 1655476993050,
+        "duration" : 342
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9e909ead3c010af.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,5 +1,51 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"div[role=\"presentation\"] input[name=\"label\"]\") still not displayed after 20000ms",
+      "children" : [ {
+        "name" : "Should edit created input from form structure",
+        "uid" : "d654294d04bde577",
+        "parentUid" : "811bc30afacd730deb0771463b7bf2d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655477123400,
+          "stop" : 1655477145778,
+          "duration" : 22378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.115" ]
+      } ],
+      "uid" : "811bc30afacd730deb0771463b7bf2d0"
+    }, {
+      "name" : "element (\"#select-countryId\") still not clickable after 15000ms",
+      "children" : [ {
+        "name" : "Should verify that input is deleted in reserve form",
+        "uid" : "78c7e0e7bf8f92f",
+        "parentUid" : "c8f611c54fb85086641f2aac68181c8d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655477145779,
+          "stop" : 1655477174840,
+          "duration" : 29061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-102.0.5005.115" ]
+      } ],
+      "uid" : "c8f611c54fb85086641f2aac68181c8d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

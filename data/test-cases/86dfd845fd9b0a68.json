@@ -1,0 +1,62 @@
+{
+  "uid" : "86dfd845fd9b0a68",
+  "name" : "C26: Should search with empty fields",
+  "fullName" : "C20,C23,C25,C26,C38: Project search.C26: Should search with empty fields",
+  "historyId" : "c1ddb10723abc50d7e948512f69560ab",
+  "time" : {
+    "start" : 1655475961381,
+    "stop" : 1655475963572,
+    "duration" : 2191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "C20,C23,C25,C26,C38: Project search"
+  }, {
+    "name" : "testClass",
+    "value" : "C20,C23,C25,C26,C38: Project search"
+  }, {
+    "name" : "testMethod",
+    "value" : "C26: Should search with empty fields"
+  }, {
+    "name" : "package",
+    "value" : "C20,C23,C25,C26,C38: Project search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86dfd845fd9b0a68.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "cf1e9bcc1ebbab97",
+  "name" : "Should click the \"Update Schedule\" button.",
+  "fullName" : "C126: Select \"non template\" from the drop-down menu.Should click the \"Update Schedule\" button.",
+  "historyId" : "2bbb2fe9d7e7decdc086524750e4c6f1",
+  "time" : {
+    "start" : 1655476815562,
+    "stop" : 1655476837355,
+    "duration" : 21793
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-21"
+  }, {
+    "name" : "suite",
+    "value" : "C126: Select \"non template\" from the drop-down menu"
+  }, {
+    "name" : "testClass",
+    "value" : "C126: Select \"non template\" from the drop-down menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click the \"Update Schedule\" button."
+  }, {
+    "name" : "package",
+    "value" : "C126: Select \"non template\" from the drop-down menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf1e9bcc1ebbab97.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

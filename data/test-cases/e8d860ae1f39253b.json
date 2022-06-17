@@ -1,0 +1,62 @@
+{
+  "uid" : "e8d860ae1f39253b",
+  "name" : "Should verify that configuration added until the end of this year.",
+  "fullName" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year.Should verify that configuration added until the end of this year.",
+  "historyId" : "10ad52bd390dbf93ee230beedf498d2d",
+  "time" : {
+    "start" : 1655477465650,
+    "stop" : 1655477484254,
+    "duration" : 18604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-37"
+  }, {
+    "name" : "suite",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year"
+  }, {
+    "name" : "testClass",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that configuration added until the end of this year."
+  }, {
+    "name" : "package",
+    "value" : "C39: After creating first configuration for a region we get all the available slots per weeks for the calendar year"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8d860ae1f39253b.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

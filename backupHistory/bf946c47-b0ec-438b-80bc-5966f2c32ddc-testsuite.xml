@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655477105621' stop='1655477174840'>
+    <name>C17: The scheduler can edit an existing input field.</name>
+    <title>C17: The scheduler can edit an existing input field.</title>
+    <test-cases>
+        <test-case start='1655477105621' status='passed' stop='1655477123400'>
+            <name>Should click the "Update Form Structure" button.</name>
+            <title>Should click the "Update Form Structure" button.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-26'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-26'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1655477123400' status='broken' stop='1655477145778'>
+            <name>Should edit created input from form structure</name>
+            <title>Should edit created input from form structure</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-26'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e580a629-7b75-4cd7-ab9d-c2a5899359c7-attachment.png' type='image/png' size='41093'/>
+            </attachments>
+            <failure>
+                <message>element ("div[role="presentation"] input[name="label"]") still not displayed after 20000ms</message>
+                <stack-trace>Error: element ("div[role="presentation"] input[name="label"]") still not displayed after 20000ms
+                    at async FormStructurePage.waitForElementDisplayed (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:75:9)
+                    at async FormStructurePage.setValue (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:289:9)
+                    at async FormStructurePage.editInput (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:190:13)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1655477145779' status='broken' stop='1655477174840'>
+            <name>Should verify that input is deleted in reserve form</name>
+            <title>Should verify that input is deleted in reserve form</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-26'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-26'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b679cca6-0a38-4b1c-8d01-29715edfca5c-attachment.png' type='image/png' size='41093'/>
+            </attachments>
+            <failure>
+                <message>element ("#select-countryId") still not clickable after 15000ms</message>
+                <stack-trace>Error: element ("#select-countryId") still not clickable after 15000ms
+                    at async FilterPage.waitForElementClickable (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:87:9)
+                    at async FilterPage.click (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:137:9)
+                    at async FilterPage.selectDdlCountryByText (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/projects.page.ts:155:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

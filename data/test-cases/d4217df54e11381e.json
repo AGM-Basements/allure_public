@@ -1,0 +1,62 @@
+{
+  "uid" : "d4217df54e11381e",
+  "name" : "C4: Login without any credentials.",
+  "fullName" : "C3,C4,C5,C6,C12: Login.C4: Login without any credentials.",
+  "historyId" : "42d2cdb247aaaeef46d7d42ee02155d5",
+  "time" : {
+    "start" : 1655475913534,
+    "stop" : 1655475914151,
+    "duration" : 617
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "testClass",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "C4: Login without any credentials."
+  }, {
+    "name" : "package",
+    "value" : "C3,C4,C5,C6,C12: Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4217df54e11381e.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

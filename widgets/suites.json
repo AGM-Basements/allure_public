@@ -1,6 +1,17 @@
 {
   "total" : 41,
   "items" : [ {
+    "uid" : "29586c611f6d3968bddaec8e4e629c66",
+    "name" : "C17: The scheduler can edit an existing input field.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
     "uid" : "c4490836ca6aa77dc8a64fc69f1643c7",
     "name" : "C129: *Check current projects and form structure for stability after changing/deleting template",
     "statistic" : {
@@ -91,17 +102,6 @@
   }, {
     "uid" : "8c79d6b2648cafa012d2b389cfc1b727",
     "name" : "C15: The scheduler can add a new column",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 3
-    }
-  }, {
-    "uid" : "f346661d5aab31c60864375d10bd514b",
-    "name" : "C16: The scheduler can delete an existing column",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

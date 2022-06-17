@@ -1,0 +1,86 @@
+{
+  "uid" : "d654294d04bde577",
+  "name" : "Should edit created input from form structure",
+  "fullName" : "C17: The scheduler can edit an existing input field..Should edit created input from form structure",
+  "historyId" : "10f3a084a3f322fc0736c9b4a93bf8fb",
+  "time" : {
+    "start" : 1655477123400,
+    "stop" : 1655477145778,
+    "duration" : 22378
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"div[role=\"presentation\"] input[name=\"label\"]\") still not displayed after 20000ms",
+  "statusTrace" : "Error: element (\"div[role=\"presentation\"] input[name=\"label\"]\") still not displayed after 20000ms\n                    at async FormStructurePage.waitForElementDisplayed (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:75:9)\n                    at async FormStructurePage.setValue (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:289:9)\n                    at async FormStructurePage.editInput (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:190:13)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"div[role=\"presentation\"] input[name=\"label\"]\") still not displayed after 20000ms",
+    "statusTrace" : "Error: element (\"div[role=\"presentation\"] input[name=\"label\"]\") still not displayed after 20000ms\n                    at async FormStructurePage.waitForElementDisplayed (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:75:9)\n                    at async FormStructurePage.setValue (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/page.ts:289:9)\n                    at async FormStructurePage.editInput (/home/runner/work/tests_master_schedule/tests_master_schedule/test/pageobjects/formStructure.page.ts:190:13)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6087a9553d08703c",
+      "name" : "Screenshot",
+      "source" : "6087a9553d08703c.png",
+      "type" : "image/png",
+      "size" : 41093
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-26"
+  }, {
+    "name" : "suite",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testClass",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "testMethod",
+    "value" : "Should edit created input from form structure"
+  }, {
+    "name" : "package",
+    "value" : "C17: The scheduler can edit an existing input field."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d654294d04bde577.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

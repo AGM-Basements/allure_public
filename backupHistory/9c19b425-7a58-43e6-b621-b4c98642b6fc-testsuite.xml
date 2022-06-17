@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655477415650' stop='1655477433974'>
+    <name>C14: The scheduler can add a configuration with certain date for the United States of America country</name>
+    <title>C14: The scheduler can add a configuration with certain date for the United States of America country</title>
+    <test-cases>
+        <test-case start='1655477415650' status='passed' stop='1655477417904'>
+            <name>Should click the "Update Schedule" button.</name>
+            <title>Should click the "Update Schedule" button.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-34'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-34'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1655477417905' status='passed' stop='1655477424043'>
+            <name>Should select "Country", "Project type" and "Region" from ddl, set date, area name and click "Save" btn.</name>
+            <title>Should select "Country", "Project type" and "Region" from ddl, set date, area name and click "Save" btn.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-34'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1655477424044' status='passed' stop='1655477433973'>
+            <name>Should set filters as you set for scheduling date.</name>
+            <title>Should set filters as you set for scheduling date.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-34'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-34'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

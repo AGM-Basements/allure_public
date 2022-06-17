@@ -1,0 +1,62 @@
+{
+  "uid" : "26be0ba5b1a1e960",
+  "name" : "Should verify that created required field is displayed in form structure.",
+  "fullName" : "C127: Create a form structure with required field (text).Should verify that created required field is displayed in form structure.",
+  "historyId" : "cbe053a02783f70e1df2764cf7383adb",
+  "time" : {
+    "start" : 1655476889609,
+    "stop" : 1655476905630,
+    "duration" : 16021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-22"
+  }, {
+    "name" : "suite",
+    "value" : "C127: Create a form structure with required field (text)"
+  }, {
+    "name" : "testClass",
+    "value" : "C127: Create a form structure with required field (text)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that created required field is displayed in form structure."
+  }, {
+    "name" : "package",
+    "value" : "C127: Create a form structure with required field (text)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26be0ba5b1a1e960.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

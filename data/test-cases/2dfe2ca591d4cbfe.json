@@ -1,0 +1,62 @@
+{
+  "uid" : "2dfe2ca591d4cbfe",
+  "name" : "Should try to add configuration with empty area name field.",
+  "fullName" : "С8: The scheduler can add a configuration with certain date for Canada country.Should try to add configuration with empty area name field.",
+  "historyId" : "97e453392cf81a087f51a8bf46013412",
+  "time" : {
+    "start" : 1655477442881,
+    "stop" : 1655477448417,
+    "duration" : 5536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-35"
+  }, {
+    "name" : "suite",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testClass",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should try to add configuration with empty area name field."
+  }, {
+    "name" : "package",
+    "value" : "С8: The scheduler can add a configuration with certain date for Canada country"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dfe2ca591d4cbfe.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

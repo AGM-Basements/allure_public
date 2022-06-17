@@ -1,0 +1,62 @@
+{
+  "uid" : "d060b7c6787fcb8d",
+  "name" : "Should verify that project without required field value cannot be created",
+  "fullName" : "C128: Creating a new project and checking a required field (text).Should verify that project without required field value cannot be created",
+  "historyId" : "b4b5475c4fc753fcddb61ab01c354519",
+  "time" : {
+    "start" : 1655475995522,
+    "stop" : 1655476025566,
+    "duration" : 30044
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "C128: Creating a new project and checking a required field (text)"
+  }, {
+    "name" : "testClass",
+    "value" : "C128: Creating a new project and checking a required field (text)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify that project without required field value cannot be created"
+  }, {
+    "name" : "package",
+    "value" : "C128: Creating a new project and checking a required field (text)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.115"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d060b7c6787fcb8d.json",
+  "parameterValues" : [ "chrome-102.0.5005.115" ]
+}

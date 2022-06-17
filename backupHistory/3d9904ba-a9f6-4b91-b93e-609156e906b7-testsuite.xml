@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1655477385654' stop='1655477410171'>
+    <name>С13: The scheduler can edit date at existing configuration</name>
+    <title>С13: The scheduler can edit date at existing configuration</title>
+    <test-cases>
+        <test-case start='1655477385654' status='passed' stop='1655477410171'>
+            <name>Should verify that date is displayed only in the "Project type" that you set for the scheduling date.</name>
+            <title>Should verify that date is displayed only in the "Project type" that you set for the scheduling date.</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-33'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-33'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-33'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.115'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
